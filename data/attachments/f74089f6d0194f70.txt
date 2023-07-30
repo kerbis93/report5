@@ -1,0 +1,26 @@
+[
+  {
+    "query": "heart beat",
+    "Name": "Heartbeat, pulse, throbbing",
+    "id": "27955",
+    "second_level": "2138"
+  },
+  {
+    "query": "heart beat",
+    "Name": "Designed - heartbeat accelerating",
+    "id": "29133",
+    "second_level": "2211"
+  },
+  {
+    "query": "heart beat",
+    "Name": "Biofeedback - Heartbeat, Fast",
+    "id": "41832",
+    "second_level": "3138"
+  },
+  {
+    "query": "heart beat",
+    "Name": "Pulse, Sub, Mechanic Heart Beat, Heavy, 120 BPM",
+    "id": "43807",
+    "second_level": "3289"
+  }
+]

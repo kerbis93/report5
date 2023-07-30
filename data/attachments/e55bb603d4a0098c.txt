@@ -1,0 +1,26 @@
+[
+  {
+    "query": "glass",
+    "Name": "Damage - Glass Getting Crushed",
+    "id": "66021",
+    "second_level": "5164"
+  },
+  {
+    "query": "glass",
+    "Name": "Practical Magic - Glass Breaking, Shattering",
+    "id": "66374",
+    "second_level": "5205"
+  },
+  {
+    "query": "glass",
+    "Name": "Kitchen Prep - Ice cubes, Shaken Inside Glass",
+    "id": "67959",
+    "second_level": "5333"
+  },
+  {
+    "query": "glass",
+    "Name": "Fragile - Glass Shards, Cleaning, Sweeping, Scoop Up",
+    "id": "70450",
+    "second_level": "5523"
+  }
+]
