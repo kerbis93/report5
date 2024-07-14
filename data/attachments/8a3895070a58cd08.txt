@@ -1,0 +1,952 @@
+[
+  {
+    "name": "My Ever After",
+    "id": "119539",
+    "order": 0
+  },
+  {
+    "name": "Real Shit Boi",
+    "id": "119538",
+    "order": 1
+  },
+  {
+    "name": "Bang Bang",
+    "id": "119540",
+    "order": 2
+  },
+  {
+    "name": "Dance of the Sugar Plum Fairy",
+    "id": "107766",
+    "order": 3
+  },
+  {
+    "name": "Warriors of the Past",
+    "id": "81400",
+    "order": 4
+  },
+  {
+    "name": "You Da Devil - Instrumental Version",
+    "id": "102960",
+    "order": 5
+  },
+  {
+    "name": "World of Absolutes",
+    "id": "79571",
+    "order": 6
+  },
+  {
+    "name": "Heartless (feat. Paul Udarov)",
+    "id": "69175",
+    "order": 7
+  },
+  {
+    "name": "Crash and Burn - Instrumental Version",
+    "id": "51431",
+    "order": 8
+  },
+  {
+    "name": "Head Charge",
+    "id": "56215",
+    "order": 9
+  },
+  {
+    "name": "Waltz of the Flowers",
+    "id": "107767",
+    "order": 10
+  },
+  {
+    "name": "You Da Devil - No Lead Vocals",
+    "id": "102942",
+    "order": 11
+  },
+  {
+    "name": "Cyclone",
+    "id": "99499",
+    "order": 12
+  },
+  {
+    "name": "Zero Gravity",
+    "id": "66522",
+    "order": 13
+  },
+  {
+    "name": "Apocalypse Inside",
+    "id": "81398",
+    "order": 14
+  },
+  {
+    "name": "March of the Toy Soldiers",
+    "id": "107769",
+    "order": 15
+  },
+  {
+    "name": "Dance of the Reed Flutes",
+    "id": "107768",
+    "order": 16
+  },
+  {
+    "name": "Mudflow",
+    "id": "118473",
+    "order": 17
+  },
+  {
+    "name": "Abysmal Gale",
+    "id": "55291",
+    "order": 18
+  },
+  {
+    "name": "Lemon Tree",
+    "id": "81311",
+    "order": 19
+  },
+  {
+    "name": "Cold Light (feat. Jimmie Strimell)",
+    "id": "76345",
+    "order": 20
+  },
+  {
+    "name": "Ghost Witch",
+    "id": "56216",
+    "order": 21
+  },
+  {
+    "name": "Gain Over",
+    "id": "122350",
+    "order": 22
+  },
+  {
+    "name": "Nothing to Declare!",
+    "id": "81302",
+    "order": 23
+  },
+  {
+    "name": "Bzaat",
+    "id": "93849",
+    "order": 24
+  },
+  {
+    "name": "Too Many Steps - Instrumental Version",
+    "id": "85542",
+    "order": 25
+  },
+  {
+    "name": "Metal Warrior",
+    "id": "115684",
+    "order": 26
+  },
+  {
+    "name": "Magic Show",
+    "id": "51286",
+    "order": 27
+  },
+  {
+    "name": "Ghost Witch - Instrumental Version",
+    "id": "56213",
+    "order": 28
+  },
+  {
+    "name": "Enter the Ring",
+    "id": "56214",
+    "order": 29
+  },
+  {
+    "name": "Magic Show - Instrumental Version",
+    "id": "51432",
+    "order": 30
+  },
+  {
+    "name": "Too Many Steps",
+    "id": "85543",
+    "order": 31
+  },
+  {
+    "name": "Kill Confirmed",
+    "id": "93850",
+    "order": 32
+  },
+  {
+    "name": "Funkoholics Anonymous",
+    "id": "93847",
+    "order": 33
+  },
+  {
+    "name": "My Ever After - Instrumental Version",
+    "id": "119560",
+    "order": 34
+  },
+  {
+    "name": "Pole Position - Alternative Version",
+    "id": "119509",
+    "order": 35
+  },
+  {
+    "name": "Crash and Burn",
+    "id": "51285",
+    "order": 36
+  },
+  {
+    "name": "Caffeine Overload",
+    "id": "128056",
+    "order": 37
+  },
+  {
+    "name": "Muhabaratt",
+    "id": "93848",
+    "order": 38
+  },
+  {
+    "name": "Innocent People Don't Run",
+    "id": "57270",
+    "order": 39
+  },
+  {
+    "name": "Flight of the Bumblebee",
+    "id": "77724",
+    "order": 40
+  },
+  {
+    "name": "I'm Your Leader Now",
+    "id": "128058",
+    "order": 41
+  },
+  {
+    "name": "Silent Treatment",
+    "id": "122462",
+    "order": 42
+  },
+  {
+    "name": "Avalanche",
+    "id": "118472",
+    "order": 43
+  },
+  {
+    "name": "Astral Body",
+    "id": "73454",
+    "order": 44
+  },
+  {
+    "name": "Trapped Flames",
+    "id": "109011",
+    "order": 45
+  },
+  {
+    "name": "Shadowline",
+    "id": "100892",
+    "order": 46
+  },
+  {
+    "name": "Who Is Your God?",
+    "id": "109256",
+    "order": 47
+  },
+  {
+    "name": "World of Absolutes - Instrumental Version",
+    "id": "79572",
+    "order": 48
+  },
+  {
+    "name": "Pole Position",
+    "id": "119510",
+    "order": 49
+  },
+  {
+    "name": "Grand Prix",
+    "id": "119507",
+    "order": 50
+  },
+  {
+    "name": "Metal Warrior - Instrumental Version",
+    "id": "115685",
+    "order": 51
+  },
+  {
+    "name": "King Vultures",
+    "id": "8961",
+    "order": 52
+  },
+  {
+    "name": "Techné",
+    "id": "55320",
+    "order": 53
+  },
+  {
+    "name": "In the Maze",
+    "id": "74073",
+    "order": 54
+  },
+  {
+    "name": "Asian Tiger",
+    "id": "122461",
+    "order": 55
+  },
+  {
+    "name": "The Dirt",
+    "id": "102110",
+    "order": 56
+  },
+  {
+    "name": "Supernova",
+    "id": "100893",
+    "order": 57
+  },
+  {
+    "name": "Nandi",
+    "id": "81303",
+    "order": 58
+  },
+  {
+    "name": "L.A. Suite: Sunset Blvd - Peatloaf Ave",
+    "id": "55290",
+    "order": 59
+  },
+  {
+    "name": "Serenity",
+    "id": "51273",
+    "order": 60
+  },
+  {
+    "name": "Gunseng!",
+    "id": "55297",
+    "order": 61
+  },
+  {
+    "name": "Etry Lvel",
+    "id": "57267",
+    "order": 62
+  },
+  {
+    "name": "All I Wanted - Instrumental Version",
+    "id": "79576",
+    "order": 63
+  },
+  {
+    "name": "Firecracker",
+    "id": "48480",
+    "order": 64
+  },
+  {
+    "name": "You Da Devil",
+    "id": "102941",
+    "order": 65
+  },
+  {
+    "name": "Survivor",
+    "id": "32006",
+    "order": 66
+  },
+  {
+    "name": "Gente innocente non corre",
+    "id": "55318",
+    "order": 67
+  },
+  {
+    "name": "Phenomena",
+    "id": "115442",
+    "order": 68
+  },
+  {
+    "name": "Dark Spaces",
+    "id": "100891",
+    "order": 69
+  },
+  {
+    "name": "Hold My Saw - No Backing Vocals",
+    "id": "125053",
+    "order": 70
+  },
+  {
+    "name": "Bridal Chorus (Here Comes the Bride)",
+    "id": "92664",
+    "order": 71
+  },
+  {
+    "name": "Hold My Saw",
+    "id": "125052",
+    "order": 72
+  },
+  {
+    "name": "Brainstorm",
+    "id": "48800",
+    "order": 73
+  },
+  {
+    "name": "Wildling",
+    "id": "107464",
+    "order": 74
+  },
+  {
+    "name": "Shook Up",
+    "id": "107461",
+    "order": 75
+  },
+  {
+    "name": "Gimme the Keys",
+    "id": "107458",
+    "order": 76
+  },
+  {
+    "name": "All I Wanted",
+    "id": "79575",
+    "order": 77
+  },
+  {
+    "name": "Cold Light (feat. Jimmie Strimell) - Instrumental Version",
+    "id": "76346",
+    "order": 78
+  },
+  {
+    "name": "Hard Way",
+    "id": "72458",
+    "order": 79
+  },
+  {
+    "name": "Anger of the Sands",
+    "id": "99498",
+    "order": 80
+  },
+  {
+    "name": "Colossus",
+    "id": "100890",
+    "order": 81
+  },
+  {
+    "name": "Water Loves Metal",
+    "id": "113484",
+    "order": 82
+  },
+  {
+    "name": "Escape Me",
+    "id": "81399",
+    "order": 83
+  },
+  {
+    "name": "Game Changer",
+    "id": "84200",
+    "order": 84
+  },
+  {
+    "name": "Run If You Dare",
+    "id": "60393",
+    "order": 85
+  },
+  {
+    "name": "In the Labyrinths of Hell",
+    "id": "94667",
+    "order": 86
+  },
+  {
+    "name": "Heartless (feat. Paul Udarov) - Instrumental Version",
+    "id": "69174",
+    "order": 87
+  },
+  {
+    "name": "On the Edge",
+    "id": "88617",
+    "order": 88
+  },
+  {
+    "name": "One More Time",
+    "id": "95161",
+    "order": 89
+  },
+  {
+    "name": "One More Time",
+    "id": "95161",
+    "order": 90
+  },
+  {
+    "name": "A Metal Heart",
+    "id": "100095",
+    "order": 91
+  },
+  {
+    "name": "The Black Rider",
+    "id": "74071",
+    "order": 92
+  },
+  {
+    "name": "Freshest",
+    "id": "78261",
+    "order": 93
+  },
+  {
+    "name": "Razor",
+    "id": "67312",
+    "order": 94
+  },
+  {
+    "name": "They Thought I Was Mad",
+    "id": "70015",
+    "order": 95
+  },
+  {
+    "name": "Indian - Instrumental Version",
+    "id": "130225",
+    "order": 96
+  },
+  {
+    "name": "On the Blade of the Knife",
+    "id": "64422",
+    "order": 97
+  },
+  {
+    "name": "The Abyss",
+    "id": "63706",
+    "order": 98
+  },
+  {
+    "name": "Gotta Get It",
+    "id": "78257",
+    "order": 99
+  },
+  {
+    "name": "The Beast",
+    "id": "86411",
+    "order": 100
+  },
+  {
+    "name": "Escape from Reality",
+    "id": "83548",
+    "order": 101
+  },
+  {
+    "name": "Return Ticket",
+    "id": "125282",
+    "order": 102
+  },
+  {
+    "name": "Indian",
+    "id": "130224",
+    "order": 103
+  },
+  {
+    "name": "Red River",
+    "id": "63707",
+    "order": 104
+  },
+  {
+    "name": "Afterburner",
+    "id": "115683",
+    "order": 105
+  },
+  {
+    "name": "World Chase",
+    "id": "91967",
+    "order": 106
+  },
+  {
+    "name": "Cool Me Down",
+    "id": "115209",
+    "order": 107
+  },
+  {
+    "name": "Night Hunter",
+    "id": "88616",
+    "order": 108
+  },
+  {
+    "name": "Good Fight",
+    "id": "78255",
+    "order": 109
+  },
+  {
+    "name": "Stay Awake - Instrumental Version",
+    "id": "79578",
+    "order": 110
+  },
+  {
+    "name": "Your Riddles",
+    "id": "5574",
+    "order": 111
+  },
+  {
+    "name": "The Last of Our Love",
+    "id": "66146",
+    "order": 112
+  },
+  {
+    "name": "To the Max",
+    "id": "74169",
+    "order": 113
+  },
+  {
+    "name": "The Love - Instrumental Version",
+    "id": "66141",
+    "order": 114
+  },
+  {
+    "name": "The Love - No Lead Vocals",
+    "id": "66147",
+    "order": 115
+  },
+  {
+    "name": "What a World - Instrumental Version",
+    "id": "66145",
+    "order": 116
+  },
+  {
+    "name": "Stay Awake",
+    "id": "79577",
+    "order": 117
+  },
+  {
+    "name": "Fake",
+    "id": "79579",
+    "order": 118
+  },
+  {
+    "name": "Left of You",
+    "id": "8962",
+    "order": 119
+  },
+  {
+    "name": "Carberos",
+    "id": "2312",
+    "order": 120
+  },
+  {
+    "name": "Wedding March",
+    "id": "92663",
+    "order": 121
+  },
+  {
+    "name": "Pedal to the Metal",
+    "id": "88492",
+    "order": 122
+  },
+  {
+    "name": "Project 1",
+    "id": "5569",
+    "order": 123
+  },
+  {
+    "name": "Your Heart - Instrumental Version",
+    "id": "5629",
+    "order": 124
+  },
+  {
+    "name": "White Water",
+    "id": "74065",
+    "order": 125
+  },
+  {
+    "name": "Write a Sentence: The Headbanger's Confusion",
+    "id": "81310",
+    "order": 126
+  },
+  {
+    "name": "We're Going Too Far",
+    "id": "7851",
+    "order": 127
+  },
+  {
+    "name": "Magilla_Trench",
+    "id": "57266",
+    "order": 128
+  },
+  {
+    "name": "Apex",
+    "id": "58872",
+    "order": 129
+  },
+  {
+    "name": "Nitro",
+    "id": "58868",
+    "order": 130
+  },
+  {
+    "name": "Chicane",
+    "id": "58867",
+    "order": 131
+  },
+  {
+    "name": "Overdrive",
+    "id": "58876",
+    "order": 132
+  },
+  {
+    "name": "Jump Start",
+    "id": "58875",
+    "order": 133
+  },
+  {
+    "name": "Dial-In",
+    "id": "58869",
+    "order": 134
+  },
+  {
+    "name": "I Wanna Rock and Roll",
+    "id": "15640",
+    "order": 135
+  },
+  {
+    "name": "BBQ",
+    "id": "55295",
+    "order": 136
+  },
+  {
+    "name": "Kinetic Energy",
+    "id": "15642",
+    "order": 137
+  },
+  {
+    "name": "Beyond the Past",
+    "id": "8958",
+    "order": 138
+  },
+  {
+    "name": "137",
+    "id": "8957",
+    "order": 139
+  },
+  {
+    "name": "Let Go",
+    "id": "74064",
+    "order": 140
+  },
+  {
+    "name": "Think Again",
+    "id": "60394",
+    "order": 141
+  },
+  {
+    "name": "What a World",
+    "id": "66143",
+    "order": 142
+  },
+  {
+    "name": "What a World - Stripped Version",
+    "id": "66142",
+    "order": 143
+  },
+  {
+    "name": "Siren's Ally",
+    "id": "5570",
+    "order": 144
+  },
+  {
+    "name": "Metal",
+    "id": "4736",
+    "order": 145
+  },
+  {
+    "name": "Deep Storm",
+    "id": "5564",
+    "order": 146
+  },
+  {
+    "name": "The Love",
+    "id": "66144",
+    "order": 147
+  },
+  {
+    "name": "Fake - Instrumental Version",
+    "id": "79580",
+    "order": 148
+  },
+  {
+    "name": "Roots - No Synths",
+    "id": "11430",
+    "order": 149
+  },
+  {
+    "name": "On the Dark Side",
+    "id": "63708",
+    "order": 150
+  },
+  {
+    "name": "White Water - Instrumental Version",
+    "id": "77644",
+    "order": 151
+  },
+  {
+    "name": "Fighting Monsters",
+    "id": "5800",
+    "order": 152
+  },
+  {
+    "name": "Running Little Dog",
+    "id": "53060",
+    "order": 153
+  },
+  {
+    "name": "Roots",
+    "id": "11429",
+    "order": 154
+  },
+  {
+    "name": "Forever and a Day",
+    "id": "74062",
+    "order": 155
+  },
+  {
+    "name": "Let Go - Instrumental Version",
+    "id": "77643",
+    "order": 156
+  },
+  {
+    "name": "The Mean One",
+    "id": "33039",
+    "order": 157
+  },
+  {
+    "name": "Heavy Rain",
+    "id": "5566",
+    "order": 158
+  },
+  {
+    "name": "Space Race",
+    "id": "107462",
+    "order": 159
+  },
+  {
+    "name": "Badlands Rage - Instrumental Version",
+    "id": "61240",
+    "order": 160
+  },
+  {
+    "name": "Badlands Rage",
+    "id": "61242",
+    "order": 161
+  },
+  {
+    "name": "Imposters",
+    "id": "61243",
+    "order": 162
+  },
+  {
+    "name": "Polemos Mons",
+    "id": "61241",
+    "order": 163
+  },
+  {
+    "name": "Fitches Pulled at Random",
+    "id": "55289",
+    "order": 164
+  },
+  {
+    "name": "Real Shit Boi - Stripped Version",
+    "id": "119536",
+    "order": 165
+  },
+  {
+    "name": "Speaker Cranker",
+    "id": "107463",
+    "order": 166
+  },
+  {
+    "name": "Forever and a Day - Instrumental Version",
+    "id": "77641",
+    "order": 167
+  },
+  {
+    "name": "In Arcadia - Instrumental Version",
+    "id": "77642",
+    "order": 168
+  },
+  {
+    "name": "Full Force",
+    "id": "56239",
+    "order": 169
+  },
+  {
+    "name": "Anger Streets",
+    "id": "107457",
+    "order": 170
+  },
+  {
+    "name": "Rule Breaker",
+    "id": "107460",
+    "order": 171
+  },
+  {
+    "name": "Hot Baby",
+    "id": "107459",
+    "order": 172
+  },
+  {
+    "name": "They Are Coming",
+    "id": "2311",
+    "order": 173
+  },
+  {
+    "name": "Paranormal",
+    "id": "8963",
+    "order": 174
+  },
+  {
+    "name": "Noon",
+    "id": "34502",
+    "order": 175
+  },
+  {
+    "name": "Break",
+    "id": "5622",
+    "order": 176
+  },
+  {
+    "name": "Break - Instrumental Version",
+    "id": "5621",
+    "order": 177
+  },
+  {
+    "name": "Emissary",
+    "id": "81306",
+    "order": 178
+  },
+  {
+    "name": "Paranormal - Instrumental Version",
+    "id": "35526",
+    "order": 179
+  },
+  {
+    "name": "Gravel",
+    "id": "32004",
+    "order": 180
+  },
+  {
+    "name": "Freedom Freedom Freedom - Drums Version",
+    "id": "15644",
+    "order": 181
+  },
+  {
+    "name": "Hulullúlulu",
+    "id": "55296",
+    "order": 182
+  },
+  {
+    "name": "Overdrive and Vibe",
+    "id": "32005",
+    "order": 183
+  },
+  {
+    "name": "King Vultures - Instrumental Version",
+    "id": "35527",
+    "order": 184
+  },
+  {
+    "name": "Crucial Fracture - Instrumental Version",
+    "id": "35525",
+    "order": 185
+  },
+  {
+    "name": "Slave State - Instrumental Version",
+    "id": "35530",
+    "order": 186
+  },
+  {
+    "name": "Beyond the Past - Instrumental Version",
+    "id": "35532",
+    "order": 187
+  },
+  {
+    "name": "137 - No Lead Vocals",
+    "id": "35523",
+    "order": 188
+  },
+  {
+    "name": "I Wanna Rock and Roll - Drums version",
+    "id": "15641",
+    "order": 189
+  }
+]

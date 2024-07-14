@@ -1,0 +1,602 @@
+[
+  {
+    "query": "backing vocals",
+    "name": "Sally",
+    "id": "108750",
+    "second_level": "8724"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Be Your Star",
+    "id": "2429",
+    "second_level": "341"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Are You There",
+    "id": "6927",
+    "second_level": "1749"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Hello Sunshine",
+    "id": "130278",
+    "second_level": "11059"
+  },
+  {
+    "query": "backing vocals",
+    "name": "A Lot to Do with You",
+    "id": "75963",
+    "second_level": "6033"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Evergreen",
+    "id": "97165",
+    "second_level": "7879"
+  },
+  {
+    "query": "backing vocals",
+    "name": "MouthBeat Grooves",
+    "id": "40124",
+    "second_level": "3008"
+  },
+  {
+    "query": "backing vocals",
+    "name": "So in Love with You",
+    "id": "75967",
+    "second_level": "6033"
+  },
+  {
+    "query": "backing vocals",
+    "name": "To the Woods",
+    "id": "124009",
+    "second_level": "10205"
+  },
+  {
+    "query": "backing vocals",
+    "name": "It's Gonna Be Alright - Acapella Version",
+    "id": "15807",
+    "second_level": "1795"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Change Is",
+    "id": "16154",
+    "second_level": "1832"
+  },
+  {
+    "query": "backing vocals",
+    "name": "To Write Love",
+    "id": "6921",
+    "second_level": "1749"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Tempted - Acapella Version",
+    "id": "15808",
+    "second_level": "1795"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Ominous",
+    "id": "40123",
+    "second_level": "3008"
+  },
+  {
+    "query": "backing vocals",
+    "name": "End of December - Acapella",
+    "id": "9200",
+    "second_level": "1054"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Drowning in Fire",
+    "id": "115675",
+    "second_level": "9494"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Sold Out City",
+    "id": "8918",
+    "second_level": "1749"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Something to Believe",
+    "id": "92521",
+    "second_level": "7479"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Searching",
+    "id": "85840",
+    "second_level": "7012"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Joy to the World",
+    "id": "77450",
+    "second_level": "7669"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Something Good - Acapella - No Claps",
+    "id": "15809",
+    "second_level": "1795"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Everything",
+    "id": "50817",
+    "second_level": "3778"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Summertime Love",
+    "id": "99434",
+    "second_level": "8050"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Be with Me",
+    "id": "16160",
+    "second_level": "1833"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Yes I Am",
+    "id": "77584",
+    "second_level": "6226"
+  },
+  {
+    "query": "backing vocals",
+    "name": "It's Not You",
+    "id": "50819",
+    "second_level": "3778"
+  },
+  {
+    "query": "backing vocals",
+    "name": "The Wonder Years",
+    "id": "99436",
+    "second_level": "8050"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Not Crazy",
+    "id": "92458",
+    "second_level": "3778"
+  },
+  {
+    "query": "backing vocals",
+    "name": "morning always comes",
+    "id": "122539",
+    "second_level": "10053"
+  },
+  {
+    "query": "backing vocals",
+    "name": "All I'll Ever Need",
+    "id": "118641",
+    "second_level": "9650"
+  },
+  {
+    "query": "backing vocals",
+    "name": "The Ninja Path",
+    "id": "130027",
+    "second_level": "10972"
+  },
+  {
+    "query": "backing vocals",
+    "name": "The Champion",
+    "id": "4386",
+    "second_level": "545"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Keeping Score",
+    "id": "86733",
+    "second_level": "7089"
+  },
+  {
+    "query": "backing vocals",
+    "name": "I Like That",
+    "id": "96171",
+    "second_level": "7826"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Seeking the Stars",
+    "id": "85846",
+    "second_level": "7012"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Broken Leg - No Lead Vocals",
+    "id": "92529",
+    "second_level": "7479"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Gold Dust",
+    "id": "101522",
+    "second_level": "8218"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Why I Am so Mad",
+    "id": "92462",
+    "second_level": "3778"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Something Good - Acapella Version",
+    "id": "15810",
+    "second_level": "1795"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Kingdom",
+    "id": "37432",
+    "second_level": "2815"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Too Much (feat. Anjali Asha) - Stripped Version",
+    "id": "126422",
+    "second_level": "10446"
+  },
+  {
+    "query": "backing vocals",
+    "name": "static",
+    "id": "122541",
+    "second_level": "10053"
+  },
+  {
+    "query": "backing vocals",
+    "name": "The Sun Is Dark",
+    "id": "122344",
+    "second_level": "9991"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Never Wanted Anybody",
+    "id": "15074",
+    "second_level": "1695"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Pretty Thing",
+    "id": "120263",
+    "second_level": "9836"
+  },
+  {
+    "query": "backing vocals",
+    "name": "So Simple",
+    "id": "131080",
+    "second_level": "11302"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Pink Cosmos",
+    "id": "83202",
+    "second_level": "6746"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Back Home Again",
+    "id": "121756",
+    "second_level": "9943"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Down to Get Up Again",
+    "id": "65197",
+    "second_level": "5074"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Turn",
+    "id": "10338",
+    "second_level": "1183"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Be like This - Instrumental Version",
+    "id": "53975",
+    "second_level": "4077"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Ana Yelena",
+    "id": "4328",
+    "second_level": "538"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Me sugar",
+    "id": "116562",
+    "second_level": "9429"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Broken Leg",
+    "id": "92527",
+    "second_level": "7479"
+  },
+  {
+    "query": "backing vocals",
+    "name": "We'll Be Here",
+    "id": "81602",
+    "second_level": "6627"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Like a Glove",
+    "id": "71841",
+    "second_level": "5608"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Drowning in Fire - No Lead Vocals",
+    "id": "115676",
+    "second_level": "9494"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Only for You",
+    "id": "94084",
+    "second_level": "7642"
+  },
+  {
+    "query": "backing vocals",
+    "name": "With You",
+    "id": "4166",
+    "second_level": "523"
+  },
+  {
+    "query": "backing vocals",
+    "name": "House That's Made of You",
+    "id": "46784",
+    "second_level": "2657"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Moon Mother - No Lead Vocals",
+    "id": "102917",
+    "second_level": "8367"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Dark",
+    "id": "65641",
+    "second_level": "5140"
+  },
+  {
+    "query": "backing vocals",
+    "name": "On My Mind - No Lead Vocals",
+    "id": "122458",
+    "second_level": "10017"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Patience",
+    "id": "11380",
+    "second_level": "1290"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Day One - No Lead Vocals",
+    "id": "50281",
+    "second_level": "1095"
+  },
+  {
+    "query": "backing vocals",
+    "name": "As Long As",
+    "id": "108919",
+    "second_level": "8744"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Find My Love",
+    "id": "68637",
+    "second_level": "5377"
+  },
+  {
+    "query": "backing vocals",
+    "name": "My Parents Love Song",
+    "id": "130135",
+    "second_level": "10999"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Swing Low",
+    "id": "129081",
+    "second_level": "10889"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Hold Me Closer",
+    "id": "92556",
+    "second_level": "7484"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Ready for the Road - Acapella",
+    "id": "9204",
+    "second_level": "1054"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Bell",
+    "id": "92524",
+    "second_level": "7479"
+  },
+  {
+    "query": "backing vocals",
+    "name": "When You're Older",
+    "id": "6926",
+    "second_level": "857"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Calm the Beast",
+    "id": "92454",
+    "second_level": "3778"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Too Much (feat. Anjali Asha)",
+    "id": "126423",
+    "second_level": "10446"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Make It",
+    "id": "2399",
+    "second_level": "818"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Wild River Bend",
+    "id": "127025",
+    "second_level": "10564"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Somewhere We Were Stars",
+    "id": "15532",
+    "second_level": "1749"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Where I Wanna Be - Acapella",
+    "id": "9207",
+    "second_level": "1054"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Don't Ya Lose Yourself",
+    "id": "93471",
+    "second_level": "7148"
+  },
+  {
+    "query": "backing vocals",
+    "name": "I See",
+    "id": "3548",
+    "second_level": "464"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Hold Christmas (feat. Jake Hansen  Emma Reneer)",
+    "id": "130567",
+    "second_level": "11113"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Never Over",
+    "id": "123992",
+    "second_level": "10200"
+  },
+  {
+    "query": "backing vocals",
+    "name": "I'll Be There",
+    "id": "10951",
+    "second_level": "1244"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Cactus Flower",
+    "id": "130143",
+    "second_level": "11001"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Out of This Town",
+    "id": "41536",
+    "second_level": "3105"
+  },
+  {
+    "query": "backing vocals",
+    "name": "On My Mind",
+    "id": "122456",
+    "second_level": "10017"
+  },
+  {
+    "query": "backing vocals",
+    "name": "I Knew",
+    "id": "118639",
+    "second_level": "9650"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Fading to Black",
+    "id": "9734",
+    "second_level": "1114"
+  },
+  {
+    "query": "backing vocals",
+    "name": "C'est carré",
+    "id": "116564",
+    "second_level": "9429"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Friendless Night",
+    "id": "67229",
+    "second_level": "5264"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Young until We Die",
+    "id": "124001",
+    "second_level": "10201"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Safe - Stripped Version",
+    "id": "67871",
+    "second_level": "5325"
+  },
+  {
+    "query": "backing vocals",
+    "name": "In a Dream - No Lead Vocals",
+    "id": "9873",
+    "second_level": "1135"
+  },
+  {
+    "query": "backing vocals",
+    "name": "My Light",
+    "id": "99432",
+    "second_level": "8050"
+  },
+  {
+    "query": "backing vocals",
+    "name": "We're All Having Fun - No Lead Vocals",
+    "id": "67876",
+    "second_level": "5325"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Pieces",
+    "id": "107911",
+    "second_level": "8666"
+  },
+  {
+    "query": "backing vocals",
+    "name": "What If I Told You",
+    "id": "63847",
+    "second_level": "4952"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Summertime Love - Instrumental Version",
+    "id": "99435",
+    "second_level": "8050"
+  },
+  {
+    "query": "backing vocals",
+    "name": "Wait On Me",
+    "id": "115437",
+    "second_level": "9279"
+  }
+]

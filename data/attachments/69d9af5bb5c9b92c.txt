@@ -1,0 +1,602 @@
+[
+  {
+    "query": "asian",
+    "name": "An Eastern Sanctuary",
+    "id": "3122",
+    "second_level": "427"
+  },
+  {
+    "query": "asian",
+    "name": "Issho (Together)",
+    "id": "112729",
+    "second_level": "9023"
+  },
+  {
+    "query": "asian",
+    "name": "Manatsu Ni Haeru (Glowing on a Midsummer Night)",
+    "id": "38944",
+    "second_level": "2942"
+  },
+  {
+    "query": "asian",
+    "name": "Nakusita Kakera (Pieces Lost)",
+    "id": "38946",
+    "second_level": "2942"
+  },
+  {
+    "query": "asian",
+    "name": "Tamura's Journey",
+    "id": "114581",
+    "second_level": "9161"
+  },
+  {
+    "query": "asian",
+    "name": "Amazing Grace",
+    "id": "121503",
+    "second_level": "9933"
+  },
+  {
+    "query": "asian",
+    "name": "Sakura Fubuki - Stripped Version",
+    "id": "97694",
+    "second_level": "7959"
+  },
+  {
+    "query": "asian",
+    "name": "Shi ga futari o wakatsu made (Till Death Do Us Part)",
+    "id": "112730",
+    "second_level": "9023"
+  },
+  {
+    "query": "asian",
+    "name": "Optical Illusion",
+    "id": "10960",
+    "second_level": "1245"
+  },
+  {
+    "query": "asian",
+    "name": "Xiang Fei Lei",
+    "id": "60293",
+    "second_level": "4607"
+  },
+  {
+    "query": "asian",
+    "name": "Inner Sound",
+    "id": "10958",
+    "second_level": "1245"
+  },
+  {
+    "query": "asian",
+    "name": "Near Oblivion",
+    "id": "129390",
+    "second_level": "10835"
+  },
+  {
+    "query": "asian",
+    "name": "Taiyō (Sun)",
+    "id": "38949",
+    "second_level": "2942"
+  },
+  {
+    "query": "asian",
+    "name": "Taiyaki",
+    "id": "96919",
+    "second_level": "7864"
+  },
+  {
+    "query": "asian",
+    "name": "Flying on the Horizon",
+    "id": "10956",
+    "second_level": "1245"
+  },
+  {
+    "query": "asian",
+    "name": "An Eastern Tale",
+    "id": "3124",
+    "second_level": "427"
+  },
+  {
+    "query": "asian",
+    "name": "Lunar New Year Overture",
+    "id": "60291",
+    "second_level": "4607"
+  },
+  {
+    "query": "asian",
+    "name": "Koto Story in Kyoto (feat. George Nishigomi)",
+    "id": "129560",
+    "second_level": "10935"
+  },
+  {
+    "query": "asian",
+    "name": "An Eastern Reflection",
+    "id": "3121",
+    "second_level": "427"
+  },
+  {
+    "query": "asian",
+    "name": "Moon Dance",
+    "id": "60292",
+    "second_level": "4607"
+  },
+  {
+    "query": "asian",
+    "name": "The Ninja Path",
+    "id": "130027",
+    "second_level": "10972"
+  },
+  {
+    "query": "asian",
+    "name": "Sakura Fubuki",
+    "id": "97699",
+    "second_level": "7959"
+  },
+  {
+    "query": "asian",
+    "name": "Dance of the Red Crowns",
+    "id": "114583",
+    "second_level": "9161"
+  },
+  {
+    "query": "asian",
+    "name": "Freedom",
+    "id": "10957",
+    "second_level": "1245"
+  },
+  {
+    "query": "asian",
+    "name": "Manatsu Ni Haeru (Glowing on a Midsummer Night) - Instrumental Version",
+    "id": "38945",
+    "second_level": "2942"
+  },
+  {
+    "query": "asian",
+    "name": "Nakusita Kakera (Pieces Lost) - Instrumental Version",
+    "id": "38947",
+    "second_level": "2942"
+  },
+  {
+    "query": "asian",
+    "name": "A Faraway Place",
+    "id": "97697",
+    "second_level": "7959"
+  },
+  {
+    "query": "asian",
+    "name": "Shakainmisaka Yuhodo",
+    "id": "96921",
+    "second_level": "7864"
+  },
+  {
+    "query": "asian",
+    "name": "Spring River Flower Moon Night",
+    "id": "75619",
+    "second_level": "5986"
+  },
+  {
+    "query": "asian",
+    "name": "Kumiko",
+    "id": "102190",
+    "second_level": "8265"
+  },
+  {
+    "query": "asian",
+    "name": "Taiyō (Sun) - Instrumental Version",
+    "id": "38948",
+    "second_level": "2942"
+  },
+  {
+    "query": "asian",
+    "name": "Hikaru (To Shine)",
+    "id": "102189",
+    "second_level": "8265"
+  },
+  {
+    "query": "asian",
+    "name": "Purity",
+    "id": "10961",
+    "second_level": "1245"
+  },
+  {
+    "query": "asian",
+    "name": "Dream Tiger",
+    "id": "97695",
+    "second_level": "7959"
+  },
+  {
+    "query": "asian",
+    "name": "Brand New Day",
+    "id": "67179",
+    "second_level": "5251"
+  },
+  {
+    "query": "asian",
+    "name": "The Southern Lake",
+    "id": "114582",
+    "second_level": "9161"
+  },
+  {
+    "query": "asian",
+    "name": "The Song of Five Souls",
+    "id": "71995",
+    "second_level": "5632"
+  },
+  {
+    "query": "asian",
+    "name": "Mishima Fantasy",
+    "id": "97698",
+    "second_level": "7959"
+  },
+  {
+    "query": "asian",
+    "name": "Mishima Fantasy - No Lead",
+    "id": "97692",
+    "second_level": "7959"
+  },
+  {
+    "query": "asian",
+    "name": "Xiao Among the Skyscrapers",
+    "id": "57257",
+    "second_level": "4384"
+  },
+  {
+    "query": "asian",
+    "name": "Mountains of Madness",
+    "id": "39472",
+    "second_level": "2972"
+  },
+  {
+    "query": "asian",
+    "name": "Ichi-no-Tani",
+    "id": "96920",
+    "second_level": "7864"
+  },
+  {
+    "query": "asian",
+    "name": "Zen",
+    "id": "76351",
+    "second_level": "5915"
+  },
+  {
+    "query": "asian",
+    "name": "The Lotus Flower",
+    "id": "92441",
+    "second_level": "7458"
+  },
+  {
+    "query": "asian",
+    "name": "No Lie - No Lead Vocals",
+    "id": "36446",
+    "second_level": "2733"
+  },
+  {
+    "query": "asian",
+    "name": "Train to Fuji - No Backing Vocals",
+    "id": "122805",
+    "second_level": "10113"
+  },
+  {
+    "query": "asian",
+    "name": "Sakura",
+    "id": "97306",
+    "second_level": "7897"
+  },
+  {
+    "query": "asian",
+    "name": "Voice of Windy",
+    "id": "39474",
+    "second_level": "2972"
+  },
+  {
+    "query": "asian",
+    "name": "Daishō (Two Swords)",
+    "id": "102191",
+    "second_level": "8265"
+  },
+  {
+    "query": "asian",
+    "name": "Try Again",
+    "id": "10962",
+    "second_level": "1245"
+  },
+  {
+    "query": "asian",
+    "name": "Alto Viento",
+    "id": "130026",
+    "second_level": "10971"
+  },
+  {
+    "query": "asian",
+    "name": "Spring Sprouts",
+    "id": "87261",
+    "second_level": "7127"
+  },
+  {
+    "query": "asian",
+    "name": "Kiyomizu-dera",
+    "id": "97308",
+    "second_level": "7897"
+  },
+  {
+    "query": "asian",
+    "name": "Reflection",
+    "id": "102442",
+    "second_level": "8300"
+  },
+  {
+    "query": "asian",
+    "name": "Fiction of Life",
+    "id": "39473",
+    "second_level": "2972"
+  },
+  {
+    "query": "asian",
+    "name": "Play",
+    "id": "36444",
+    "second_level": "2733"
+  },
+  {
+    "query": "asian",
+    "name": "Mystical Journey",
+    "id": "10959",
+    "second_level": "1245"
+  },
+  {
+    "query": "asian",
+    "name": "Let Me Go - No Lead Vocals",
+    "id": "36440",
+    "second_level": "2733"
+  },
+  {
+    "query": "asian",
+    "name": "Contemplation",
+    "id": "87258",
+    "second_level": "7127"
+  },
+  {
+    "query": "asian",
+    "name": "Blessings",
+    "id": "72107",
+    "second_level": "5659"
+  },
+  {
+    "query": "asian",
+    "name": "Moonlight (Japan)",
+    "id": "33423",
+    "second_level": "2469"
+  },
+  {
+    "query": "asian",
+    "name": "Play - Instrumental Version",
+    "id": "36443",
+    "second_level": "2733"
+  },
+  {
+    "query": "asian",
+    "name": "Let Me Go - Instrumental Version",
+    "id": "36441",
+    "second_level": "2733"
+  },
+  {
+    "query": "asian",
+    "name": "Maybe Wondering",
+    "id": "87259",
+    "second_level": "7127"
+  },
+  {
+    "query": "asian",
+    "name": "Hesitation",
+    "id": "72087",
+    "second_level": "5656"
+  },
+  {
+    "query": "asian",
+    "name": "Autumn Thoughts by the Dresser",
+    "id": "75615",
+    "second_level": "5986"
+  },
+  {
+    "query": "asian",
+    "name": "Discovering the Lost City",
+    "id": "3662",
+    "second_level": "480"
+  },
+  {
+    "query": "asian",
+    "name": "Train to Fuji",
+    "id": "122806",
+    "second_level": "10113"
+  },
+  {
+    "query": "asian",
+    "name": "Sumo",
+    "id": "97307",
+    "second_level": "7897"
+  },
+  {
+    "query": "asian",
+    "name": "Forest Run - Stripped Version",
+    "id": "97693",
+    "second_level": "7959"
+  },
+  {
+    "query": "asian",
+    "name": "East Meets West",
+    "id": "1022",
+    "second_level": "178"
+  },
+  {
+    "query": "asian",
+    "name": "Let Me Go",
+    "id": "36447",
+    "second_level": "2733"
+  },
+  {
+    "query": "asian",
+    "name": "Driving for Life",
+    "id": "119853",
+    "second_level": "9746"
+  },
+  {
+    "query": "asian",
+    "name": "Play - Stripped Version",
+    "id": "36442",
+    "second_level": "2733"
+  },
+  {
+    "query": "asian",
+    "name": "Ame",
+    "id": "88368",
+    "second_level": "7215"
+  },
+  {
+    "query": "asian",
+    "name": "Chasing the Sun",
+    "id": "77452",
+    "second_level": "6198"
+  },
+  {
+    "query": "asian",
+    "name": "From the Peaks",
+    "id": "16729",
+    "second_level": "1908"
+  },
+  {
+    "query": "asian",
+    "name": "Unsolved Destination",
+    "id": "10963",
+    "second_level": "1245"
+  },
+  {
+    "query": "asian",
+    "name": "Magical Forest",
+    "id": "60169",
+    "second_level": "4579"
+  },
+  {
+    "query": "asian",
+    "name": "Kyoto Dreams",
+    "id": "126302",
+    "second_level": "10427"
+  },
+  {
+    "query": "asian",
+    "name": "The Shores of Haikou",
+    "id": "130048",
+    "second_level": "10978"
+  },
+  {
+    "query": "asian",
+    "name": "Enchanting Rain",
+    "id": "60545",
+    "second_level": "4629"
+  },
+  {
+    "query": "asian",
+    "name": "Lyrics of the Western Chamber",
+    "id": "75618",
+    "second_level": "5986"
+  },
+  {
+    "query": "asian",
+    "name": "Raining Dream",
+    "id": "87260",
+    "second_level": "7127"
+  },
+  {
+    "query": "asian",
+    "name": "Flying on Running Sky Part 2",
+    "id": "115254",
+    "second_level": "9260"
+  },
+  {
+    "query": "asian",
+    "name": "Seek (India)",
+    "id": "33429",
+    "second_level": "2469"
+  },
+  {
+    "query": "asian",
+    "name": "Driving for Life - Instrumental Version",
+    "id": "119852",
+    "second_level": "9746"
+  },
+  {
+    "query": "asian",
+    "name": "Rhythm of Soul (Feat. Rohit Manandhar)",
+    "id": "107545",
+    "second_level": "5916"
+  },
+  {
+    "query": "asian",
+    "name": "The Way of the Samurai",
+    "id": "74824",
+    "second_level": "5915"
+  },
+  {
+    "query": "asian",
+    "name": "Mongolian Voice",
+    "id": "10964",
+    "second_level": "1245"
+  },
+  {
+    "query": "asian",
+    "name": "Can't Be Touched",
+    "id": "34601",
+    "second_level": "2561"
+  },
+  {
+    "query": "asian",
+    "name": "Moonlight (Japan) - No Koto & Flute",
+    "id": "33424",
+    "second_level": "2469"
+  },
+  {
+    "query": "asian",
+    "name": "Strength Men",
+    "id": "77457",
+    "second_level": "6198"
+  },
+  {
+    "query": "asian",
+    "name": "Inner Canyon",
+    "id": "72089",
+    "second_level": "5656"
+  },
+  {
+    "query": "asian",
+    "name": "To My Dreams",
+    "id": "72090",
+    "second_level": "5656"
+  },
+  {
+    "query": "asian",
+    "name": "Budham Sharanam Gaccami",
+    "id": "48547",
+    "second_level": "3580"
+  },
+  {
+    "query": "asian",
+    "name": "No Lie",
+    "id": "36445",
+    "second_level": "2733"
+  },
+  {
+    "query": "asian",
+    "name": "Hidden Heart",
+    "id": "77454",
+    "second_level": "6198"
+  },
+  {
+    "query": "asian",
+    "name": "Back to Tokyo",
+    "id": "119857",
+    "second_level": "9746"
+  },
+  {
+    "query": "asian",
+    "name": "Dombra Recording",
+    "id": "2202",
+    "second_level": "310"
+  }
+]

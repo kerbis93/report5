@@ -1,0 +1,602 @@
+[
+  {
+    "query": "chinese",
+    "name": "Moon Dance",
+    "id": "60292",
+    "second_level": "4607"
+  },
+  {
+    "query": "chinese",
+    "name": "Amazing Grace",
+    "id": "121503",
+    "second_level": "9933"
+  },
+  {
+    "query": "chinese",
+    "name": "Spring Sprouts",
+    "id": "87261",
+    "second_level": "7127"
+  },
+  {
+    "query": "chinese",
+    "name": "Contemplation",
+    "id": "87258",
+    "second_level": "7127"
+  },
+  {
+    "query": "chinese",
+    "name": "Xiang Fei Lei",
+    "id": "60293",
+    "second_level": "4607"
+  },
+  {
+    "query": "chinese",
+    "name": "Autumn Thoughts by the Dresser",
+    "id": "75615",
+    "second_level": "5986"
+  },
+  {
+    "query": "chinese",
+    "name": "Maybe Wondering",
+    "id": "87259",
+    "second_level": "7127"
+  },
+  {
+    "query": "chinese",
+    "name": "Lunar New Year Overture",
+    "id": "60291",
+    "second_level": "4607"
+  },
+  {
+    "query": "chinese",
+    "name": "Raining Dream",
+    "id": "87260",
+    "second_level": "7127"
+  },
+  {
+    "query": "chinese",
+    "name": "Lyrics of the Western Chamber",
+    "id": "75618",
+    "second_level": "5986"
+  },
+  {
+    "query": "chinese",
+    "name": "From the Peaks",
+    "id": "16729",
+    "second_level": "1908"
+  },
+  {
+    "query": "chinese",
+    "name": "Inner Canyon",
+    "id": "72089",
+    "second_level": "5656"
+  },
+  {
+    "query": "chinese",
+    "name": "To My Dreams",
+    "id": "72090",
+    "second_level": "5656"
+  },
+  {
+    "query": "chinese",
+    "name": "In This Fall",
+    "id": "72088",
+    "second_level": "5656"
+  },
+  {
+    "query": "chinese",
+    "name": "Spring River Flower Moon Night",
+    "id": "75619",
+    "second_level": "5986"
+  },
+  {
+    "query": "chinese",
+    "name": "Issho (Together)",
+    "id": "112729",
+    "second_level": "9023"
+  },
+  {
+    "query": "chinese",
+    "name": "The Ninja Path",
+    "id": "130027",
+    "second_level": "10972"
+  },
+  {
+    "query": "chinese",
+    "name": "Fantic 5 - Toulouse",
+    "id": "39385",
+    "second_level": "2670"
+  },
+  {
+    "query": "chinese",
+    "name": "Shakainmisaka Yuhodo",
+    "id": "96921",
+    "second_level": "7864"
+  },
+  {
+    "query": "chinese",
+    "name": "Fireflies",
+    "id": "120165",
+    "second_level": "9818"
+  },
+  {
+    "query": "chinese",
+    "name": "Tamura's Journey",
+    "id": "114581",
+    "second_level": "9161"
+  },
+  {
+    "query": "chinese",
+    "name": "Poet's Word (Shijin No Kotoba)",
+    "id": "46137",
+    "second_level": "3418"
+  },
+  {
+    "query": "chinese",
+    "name": "Reflection",
+    "id": "102442",
+    "second_level": "8300"
+  },
+  {
+    "query": "chinese",
+    "name": "Near Oblivion",
+    "id": "129390",
+    "second_level": "10835"
+  },
+  {
+    "query": "chinese",
+    "name": "Hesitation",
+    "id": "72087",
+    "second_level": "5656"
+  },
+  {
+    "query": "chinese",
+    "name": "Under the Waterfall",
+    "id": "10979",
+    "second_level": "1247"
+  },
+  {
+    "query": "chinese",
+    "name": "Drums of War",
+    "id": "43565",
+    "second_level": "3265"
+  },
+  {
+    "query": "chinese",
+    "name": "Navy SEALs",
+    "id": "37472",
+    "second_level": "2818"
+  },
+  {
+    "query": "chinese",
+    "name": "Brand New Day",
+    "id": "67179",
+    "second_level": "5251"
+  },
+  {
+    "query": "chinese",
+    "name": "Xiao Among the Skyscrapers",
+    "id": "57257",
+    "second_level": "4384"
+  },
+  {
+    "query": "chinese",
+    "name": "Optical Illusion",
+    "id": "10960",
+    "second_level": "1245"
+  },
+  {
+    "query": "chinese",
+    "name": "Alto Viento",
+    "id": "130026",
+    "second_level": "10971"
+  },
+  {
+    "query": "chinese",
+    "name": "Ichi-no-Tani",
+    "id": "96920",
+    "second_level": "7864"
+  },
+  {
+    "query": "chinese",
+    "name": "The Song of Five Souls",
+    "id": "71995",
+    "second_level": "5632"
+  },
+  {
+    "query": "chinese",
+    "name": "Freedom",
+    "id": "10957",
+    "second_level": "1245"
+  },
+  {
+    "query": "chinese",
+    "name": "Feelings",
+    "id": "44409",
+    "second_level": "3339"
+  },
+  {
+    "query": "chinese",
+    "name": "Vicious",
+    "id": "10591",
+    "second_level": "1205"
+  },
+  {
+    "query": "chinese",
+    "name": "Go on Journeys",
+    "id": "128353",
+    "second_level": "10741"
+  },
+  {
+    "query": "chinese",
+    "name": "An Eastern Sanctuary",
+    "id": "3122",
+    "second_level": "427"
+  },
+  {
+    "query": "chinese",
+    "name": "Purity",
+    "id": "10961",
+    "second_level": "1245"
+  },
+  {
+    "query": "chinese",
+    "name": "Voice of Windy",
+    "id": "39474",
+    "second_level": "2972"
+  },
+  {
+    "query": "chinese",
+    "name": "Shi ga futari o wakatsu made (Till Death Do Us Part)",
+    "id": "112730",
+    "second_level": "9023"
+  },
+  {
+    "query": "chinese",
+    "name": "Dance of the Red Crowns",
+    "id": "114583",
+    "second_level": "9161"
+  },
+  {
+    "query": "chinese",
+    "name": "First Strike Came at Dawn - Drums Version",
+    "id": "70002",
+    "second_level": "5488"
+  },
+  {
+    "query": "chinese",
+    "name": "Walk Faster - Drums Version",
+    "id": "58287",
+    "second_level": "4458"
+  },
+  {
+    "query": "chinese",
+    "name": "Through Clouds",
+    "id": "128354",
+    "second_level": "10741"
+  },
+  {
+    "query": "chinese",
+    "name": "A Faraway Place",
+    "id": "97697",
+    "second_level": "7959"
+  },
+  {
+    "query": "chinese",
+    "name": "Manatsu Ni Haeru (Glowing on a Midsummer Night)",
+    "id": "38944",
+    "second_level": "2942"
+  },
+  {
+    "query": "chinese",
+    "name": "Battle Drums",
+    "id": "3127",
+    "second_level": "428"
+  },
+  {
+    "query": "chinese",
+    "name": "The Journey Home",
+    "id": "43562",
+    "second_level": "3265"
+  },
+  {
+    "query": "chinese",
+    "name": "Kenshō",
+    "id": "49816",
+    "second_level": "3697"
+  },
+  {
+    "query": "chinese",
+    "name": "Blessings",
+    "id": "72107",
+    "second_level": "5659"
+  },
+  {
+    "query": "chinese",
+    "name": "Percussion",
+    "id": "2959",
+    "second_level": "405"
+  },
+  {
+    "query": "chinese",
+    "name": "Koto Story in Kyoto (feat. George Nishigomi)",
+    "id": "129560",
+    "second_level": "10935"
+  },
+  {
+    "query": "chinese",
+    "name": "Mongolian Voice",
+    "id": "10964",
+    "second_level": "1245"
+  },
+  {
+    "query": "chinese",
+    "name": "Thunder Rod",
+    "id": "10748",
+    "second_level": "1220"
+  },
+  {
+    "query": "chinese",
+    "name": "Manatsu Ni Haeru (Glowing on a Midsummer Night) - Instrumental Version",
+    "id": "38945",
+    "second_level": "2942"
+  },
+  {
+    "query": "chinese",
+    "name": "Sakura Fubuki - Stripped Version",
+    "id": "97694",
+    "second_level": "7959"
+  },
+  {
+    "query": "chinese",
+    "name": "Mountains of Madness",
+    "id": "39472",
+    "second_level": "2972"
+  },
+  {
+    "query": "chinese",
+    "name": "Inner Sound",
+    "id": "10958",
+    "second_level": "1245"
+  },
+  {
+    "query": "chinese",
+    "name": "Sakura Fubuki",
+    "id": "97699",
+    "second_level": "7959"
+  },
+  {
+    "query": "chinese",
+    "name": "Learning to Lament",
+    "id": "48979",
+    "second_level": "3629"
+  },
+  {
+    "query": "chinese",
+    "name": "Welcome Home",
+    "id": "84419",
+    "second_level": "6859"
+  },
+  {
+    "query": "chinese",
+    "name": "Nakusita Kakera (Pieces Lost)",
+    "id": "38946",
+    "second_level": "2942"
+  },
+  {
+    "query": "chinese",
+    "name": "An Eastern Reflection",
+    "id": "3121",
+    "second_level": "427"
+  },
+  {
+    "query": "chinese",
+    "name": "Play",
+    "id": "36444",
+    "second_level": "2733"
+  },
+  {
+    "query": "chinese",
+    "name": "War Paint",
+    "id": "36155",
+    "second_level": "2708"
+  },
+  {
+    "query": "chinese",
+    "name": "Out of the Blind",
+    "id": "125253",
+    "second_level": "10352"
+  },
+  {
+    "query": "chinese",
+    "name": "This Means War",
+    "id": "14328",
+    "second_level": "1615"
+  },
+  {
+    "query": "chinese",
+    "name": "Taiyaki",
+    "id": "96919",
+    "second_level": "7864"
+  },
+  {
+    "query": "chinese",
+    "name": "No Lie - No Lead Vocals",
+    "id": "36446",
+    "second_level": "2733"
+  },
+  {
+    "query": "chinese",
+    "name": "Comanche",
+    "id": "10974",
+    "second_level": "1247"
+  },
+  {
+    "query": "chinese",
+    "name": "Flying on the Horizon",
+    "id": "10956",
+    "second_level": "1245"
+  },
+  {
+    "query": "chinese",
+    "name": "Hikaru (To Shine)",
+    "id": "102189",
+    "second_level": "8265"
+  },
+  {
+    "query": "chinese",
+    "name": "Kumiko",
+    "id": "102190",
+    "second_level": "8265"
+  },
+  {
+    "query": "chinese",
+    "name": "Bamboo Forest",
+    "id": "10739",
+    "second_level": "1220"
+  },
+  {
+    "query": "chinese",
+    "name": "Dombra Recording",
+    "id": "2202",
+    "second_level": "310"
+  },
+  {
+    "query": "chinese",
+    "name": "Bloom - No Lead Vocals",
+    "id": "83088",
+    "second_level": "6736"
+  },
+  {
+    "query": "chinese",
+    "name": "Mishima Fantasy",
+    "id": "97698",
+    "second_level": "7959"
+  },
+  {
+    "query": "chinese",
+    "name": "The Southern Lake",
+    "id": "114582",
+    "second_level": "9161"
+  },
+  {
+    "query": "chinese",
+    "name": "You Are Ready",
+    "id": "84416",
+    "second_level": "6859"
+  },
+  {
+    "query": "chinese",
+    "name": "Taiyō (Sun) - Instrumental Version",
+    "id": "38948",
+    "second_level": "2942"
+  },
+  {
+    "query": "chinese",
+    "name": "Blooming Cherry (Sakura)",
+    "id": "46136",
+    "second_level": "3418"
+  },
+  {
+    "query": "chinese",
+    "name": "Asian Dreams",
+    "id": "12264",
+    "second_level": "1380"
+  },
+  {
+    "query": "chinese",
+    "name": "Try Again",
+    "id": "10962",
+    "second_level": "1245"
+  },
+  {
+    "query": "chinese",
+    "name": "An Eastern Tale",
+    "id": "3124",
+    "second_level": "427"
+  },
+  {
+    "query": "chinese",
+    "name": "Unsolved Destination",
+    "id": "10963",
+    "second_level": "1245"
+  },
+  {
+    "query": "chinese",
+    "name": "Train to Fuji - No Backing Vocals",
+    "id": "122805",
+    "second_level": "10113"
+  },
+  {
+    "query": "chinese",
+    "name": "Big Swagger",
+    "id": "36150",
+    "second_level": "2708"
+  },
+  {
+    "query": "chinese",
+    "name": "Dream Tiger",
+    "id": "97695",
+    "second_level": "7959"
+  },
+  {
+    "query": "chinese",
+    "name": "Taiyō (Sun)",
+    "id": "38949",
+    "second_level": "2942"
+  },
+  {
+    "query": "chinese",
+    "name": "Nakusita Kakera (Pieces Lost) - Instrumental Version",
+    "id": "38947",
+    "second_level": "2942"
+  },
+  {
+    "query": "chinese",
+    "name": "Let Me Go - Instrumental Version",
+    "id": "36441",
+    "second_level": "2733"
+  },
+  {
+    "query": "chinese",
+    "name": "Discovering the Lost City",
+    "id": "3662",
+    "second_level": "480"
+  },
+  {
+    "query": "chinese",
+    "name": "The Lotus Flower",
+    "id": "92441",
+    "second_level": "7458"
+  },
+  {
+    "query": "chinese",
+    "name": "Play - Instrumental Version",
+    "id": "36443",
+    "second_level": "2733"
+  },
+  {
+    "query": "chinese",
+    "name": "Zen",
+    "id": "76351",
+    "second_level": "5915"
+  },
+  {
+    "query": "chinese",
+    "name": "Daishō (Two Swords)",
+    "id": "102191",
+    "second_level": "8265"
+  },
+  {
+    "query": "chinese",
+    "name": "Moonlight (Japan)",
+    "id": "33423",
+    "second_level": "2469"
+  },
+  {
+    "query": "chinese",
+    "name": "Train to Fuji",
+    "id": "122806",
+    "second_level": "10113"
+  }
+]

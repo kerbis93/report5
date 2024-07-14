@@ -1,0 +1,602 @@
+[
+  {
+    "query": "adventure",
+    "name": "Against All Odds",
+    "id": "99976",
+    "second_level": "8085"
+  },
+  {
+    "query": "adventure",
+    "name": "The Seven Seas",
+    "id": "97388",
+    "second_level": "7912"
+  },
+  {
+    "query": "adventure",
+    "name": "This Is It - No Lead Vocals",
+    "id": "99983",
+    "second_level": "8085"
+  },
+  {
+    "query": "adventure",
+    "name": "Tell Me a Story",
+    "id": "93699",
+    "second_level": "7587"
+  },
+  {
+    "query": "adventure",
+    "name": "Pirate's Treasury",
+    "id": "129093",
+    "second_level": "10893"
+  },
+  {
+    "query": "adventure",
+    "name": "The Race",
+    "id": "78248",
+    "second_level": "6296"
+  },
+  {
+    "query": "adventure",
+    "name": "Kings Rising - Instrumental Version",
+    "id": "116606",
+    "second_level": "9840"
+  },
+  {
+    "query": "adventure",
+    "name": "The Dawning of a New Age",
+    "id": "116598",
+    "second_level": "9840"
+  },
+  {
+    "query": "adventure",
+    "name": "Lives",
+    "id": "54577",
+    "second_level": "4142"
+  },
+  {
+    "query": "adventure",
+    "name": "Epoch",
+    "id": "70691",
+    "second_level": "5549"
+  },
+  {
+    "query": "adventure",
+    "name": "The Journey Home",
+    "id": "43562",
+    "second_level": "3265"
+  },
+  {
+    "query": "adventure",
+    "name": "Blood in the Bayou",
+    "id": "66655",
+    "second_level": "5218"
+  },
+  {
+    "query": "adventure",
+    "name": "Dream",
+    "id": "10130",
+    "second_level": "1161"
+  },
+  {
+    "query": "adventure",
+    "name": "The Dawning of a New Age - Instrumental Version",
+    "id": "116599",
+    "second_level": "9840"
+  },
+  {
+    "query": "adventure",
+    "name": "Coming Home",
+    "id": "94168",
+    "second_level": "7664"
+  },
+  {
+    "query": "adventure",
+    "name": "Berserk",
+    "id": "74425",
+    "second_level": "5854"
+  },
+  {
+    "query": "adventure",
+    "name": "Play",
+    "id": "36175",
+    "second_level": "2710"
+  },
+  {
+    "query": "adventure",
+    "name": "Kings Rising",
+    "id": "116605",
+    "second_level": "9840"
+  },
+  {
+    "query": "adventure",
+    "name": "Ahead of Time",
+    "id": "17300",
+    "second_level": "1987"
+  },
+  {
+    "query": "adventure",
+    "name": "Run Fast",
+    "id": "113357",
+    "second_level": "9058"
+  },
+  {
+    "query": "adventure",
+    "name": "Salt and Sea",
+    "id": "55211",
+    "second_level": "4182"
+  },
+  {
+    "query": "adventure",
+    "name": "We Are",
+    "id": "60168",
+    "second_level": "4579"
+  },
+  {
+    "query": "adventure",
+    "name": "The Way of the Samurai",
+    "id": "74824",
+    "second_level": "5915"
+  },
+  {
+    "query": "adventure",
+    "name": "Dirty Slide",
+    "id": "130909",
+    "second_level": "11239"
+  },
+  {
+    "query": "adventure",
+    "name": "Mara Mara",
+    "id": "67183",
+    "second_level": "5251"
+  },
+  {
+    "query": "adventure",
+    "name": "Warrior's Tribe - Instrumental Version",
+    "id": "56224",
+    "second_level": "4303"
+  },
+  {
+    "query": "adventure",
+    "name": "Alive",
+    "id": "67176",
+    "second_level": "5251"
+  },
+  {
+    "query": "adventure",
+    "name": "Helvv Kryd (Holy Wars)",
+    "id": "65571",
+    "second_level": "5130"
+  },
+  {
+    "query": "adventure",
+    "name": "Fortitude",
+    "id": "56657",
+    "second_level": "4338"
+  },
+  {
+    "query": "adventure",
+    "name": "Cartoon Hotel",
+    "id": "35828",
+    "second_level": "475"
+  },
+  {
+    "query": "adventure",
+    "name": "Tibet",
+    "id": "43721",
+    "second_level": "3277"
+  },
+  {
+    "query": "adventure",
+    "name": "Deer",
+    "id": "68716",
+    "second_level": "5398"
+  },
+  {
+    "query": "adventure",
+    "name": "Morning Light",
+    "id": "68663",
+    "second_level": "5382"
+  },
+  {
+    "query": "adventure",
+    "name": "Beginning",
+    "id": "5249",
+    "second_level": "630"
+  },
+  {
+    "query": "adventure",
+    "name": "Ultra Light",
+    "id": "12721",
+    "second_level": "1432"
+  },
+  {
+    "query": "adventure",
+    "name": "Spring",
+    "id": "69125",
+    "second_level": "5423"
+  },
+  {
+    "query": "adventure",
+    "name": "Gibraltar",
+    "id": "56551",
+    "second_level": "4330"
+  },
+  {
+    "query": "adventure",
+    "name": "Patrick's Day",
+    "id": "51153",
+    "second_level": "3831"
+  },
+  {
+    "query": "adventure",
+    "name": "Earth's Horizon",
+    "id": "126851",
+    "second_level": "10527"
+  },
+  {
+    "query": "adventure",
+    "name": "Organic Reflections",
+    "id": "56555",
+    "second_level": "4330"
+  },
+  {
+    "query": "adventure",
+    "name": "The Beginning",
+    "id": "9473",
+    "second_level": "1084"
+  },
+  {
+    "query": "adventure",
+    "name": "Mosquito March - No Lead Vocals",
+    "id": "120133",
+    "second_level": "9810"
+  },
+  {
+    "query": "adventure",
+    "name": "A Tender Heart",
+    "id": "64465",
+    "second_level": "5539"
+  },
+  {
+    "query": "adventure",
+    "name": "Under Canopies",
+    "id": "66643",
+    "second_level": "5218"
+  },
+  {
+    "query": "adventure",
+    "name": "Vicious",
+    "id": "10591",
+    "second_level": "1205"
+  },
+  {
+    "query": "adventure",
+    "name": "Arrival",
+    "id": "57209",
+    "second_level": "4374"
+  },
+  {
+    "query": "adventure",
+    "name": "Ashe",
+    "id": "67127",
+    "second_level": "5241"
+  },
+  {
+    "query": "adventure",
+    "name": "Eldensvampbildning",
+    "id": "58680",
+    "second_level": "4494"
+  },
+  {
+    "query": "adventure",
+    "name": "Saving a Rainforest",
+    "id": "89458",
+    "second_level": "7302"
+  },
+  {
+    "query": "adventure",
+    "name": "Glensevain Plateau",
+    "id": "101547",
+    "second_level": "8224"
+  },
+  {
+    "query": "adventure",
+    "name": "Daydreaming",
+    "id": "50727",
+    "second_level": "3761"
+  },
+  {
+    "query": "adventure",
+    "name": "Destiny",
+    "id": "102516",
+    "second_level": "8321"
+  },
+  {
+    "query": "adventure",
+    "name": "Strength Men",
+    "id": "77457",
+    "second_level": "6198"
+  },
+  {
+    "query": "adventure",
+    "name": "Boom Boom Clap",
+    "id": "111830",
+    "second_level": "8938"
+  },
+  {
+    "query": "adventure",
+    "name": "Zoom Out",
+    "id": "45771",
+    "second_level": "3401"
+  },
+  {
+    "query": "adventure",
+    "name": "Black Sun",
+    "id": "87677",
+    "second_level": "3456"
+  },
+  {
+    "query": "adventure",
+    "name": "Enjoy the Game",
+    "id": "13044",
+    "second_level": "1478"
+  },
+  {
+    "query": "adventure",
+    "name": "Alto Viento",
+    "id": "130026",
+    "second_level": "10971"
+  },
+  {
+    "query": "adventure",
+    "name": "Captain Spark",
+    "id": "93869",
+    "second_level": "7600"
+  },
+  {
+    "query": "adventure",
+    "name": "Zen",
+    "id": "76351",
+    "second_level": "5915"
+  },
+  {
+    "query": "adventure",
+    "name": "Fireflies - Instrumental Version",
+    "id": "120170",
+    "second_level": "9818"
+  },
+  {
+    "query": "adventure",
+    "name": "Fagradalsfjall (feat. Gaia Yuval)",
+    "id": "130565",
+    "second_level": "11112"
+  },
+  {
+    "query": "adventure",
+    "name": "The Racer",
+    "id": "17184",
+    "second_level": "1972"
+  },
+  {
+    "query": "adventure",
+    "name": "The Hope Lounge",
+    "id": "74181",
+    "second_level": "5837"
+  },
+  {
+    "query": "adventure",
+    "name": "Optimistic",
+    "id": "608",
+    "second_level": "112"
+  },
+  {
+    "query": "adventure",
+    "name": "Eldensvampbildning - Stripped Version",
+    "id": "58684",
+    "second_level": "4494"
+  },
+  {
+    "query": "adventure",
+    "name": "Escape the Tower - Instrumental Version",
+    "id": "119993",
+    "second_level": "9774"
+  },
+  {
+    "query": "adventure",
+    "name": "Up in the Andes",
+    "id": "9542",
+    "second_level": "474"
+  },
+  {
+    "query": "adventure",
+    "name": "Teché Wé",
+    "id": "32170",
+    "second_level": "2336"
+  },
+  {
+    "query": "adventure",
+    "name": "The Edge of Time",
+    "id": "8157",
+    "second_level": "935"
+  },
+  {
+    "query": "adventure",
+    "name": "New Lands - Instrumental Version",
+    "id": "119487",
+    "second_level": "9672"
+  },
+  {
+    "query": "adventure",
+    "name": "Metis",
+    "id": "4672",
+    "second_level": "572"
+  },
+  {
+    "query": "adventure",
+    "name": "Go on Journeys",
+    "id": "128353",
+    "second_level": "10741"
+  },
+  {
+    "query": "adventure",
+    "name": "Fortitude - Short Version",
+    "id": "56656",
+    "second_level": "4338"
+  },
+  {
+    "query": "adventure",
+    "name": "Fairy Chase",
+    "id": "128003",
+    "second_level": "10713"
+  },
+  {
+    "query": "adventure",
+    "name": "Against All Odds - Short Version",
+    "id": "131730",
+    "second_level": "8085"
+  },
+  {
+    "query": "adventure",
+    "name": "Highest Peaks",
+    "id": "43560",
+    "second_level": "3265"
+  },
+  {
+    "query": "adventure",
+    "name": "Our Last Dance",
+    "id": "51149",
+    "second_level": "3831"
+  },
+  {
+    "query": "adventure",
+    "name": "Through Clouds",
+    "id": "128354",
+    "second_level": "10741"
+  },
+  {
+    "query": "adventure",
+    "name": "Convolution",
+    "id": "120744",
+    "second_level": "9872"
+  },
+  {
+    "query": "adventure",
+    "name": "Wholly One",
+    "id": "1283",
+    "second_level": "215"
+  },
+  {
+    "query": "adventure",
+    "name": "Trädgårdar På Månen",
+    "id": "130566",
+    "second_level": "11112"
+  },
+  {
+    "query": "adventure",
+    "name": "Land",
+    "id": "5258",
+    "second_level": "631"
+  },
+  {
+    "query": "adventure",
+    "name": "Blood on the Snow - Instrumental Version",
+    "id": "103845",
+    "second_level": "8423"
+  },
+  {
+    "query": "adventure",
+    "name": "Break of Day",
+    "id": "71898",
+    "second_level": "5613"
+  },
+  {
+    "query": "adventure",
+    "name": "Forest Respiration",
+    "id": "102497",
+    "second_level": "8967"
+  },
+  {
+    "query": "adventure",
+    "name": "Flying into the Sun",
+    "id": "90149",
+    "second_level": "7356"
+  },
+  {
+    "query": "adventure",
+    "name": "Escape from the Plastic World",
+    "id": "8228",
+    "second_level": "940"
+  },
+  {
+    "query": "adventure",
+    "name": "Adeena's Rule",
+    "id": "58790",
+    "second_level": "4505"
+  },
+  {
+    "query": "adventure",
+    "name": "Enchanted Valley",
+    "id": "123462",
+    "second_level": "10158"
+  },
+  {
+    "query": "adventure",
+    "name": "Liberation",
+    "id": "121495",
+    "second_level": "9932"
+  },
+  {
+    "query": "adventure",
+    "name": "Into the Past",
+    "id": "32710",
+    "second_level": "2392"
+  },
+  {
+    "query": "adventure",
+    "name": "Peasants Courtyard",
+    "id": "92654",
+    "second_level": "7505"
+  },
+  {
+    "query": "adventure",
+    "name": "American Hope",
+    "id": "42287",
+    "second_level": "3191"
+  },
+  {
+    "query": "adventure",
+    "name": "Our Mad Theory",
+    "id": "75942",
+    "second_level": "6028"
+  },
+  {
+    "query": "adventure",
+    "name": "Africana Heat",
+    "id": "60614",
+    "second_level": "4640"
+  },
+  {
+    "query": "adventure",
+    "name": "Tribal Splash",
+    "id": "10749",
+    "second_level": "1220"
+  },
+  {
+    "query": "adventure",
+    "name": "Tamura's Journey",
+    "id": "114581",
+    "second_level": "9161"
+  },
+  {
+    "query": "adventure",
+    "name": "Takitaa",
+    "id": "42500",
+    "second_level": "3208"
+  },
+  {
+    "query": "adventure",
+    "name": "Year of Life",
+    "id": "2447",
+    "second_level": "343"
+  }
+]

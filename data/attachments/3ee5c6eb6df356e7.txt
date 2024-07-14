@@ -1,0 +1,602 @@
+[
+  {
+    "query": "comedy",
+    "name": "The Tuba Dude",
+    "id": "61949",
+    "second_level": "4791"
+  },
+  {
+    "query": "comedy",
+    "name": "The Romantic Side of the Looney Cat",
+    "id": "51279",
+    "second_level": "3845"
+  },
+  {
+    "query": "comedy",
+    "name": "Lazy Moves",
+    "id": "61945",
+    "second_level": "4791"
+  },
+  {
+    "query": "comedy",
+    "name": "Trying Not to Be Sarcastic",
+    "id": "51278",
+    "second_level": "3845"
+  },
+  {
+    "query": "comedy",
+    "name": "Can't Help It",
+    "id": "14719",
+    "second_level": "1653"
+  },
+  {
+    "query": "comedy",
+    "name": "Tomcat Rag",
+    "id": "95712",
+    "second_level": "7800"
+  },
+  {
+    "query": "comedy",
+    "name": "The Laboratory Claptraps",
+    "id": "33737",
+    "second_level": "2488"
+  },
+  {
+    "query": "comedy",
+    "name": "And They Lived Happily Ever After - Instrumental Version",
+    "id": "63861",
+    "second_level": "4956"
+  },
+  {
+    "query": "comedy",
+    "name": "The Pirates Are Coming",
+    "id": "42009",
+    "second_level": "3143"
+  },
+  {
+    "query": "comedy",
+    "name": "The Sneaky Cat",
+    "id": "61946",
+    "second_level": "4791"
+  },
+  {
+    "query": "comedy",
+    "name": "Take the Fun Away",
+    "id": "97161",
+    "second_level": "7878"
+  },
+  {
+    "query": "comedy",
+    "name": "All the Quakers are Shoulder Shakers Medley Fox Trot",
+    "id": "130848",
+    "second_level": "11211"
+  },
+  {
+    "query": "comedy",
+    "name": "Mister Pink",
+    "id": "61947",
+    "second_level": "4791"
+  },
+  {
+    "query": "comedy",
+    "name": "Whistler Walking",
+    "id": "127839",
+    "second_level": "10664"
+  },
+  {
+    "query": "comedy",
+    "name": "Lily's Bounce",
+    "id": "76937",
+    "second_level": "6147"
+  },
+  {
+    "query": "comedy",
+    "name": "Comedy of Errors",
+    "id": "66030",
+    "second_level": "5171"
+  },
+  {
+    "query": "comedy",
+    "name": "Syncope",
+    "id": "58394",
+    "second_level": "4462"
+  },
+  {
+    "query": "comedy",
+    "name": "The Romantic Side of the Looney Cat - Piano Version",
+    "id": "51276",
+    "second_level": "3845"
+  },
+  {
+    "query": "comedy",
+    "name": "Quick Party Before the End of the World",
+    "id": "33738",
+    "second_level": "2488"
+  },
+  {
+    "query": "comedy",
+    "name": "Smokey Tables",
+    "id": "10968",
+    "second_level": "1246"
+  },
+  {
+    "query": "comedy",
+    "name": "With My Love",
+    "id": "97158",
+    "second_level": "7878"
+  },
+  {
+    "query": "comedy",
+    "name": "The Battle in the Castle",
+    "id": "63858",
+    "second_level": "4956"
+  },
+  {
+    "query": "comedy",
+    "name": "With My Love - Instrumental Version",
+    "id": "97159",
+    "second_level": "7878"
+  },
+  {
+    "query": "comedy",
+    "name": "Can't Look Down",
+    "id": "50982",
+    "second_level": "3806"
+  },
+  {
+    "query": "comedy",
+    "name": "Fool's Gold",
+    "id": "118476",
+    "second_level": "9640"
+  },
+  {
+    "query": "comedy",
+    "name": "That Rag Really Tied the Room Together - Alternative - Piano Version",
+    "id": "76947",
+    "second_level": "6147"
+  },
+  {
+    "query": "comedy",
+    "name": "It's a Slippery Slope",
+    "id": "118475",
+    "second_level": "9640"
+  },
+  {
+    "query": "comedy",
+    "name": "That Rag Really Tied the Room Together - Alternative - Vintage Piano Version",
+    "id": "76948",
+    "second_level": "6147"
+  },
+  {
+    "query": "comedy",
+    "name": "Cherry Pie Rag",
+    "id": "53971",
+    "second_level": "4076"
+  },
+  {
+    "query": "comedy",
+    "name": "Sylvia (Delibes)",
+    "id": "61948",
+    "second_level": "4791"
+  },
+  {
+    "query": "comedy",
+    "name": "Imperial",
+    "id": "44659",
+    "second_level": "3355"
+  },
+  {
+    "query": "comedy",
+    "name": "Ricordi II - Funny March",
+    "id": "83266",
+    "second_level": "4522"
+  },
+  {
+    "query": "comedy",
+    "name": "Adventures in Capybara Land",
+    "id": "128097",
+    "second_level": "10733"
+  },
+  {
+    "query": "comedy",
+    "name": "Tip-Toeing",
+    "id": "95715",
+    "second_level": "7800"
+  },
+  {
+    "query": "comedy",
+    "name": "Adventures in Capybara Land - No Backing Vocals",
+    "id": "128098",
+    "second_level": "10733"
+  },
+  {
+    "query": "comedy",
+    "name": "Night at the Vaudeville Show",
+    "id": "53970",
+    "second_level": "4076"
+  },
+  {
+    "query": "comedy",
+    "name": "Shimmy with the Boogie Man",
+    "id": "53972",
+    "second_level": "4076"
+  },
+  {
+    "query": "comedy",
+    "name": "With My Love - Stripped Version",
+    "id": "97160",
+    "second_level": "7878"
+  },
+  {
+    "query": "comedy",
+    "name": "Take the Fun Away - Stripped Version",
+    "id": "97163",
+    "second_level": "7878"
+  },
+  {
+    "query": "comedy",
+    "name": "Countryside Squabble",
+    "id": "94771",
+    "second_level": "7715"
+  },
+  {
+    "query": "comedy",
+    "name": "That Rag Really Tied the Room Together - Vintage Version",
+    "id": "76949",
+    "second_level": "6147"
+  },
+  {
+    "query": "comedy",
+    "name": "Paw Prints",
+    "id": "2186",
+    "second_level": "307"
+  },
+  {
+    "query": "comedy",
+    "name": "Dogman",
+    "id": "95713",
+    "second_level": "7800"
+  },
+  {
+    "query": "comedy",
+    "name": "Will Her Eyes Shine in Green or in Blue?",
+    "id": "48630",
+    "second_level": "3588"
+  },
+  {
+    "query": "comedy",
+    "name": "Gypsy Dance",
+    "id": "14897",
+    "second_level": "1674"
+  },
+  {
+    "query": "comedy",
+    "name": "The Ice Cream Booth",
+    "id": "56122",
+    "second_level": "4282"
+  },
+  {
+    "query": "comedy",
+    "name": "Blue Rag",
+    "id": "118477",
+    "second_level": "9640"
+  },
+  {
+    "query": "comedy",
+    "name": "By the River",
+    "id": "125161",
+    "second_level": "10318"
+  },
+  {
+    "query": "comedy",
+    "name": "Take the Fun Away - Instrumental Version",
+    "id": "97162",
+    "second_level": "7878"
+  },
+  {
+    "query": "comedy",
+    "name": "Springtime Rag",
+    "id": "95714",
+    "second_level": "7800"
+  },
+  {
+    "query": "comedy",
+    "name": "Go Up - Alternative Version",
+    "id": "10831",
+    "second_level": "1230"
+  },
+  {
+    "query": "comedy",
+    "name": "The Circus of Life",
+    "id": "122214",
+    "second_level": "9956"
+  },
+  {
+    "query": "comedy",
+    "name": "Lions and Zebras",
+    "id": "16276",
+    "second_level": "1682"
+  },
+  {
+    "query": "comedy",
+    "name": "Room No.7",
+    "id": "107829",
+    "second_level": "8657"
+  },
+  {
+    "query": "comedy",
+    "name": "The Foolish Mouse",
+    "id": "3625",
+    "second_level": "475"
+  },
+  {
+    "query": "comedy",
+    "name": "Memory Street",
+    "id": "42158",
+    "second_level": "3167"
+  },
+  {
+    "query": "comedy",
+    "name": "Lazy Afternoon Escapades",
+    "id": "94741",
+    "second_level": "7706"
+  },
+  {
+    "query": "comedy",
+    "name": "Don't Shoot the Piano Player",
+    "id": "60578",
+    "second_level": "4635"
+  },
+  {
+    "query": "comedy",
+    "name": "And They Lived Happily Ever After",
+    "id": "63859",
+    "second_level": "4956"
+  },
+  {
+    "query": "comedy",
+    "name": "All Star One-Step",
+    "id": "114929",
+    "second_level": "9219"
+  },
+  {
+    "query": "comedy",
+    "name": "Learn How to Walk",
+    "id": "48629",
+    "second_level": "3588"
+  },
+  {
+    "query": "comedy",
+    "name": "Blitz Glitz",
+    "id": "10969",
+    "second_level": "1246"
+  },
+  {
+    "query": "comedy",
+    "name": "Scherzo in Sib Maj for the Lonely Housewife",
+    "id": "32574",
+    "second_level": "2380"
+  },
+  {
+    "query": "comedy",
+    "name": "And They Lived Happily Ever After - No Lead Vocals",
+    "id": "63860",
+    "second_level": "4956"
+  },
+  {
+    "query": "comedy",
+    "name": "Neighbourhood Oddities",
+    "id": "66031",
+    "second_level": "5171"
+  },
+  {
+    "query": "comedy",
+    "name": "My Friend Frida",
+    "id": "87603",
+    "second_level": "7156"
+  },
+  {
+    "query": "comedy",
+    "name": "The Easy Winners (Joplin)",
+    "id": "94998",
+    "second_level": "4522"
+  },
+  {
+    "query": "comedy",
+    "name": "Sax Party",
+    "id": "56606",
+    "second_level": "4336"
+  },
+  {
+    "query": "comedy",
+    "name": "Silent Movie",
+    "id": "35829",
+    "second_level": "475"
+  },
+  {
+    "query": "comedy",
+    "name": "Ricordi III - Danse Des Elfes",
+    "id": "58938",
+    "second_level": "4522"
+  },
+  {
+    "query": "comedy",
+    "name": "The Funny Neighbor",
+    "id": "56044",
+    "second_level": "4266"
+  },
+  {
+    "query": "comedy",
+    "name": "Everything Changes",
+    "id": "13515",
+    "second_level": "1533"
+  },
+  {
+    "query": "comedy",
+    "name": "Time to Mix Blue and Red and Make a Mauve",
+    "id": "10691",
+    "second_level": "1215"
+  },
+  {
+    "query": "comedy",
+    "name": "Le Foglie Del Faggio",
+    "id": "35916",
+    "second_level": "2671"
+  },
+  {
+    "query": "comedy",
+    "name": "Black Cat Soiree",
+    "id": "55305",
+    "second_level": "4198"
+  },
+  {
+    "query": "comedy",
+    "name": "Hilarious One",
+    "id": "73507",
+    "second_level": "4266"
+  },
+  {
+    "query": "comedy",
+    "name": "Lover Please Stay - Instrumental Version",
+    "id": "14717",
+    "second_level": "1653"
+  },
+  {
+    "query": "comedy",
+    "name": "Funny Thing About Love - Instrumental Version",
+    "id": "80894",
+    "second_level": "6548"
+  },
+  {
+    "query": "comedy",
+    "name": "I Only Watch It for the Weather",
+    "id": "48961",
+    "second_level": "3627"
+  },
+  {
+    "query": "comedy",
+    "name": "Doppelgänger's Demise - Instrumental Version",
+    "id": "68733",
+    "second_level": "5399"
+  },
+  {
+    "query": "comedy",
+    "name": "Belly Button Whistles",
+    "id": "76344",
+    "second_level": "6068"
+  },
+  {
+    "query": "comedy",
+    "name": "Chocolate Factory",
+    "id": "81732",
+    "second_level": "6642"
+  },
+  {
+    "query": "comedy",
+    "name": "The Peaceful King",
+    "id": "33748",
+    "second_level": "2489"
+  },
+  {
+    "query": "comedy",
+    "name": "On the Tip of My Toes",
+    "id": "85913",
+    "second_level": "7022"
+  },
+  {
+    "query": "comedy",
+    "name": "Play Play Play",
+    "id": "14715",
+    "second_level": "1653"
+  },
+  {
+    "query": "comedy",
+    "name": "Skate Park",
+    "id": "56113",
+    "second_level": "4281"
+  },
+  {
+    "query": "comedy",
+    "name": "I Don't Get the Lesson - Lalinea Remix",
+    "id": "80362",
+    "second_level": "6474"
+  },
+  {
+    "query": "comedy",
+    "name": "Happy Birthday - Central Cake - Instrumental Version",
+    "id": "62312",
+    "second_level": "4825"
+  },
+  {
+    "query": "comedy",
+    "name": "Toy Symphony",
+    "id": "16573",
+    "second_level": "1889"
+  },
+  {
+    "query": "comedy",
+    "name": "Little Duke",
+    "id": "65295",
+    "second_level": "5088"
+  },
+  {
+    "query": "comedy",
+    "name": "Everything Changes - No Lead Vocals",
+    "id": "13516",
+    "second_level": "1533"
+  },
+  {
+    "query": "comedy",
+    "name": "Doppelgänger's Demise",
+    "id": "68735",
+    "second_level": "5399"
+  },
+  {
+    "query": "comedy",
+    "name": "Carmen",
+    "id": "16832",
+    "second_level": "1925"
+  },
+  {
+    "query": "comedy",
+    "name": "Another Scary Ride on the Ferris Wheel",
+    "id": "96471",
+    "second_level": "8044"
+  },
+  {
+    "query": "comedy",
+    "name": "Take the Shot",
+    "id": "62640",
+    "second_level": "4875"
+  },
+  {
+    "query": "comedy",
+    "name": "Burger Flip - Instrumental Version",
+    "id": "112354",
+    "second_level": "8979"
+  },
+  {
+    "query": "comedy",
+    "name": "Take the Shot - Instrumental Version",
+    "id": "62642",
+    "second_level": "4875"
+  },
+  {
+    "query": "comedy",
+    "name": "Always on Duty",
+    "id": "63492",
+    "second_level": "4934"
+  },
+  {
+    "query": "comedy",
+    "name": "It's Fun Being a Cat",
+    "id": "111832",
+    "second_level": "8939"
+  },
+  {
+    "query": "comedy",
+    "name": "Cookie Jar",
+    "id": "67132",
+    "second_level": "5242"
+  }
+]

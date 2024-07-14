@@ -1,0 +1,602 @@
+[
+  {
+    "query": "coldplay",
+    "name": "Moonlight",
+    "id": "74462",
+    "second_level": "5869"
+  },
+  {
+    "query": "coldplay",
+    "name": "Inhale",
+    "id": "4411",
+    "second_level": "548"
+  },
+  {
+    "query": "coldplay",
+    "name": "Golden Gate",
+    "id": "88625",
+    "second_level": "7243"
+  },
+  {
+    "query": "coldplay",
+    "name": "Higher Hopes",
+    "id": "75932",
+    "second_level": "6024"
+  },
+  {
+    "query": "coldplay",
+    "name": "Send Me Something",
+    "id": "48815",
+    "second_level": "3614"
+  },
+  {
+    "query": "coldplay",
+    "name": "Me in Real Life",
+    "id": "114572",
+    "second_level": "9157"
+  },
+  {
+    "query": "coldplay",
+    "name": "Rooftops",
+    "id": "60995",
+    "second_level": "4684"
+  },
+  {
+    "query": "coldplay",
+    "name": "Feel - Instrumental Version",
+    "id": "7523",
+    "second_level": "867"
+  },
+  {
+    "query": "coldplay",
+    "name": "I Need You",
+    "id": "94540",
+    "second_level": "7688"
+  },
+  {
+    "query": "coldplay",
+    "name": "If I Ruled the World",
+    "id": "62471",
+    "second_level": "4712"
+  },
+  {
+    "query": "coldplay",
+    "name": "Top of the Morning",
+    "id": "81659",
+    "second_level": "6636"
+  },
+  {
+    "query": "coldplay",
+    "name": "You Never Let Me Go - No Lead Vocals",
+    "id": "11880",
+    "second_level": "1338"
+  },
+  {
+    "query": "coldplay",
+    "name": "Towards the Horizon",
+    "id": "106374",
+    "second_level": "8593"
+  },
+  {
+    "query": "coldplay",
+    "name": "Going Places (feat. Tide Electric)",
+    "id": "130270",
+    "second_level": "11054"
+  },
+  {
+    "query": "coldplay",
+    "name": "The Start of Something New",
+    "id": "83561",
+    "second_level": "6752"
+  },
+  {
+    "query": "coldplay",
+    "name": "Star Night",
+    "id": "54184",
+    "second_level": "4097"
+  },
+  {
+    "query": "coldplay",
+    "name": "Born Again",
+    "id": "13357",
+    "second_level": "1514"
+  },
+  {
+    "query": "coldplay",
+    "name": "Son of a Beach",
+    "id": "45677",
+    "second_level": "3397"
+  },
+  {
+    "query": "coldplay",
+    "name": "Élan",
+    "id": "54274",
+    "second_level": "4114"
+  },
+  {
+    "query": "coldplay",
+    "name": "I'm on Your Side",
+    "id": "113561",
+    "second_level": "9093"
+  },
+  {
+    "query": "coldplay",
+    "name": "Down to Get Up Again",
+    "id": "65197",
+    "second_level": "5074"
+  },
+  {
+    "query": "coldplay",
+    "name": "The Nest - Instrumental Version",
+    "id": "9196",
+    "second_level": "1053"
+  },
+  {
+    "query": "coldplay",
+    "name": "Foresight - Instrumental Version",
+    "id": "9198",
+    "second_level": "1053"
+  },
+  {
+    "query": "coldplay",
+    "name": "Illusion of Perfection - Short Version",
+    "id": "79562",
+    "second_level": "5941"
+  },
+  {
+    "query": "coldplay",
+    "name": "Weepin'",
+    "id": "8202",
+    "second_level": "938"
+  },
+  {
+    "query": "coldplay",
+    "name": "Why Do I Hide?",
+    "id": "15829",
+    "second_level": "1799"
+  },
+  {
+    "query": "coldplay",
+    "name": "Singing Oh - Instrumental Version",
+    "id": "23",
+    "second_level": "10787"
+  },
+  {
+    "query": "coldplay",
+    "name": "Land Called Fantasy",
+    "id": "4554",
+    "second_level": "2377"
+  },
+  {
+    "query": "coldplay",
+    "name": "A Little Bit Hazy",
+    "id": "53914",
+    "second_level": "4066"
+  },
+  {
+    "query": "coldplay",
+    "name": "Vintage",
+    "id": "84968",
+    "second_level": "6931"
+  },
+  {
+    "query": "coldplay",
+    "name": "Ready to Go",
+    "id": "5430",
+    "second_level": "645"
+  },
+  {
+    "query": "coldplay",
+    "name": "Mary Moore Jig",
+    "id": "35991",
+    "second_level": "2680"
+  },
+  {
+    "query": "coldplay",
+    "name": "Watch Me",
+    "id": "9338",
+    "second_level": "1068"
+  },
+  {
+    "query": "coldplay",
+    "name": "Never Let Go",
+    "id": "62702",
+    "second_level": "4883"
+  },
+  {
+    "query": "coldplay",
+    "name": "Air on a G String (Bach) - No Leads",
+    "id": "5966",
+    "second_level": "703"
+  },
+  {
+    "query": "coldplay",
+    "name": "Signs to Follow",
+    "id": "5433",
+    "second_level": "645"
+  },
+  {
+    "query": "coldplay",
+    "name": "Stand Tall Think Clear",
+    "id": "11309",
+    "second_level": "1282"
+  },
+  {
+    "query": "coldplay",
+    "name": "High on Life",
+    "id": "94087",
+    "second_level": "7645"
+  },
+  {
+    "query": "coldplay",
+    "name": "Look Beyond",
+    "id": "5428",
+    "second_level": "645"
+  },
+  {
+    "query": "coldplay",
+    "name": "Before After",
+    "id": "5424",
+    "second_level": "645"
+  },
+  {
+    "query": "coldplay",
+    "name": "Moon - Instrumental Version",
+    "id": "56056",
+    "second_level": "4269"
+  },
+  {
+    "query": "coldplay",
+    "name": "Boxin(g)love",
+    "id": "45679",
+    "second_level": "3397"
+  },
+  {
+    "query": "coldplay",
+    "name": "Burned",
+    "id": "77534",
+    "second_level": "6207"
+  },
+  {
+    "query": "coldplay",
+    "name": "Cowboy",
+    "id": "35576",
+    "second_level": "2639"
+  },
+  {
+    "query": "coldplay",
+    "name": "No Favors",
+    "id": "8199",
+    "second_level": "938"
+  },
+  {
+    "query": "coldplay",
+    "name": "The Beach House - Instrumental Version",
+    "id": "56054",
+    "second_level": "4269"
+  },
+  {
+    "query": "coldplay",
+    "name": "Dreaming of Us - No Lead Vocals",
+    "id": "56052",
+    "second_level": "4269"
+  },
+  {
+    "query": "coldplay",
+    "name": "Foresight",
+    "id": "9199",
+    "second_level": "1053"
+  },
+  {
+    "query": "coldplay",
+    "name": "Seven Seasons",
+    "id": "13726",
+    "second_level": "1520"
+  },
+  {
+    "query": "coldplay",
+    "name": "When You're Older",
+    "id": "6926",
+    "second_level": "857"
+  },
+  {
+    "query": "coldplay",
+    "name": "When I Held You",
+    "id": "61943",
+    "second_level": "4790"
+  },
+  {
+    "query": "coldplay",
+    "name": "Malibu Moonshine - Instrumental Version",
+    "id": "9194",
+    "second_level": "1053"
+  },
+  {
+    "query": "coldplay",
+    "name": "Searching for Distraction",
+    "id": "122455",
+    "second_level": "10016"
+  },
+  {
+    "query": "coldplay",
+    "name": "White Bridge",
+    "id": "67164",
+    "second_level": "5248"
+  },
+  {
+    "query": "coldplay",
+    "name": "Runnin' in Circles",
+    "id": "8205",
+    "second_level": "938"
+  },
+  {
+    "query": "coldplay",
+    "name": "Backwards - Instrumental Version",
+    "id": "54215",
+    "second_level": "4106"
+  },
+  {
+    "query": "coldplay",
+    "name": "A Look Out",
+    "id": "2704",
+    "second_level": "137"
+  },
+  {
+    "query": "coldplay",
+    "name": "Folk Love",
+    "id": "32027",
+    "second_level": "2316"
+  },
+  {
+    "query": "coldplay",
+    "name": "Cheesy Winter",
+    "id": "14350",
+    "second_level": "1618"
+  },
+  {
+    "query": "coldplay",
+    "name": "Her Land",
+    "id": "62463",
+    "second_level": "4845"
+  },
+  {
+    "query": "coldplay",
+    "name": "Rebuild the City",
+    "id": "39733",
+    "second_level": "2994"
+  },
+  {
+    "query": "coldplay",
+    "name": "Make My Love Your Home - Male Lead",
+    "id": "13416",
+    "second_level": "1520"
+  },
+  {
+    "query": "coldplay",
+    "name": "The Ninja Path",
+    "id": "130027",
+    "second_level": "10972"
+  },
+  {
+    "query": "coldplay",
+    "name": "Folklore - Alternative Version",
+    "id": "61348",
+    "second_level": "4732"
+  },
+  {
+    "query": "coldplay",
+    "name": "One Day Soon - Acoustic Version",
+    "id": "48880",
+    "second_level": "2611"
+  },
+  {
+    "query": "coldplay",
+    "name": "Seven Seasons - Instrumental Version",
+    "id": "13727",
+    "second_level": "1520"
+  },
+  {
+    "query": "coldplay",
+    "name": "Cold",
+    "id": "33388",
+    "second_level": "2466"
+  },
+  {
+    "query": "coldplay",
+    "name": "East City Lights",
+    "id": "15246",
+    "second_level": "1713"
+  },
+  {
+    "query": "coldplay",
+    "name": "The Quiet Joy of the Stars",
+    "id": "59443",
+    "second_level": "4544"
+  },
+  {
+    "query": "coldplay",
+    "name": "The Nest",
+    "id": "9197",
+    "second_level": "1053"
+  },
+  {
+    "query": "coldplay",
+    "name": "Pictures of Home",
+    "id": "7432",
+    "second_level": "857"
+  },
+  {
+    "query": "coldplay",
+    "name": "Make My Love Your Home",
+    "id": "13413",
+    "second_level": "1520"
+  },
+  {
+    "query": "coldplay",
+    "name": "Make My Love Your Home - Instrumental Version",
+    "id": "13415",
+    "second_level": "1520"
+  },
+  {
+    "query": "coldplay",
+    "name": "Illusion of Perfection",
+    "id": "75179",
+    "second_level": "5941"
+  },
+  {
+    "query": "coldplay",
+    "name": "Awaken Dawn",
+    "id": "7911",
+    "second_level": "907"
+  },
+  {
+    "query": "coldplay",
+    "name": "Tea Time",
+    "id": "51903",
+    "second_level": "3897"
+  },
+  {
+    "query": "coldplay",
+    "name": "Then I Came",
+    "id": "5608",
+    "second_level": "2377"
+  },
+  {
+    "query": "coldplay",
+    "name": "For You",
+    "id": "5604",
+    "second_level": "2377"
+  },
+  {
+    "query": "coldplay",
+    "name": "Happiness Can Make You Cry",
+    "id": "13587",
+    "second_level": "1426"
+  },
+  {
+    "query": "coldplay",
+    "name": "Comes Around Goes",
+    "id": "7110",
+    "second_level": "523"
+  },
+  {
+    "query": "coldplay",
+    "name": "Bring it On",
+    "id": "13585",
+    "second_level": "1426"
+  },
+  {
+    "query": "coldplay",
+    "name": "Just the Way You Like It",
+    "id": "78759",
+    "second_level": "6344"
+  },
+  {
+    "query": "coldplay",
+    "name": "Take Me Home",
+    "id": "107483",
+    "second_level": "8636"
+  },
+  {
+    "query": "coldplay",
+    "name": "Song of the Butterflies - Strings Version",
+    "id": "14315",
+    "second_level": "1613"
+  },
+  {
+    "query": "coldplay",
+    "name": "Ride with Me",
+    "id": "41539",
+    "second_level": "3105"
+  },
+  {
+    "query": "coldplay",
+    "name": "The Beach House",
+    "id": "56053",
+    "second_level": "4269"
+  },
+  {
+    "query": "coldplay",
+    "name": "What Would You Say? - Alternative Version",
+    "id": "39699",
+    "second_level": "2450"
+  },
+  {
+    "query": "coldplay",
+    "name": "Believe the Hype",
+    "id": "13613",
+    "second_level": "1546"
+  },
+  {
+    "query": "coldplay",
+    "name": "While She Smiled",
+    "id": "12689",
+    "second_level": "1426"
+  },
+  {
+    "query": "coldplay",
+    "name": "I Want To",
+    "id": "92548",
+    "second_level": "7484"
+  },
+  {
+    "query": "coldplay",
+    "name": "The After Glow",
+    "id": "47395",
+    "second_level": "3507"
+  },
+  {
+    "query": "coldplay",
+    "name": "Long Gone",
+    "id": "9348",
+    "second_level": "1069"
+  },
+  {
+    "query": "coldplay",
+    "name": "Tell Me",
+    "id": "13728",
+    "second_level": "1520"
+  },
+  {
+    "query": "coldplay",
+    "name": "Comfortable Silence",
+    "id": "84970",
+    "second_level": "6931"
+  },
+  {
+    "query": "coldplay",
+    "name": "If I Am Lost",
+    "id": "55705",
+    "second_level": "4236"
+  },
+  {
+    "query": "coldplay",
+    "name": "Hello God - Instrumental Version",
+    "id": "15528",
+    "second_level": "800"
+  },
+  {
+    "query": "coldplay",
+    "name": "Something New",
+    "id": "110888",
+    "second_level": "8887"
+  },
+  {
+    "query": "coldplay",
+    "name": "Can't Get High",
+    "id": "8353",
+    "second_level": "952"
+  },
+  {
+    "query": "coldplay",
+    "name": "City Run",
+    "id": "42537",
+    "second_level": "2994"
+  },
+  {
+    "query": "coldplay",
+    "name": "Close Below",
+    "id": "4211",
+    "second_level": "527"
+  }
+]

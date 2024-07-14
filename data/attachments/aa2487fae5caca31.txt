@@ -1,0 +1,602 @@
+[
+  {
+    "query": "blues",
+    "name": "My Cup Is Nearly Empty",
+    "id": "51024",
+    "second_level": "3817"
+  },
+  {
+    "query": "blues",
+    "name": "Mud and Flood",
+    "id": "83575",
+    "second_level": "6809"
+  },
+  {
+    "query": "blues",
+    "name": "Shake That Fever",
+    "id": "83572",
+    "second_level": "6809"
+  },
+  {
+    "query": "blues",
+    "name": "It's All Right Baby",
+    "id": "116155",
+    "second_level": "9364"
+  },
+  {
+    "query": "blues",
+    "name": "Honey Baby - Instrumental Version",
+    "id": "116150",
+    "second_level": "9364"
+  },
+  {
+    "query": "blues",
+    "name": "Blue Collar Blues",
+    "id": "119818",
+    "second_level": "9733"
+  },
+  {
+    "query": "blues",
+    "name": "Grizzly Bear",
+    "id": "51026",
+    "second_level": "3817"
+  },
+  {
+    "query": "blues",
+    "name": "Section 60",
+    "id": "51025",
+    "second_level": "3817"
+  },
+  {
+    "query": "blues",
+    "name": "Willie",
+    "id": "116152",
+    "second_level": "9364"
+  },
+  {
+    "query": "blues",
+    "name": "Sea and Rain",
+    "id": "119819",
+    "second_level": "9733"
+  },
+  {
+    "query": "blues",
+    "name": "Hot Sunset",
+    "id": "110248",
+    "second_level": "8852"
+  },
+  {
+    "query": "blues",
+    "name": "My Death Can Wait",
+    "id": "83570",
+    "second_level": "6809"
+  },
+  {
+    "query": "blues",
+    "name": "Willie - Instrumental Version",
+    "id": "116146",
+    "second_level": "9364"
+  },
+  {
+    "query": "blues",
+    "name": "Homecoming",
+    "id": "92584",
+    "second_level": "7493"
+  },
+  {
+    "query": "blues",
+    "name": "The Memphis Blues",
+    "id": "114816",
+    "second_level": "9204"
+  },
+  {
+    "query": "blues",
+    "name": "Nonsense",
+    "id": "86736",
+    "second_level": "7090"
+  },
+  {
+    "query": "blues",
+    "name": "Soul in My Hands",
+    "id": "6028",
+    "second_level": "708"
+  },
+  {
+    "query": "blues",
+    "name": "Ohhhhhhh",
+    "id": "2039",
+    "second_level": "286"
+  },
+  {
+    "query": "blues",
+    "name": "Reborn",
+    "id": "41",
+    "second_level": "31"
+  },
+  {
+    "query": "blues",
+    "name": "Thought You Was an Angel",
+    "id": "51030",
+    "second_level": "3817"
+  },
+  {
+    "query": "blues",
+    "name": "That's the Spot - Instrumental Version",
+    "id": "128855",
+    "second_level": "10831"
+  },
+  {
+    "query": "blues",
+    "name": "Clock - Short Version",
+    "id": "1515",
+    "second_level": "7"
+  },
+  {
+    "query": "blues",
+    "name": "Sun Lover",
+    "id": "93867",
+    "second_level": "7599"
+  },
+  {
+    "query": "blues",
+    "name": "Solid Ground",
+    "id": "116151",
+    "second_level": "9364"
+  },
+  {
+    "query": "blues",
+    "name": "It Ain't Cheap Being Poor",
+    "id": "10020",
+    "second_level": "1149"
+  },
+  {
+    "query": "blues",
+    "name": "Locomotive",
+    "id": "127478",
+    "second_level": "10597"
+  },
+  {
+    "query": "blues",
+    "name": "Ace High",
+    "id": "97473",
+    "second_level": "7933"
+  },
+  {
+    "query": "blues",
+    "name": "Slide - Instrumental Version",
+    "id": "2949",
+    "second_level": "402"
+  },
+  {
+    "query": "blues",
+    "name": "On My Own - Instrumental Version",
+    "id": "25830",
+    "second_level": "2095"
+  },
+  {
+    "query": "blues",
+    "name": "Open Our Hearts",
+    "id": "86516",
+    "second_level": "7074"
+  },
+  {
+    "query": "blues",
+    "name": "Stupid Followed Evil",
+    "id": "64420",
+    "second_level": "5029"
+  },
+  {
+    "query": "blues",
+    "name": "No Show Blues",
+    "id": "10016",
+    "second_level": "1149"
+  },
+  {
+    "query": "blues",
+    "name": "Honey Baby",
+    "id": "116153",
+    "second_level": "9364"
+  },
+  {
+    "query": "blues",
+    "name": "Open Our Hearts - Instrumental Version",
+    "id": "86518",
+    "second_level": "7074"
+  },
+  {
+    "query": "blues",
+    "name": "Hum Rum Boom",
+    "id": "83574",
+    "second_level": "6809"
+  },
+  {
+    "query": "blues",
+    "name": "Pirate Blues",
+    "id": "78293",
+    "second_level": "6308"
+  },
+  {
+    "query": "blues",
+    "name": "Oak Cliff",
+    "id": "71219",
+    "second_level": "5578"
+  },
+  {
+    "query": "blues",
+    "name": "Transformation",
+    "id": "14431",
+    "second_level": "1629"
+  },
+  {
+    "query": "blues",
+    "name": "Open Our Hearts - No Lead Vocals",
+    "id": "86517",
+    "second_level": "7074"
+  },
+  {
+    "query": "blues",
+    "name": "Smokey Mountain Blue",
+    "id": "110246",
+    "second_level": "8852"
+  },
+  {
+    "query": "blues",
+    "name": "Sunday Groove",
+    "id": "39918",
+    "second_level": "3002"
+  },
+  {
+    "query": "blues",
+    "name": "Ain't Looking Back - Instrumental Version",
+    "id": "70143",
+    "second_level": "5494"
+  },
+  {
+    "query": "blues",
+    "name": "Independence",
+    "id": "92583",
+    "second_level": "7493"
+  },
+  {
+    "query": "blues",
+    "name": "East St. Louis",
+    "id": "49098",
+    "second_level": "3652"
+  },
+  {
+    "query": "blues",
+    "name": "Gritty Desert Slide",
+    "id": "35707",
+    "second_level": "2654"
+  },
+  {
+    "query": "blues",
+    "name": "Making Barbecue Sauce",
+    "id": "54270",
+    "second_level": "4112"
+  },
+  {
+    "query": "blues",
+    "name": "All the Pieces Matter - Vintage Version",
+    "id": "76942",
+    "second_level": "6147"
+  },
+  {
+    "query": "blues",
+    "name": "Suzanna",
+    "id": "78295",
+    "second_level": "6308"
+  },
+  {
+    "query": "blues",
+    "name": "Not Long Now",
+    "id": "75250",
+    "second_level": "5950"
+  },
+  {
+    "query": "blues",
+    "name": "Charger",
+    "id": "56240",
+    "second_level": "4307"
+  },
+  {
+    "query": "blues",
+    "name": "Shillings",
+    "id": "5709",
+    "second_level": "679"
+  },
+  {
+    "query": "blues",
+    "name": "South Road",
+    "id": "41454",
+    "second_level": "3088"
+  },
+  {
+    "query": "blues",
+    "name": "Burning on the Bayou - Instrumental Version",
+    "id": "116148",
+    "second_level": "9364"
+  },
+  {
+    "query": "blues",
+    "name": "Give It a Chance",
+    "id": "1241",
+    "second_level": "210"
+  },
+  {
+    "query": "blues",
+    "name": "Weepin' - Instrumental Version",
+    "id": "8201",
+    "second_level": "938"
+  },
+  {
+    "query": "blues",
+    "name": "The Hard Way",
+    "id": "122316",
+    "second_level": "9983"
+  },
+  {
+    "query": "blues",
+    "name": "Dust and Danger",
+    "id": "124038",
+    "second_level": "10218"
+  },
+  {
+    "query": "blues",
+    "name": "It's True - Instrumental Version",
+    "id": "15419",
+    "second_level": "1733"
+  },
+  {
+    "query": "blues",
+    "name": "Ain't Looking Back - Alternative Version",
+    "id": "70141",
+    "second_level": "5494"
+  },
+  {
+    "query": "blues",
+    "name": "Why Would I",
+    "id": "15412",
+    "second_level": "1733"
+  },
+  {
+    "query": "blues",
+    "name": "The Garrison",
+    "id": "75870",
+    "second_level": "6007"
+  },
+  {
+    "query": "blues",
+    "name": "Holly Shifter",
+    "id": "56237",
+    "second_level": "4307"
+  },
+  {
+    "query": "blues",
+    "name": "Nevada",
+    "id": "95436",
+    "second_level": "7773"
+  },
+  {
+    "query": "blues",
+    "name": "Clock",
+    "id": "30",
+    "second_level": "7"
+  },
+  {
+    "query": "blues",
+    "name": "Nevada - Instrumental Version",
+    "id": "95435",
+    "second_level": "7773"
+  },
+  {
+    "query": "blues",
+    "name": "Can Try",
+    "id": "71994",
+    "second_level": "5631"
+  },
+  {
+    "query": "blues",
+    "name": "On the River",
+    "id": "54143",
+    "second_level": "4089"
+  },
+  {
+    "query": "blues",
+    "name": "Bottlesnake Blues",
+    "id": "49094",
+    "second_level": "3652"
+  },
+  {
+    "query": "blues",
+    "name": "Paid My Dues",
+    "id": "10008",
+    "second_level": "1148"
+  },
+  {
+    "query": "blues",
+    "name": "Candy Shoppe",
+    "id": "49095",
+    "second_level": "3652"
+  },
+  {
+    "query": "blues",
+    "name": "Running on Fuel",
+    "id": "10029",
+    "second_level": "1150"
+  },
+  {
+    "query": "blues",
+    "name": "Howling at the Moon - Stripped Version",
+    "id": "15784",
+    "second_level": "1787"
+  },
+  {
+    "query": "blues",
+    "name": "Summer Breakup Song",
+    "id": "129367",
+    "second_level": "10910"
+  },
+  {
+    "query": "blues",
+    "name": "Revved Up",
+    "id": "122571",
+    "second_level": "10062"
+  },
+  {
+    "query": "blues",
+    "name": "Traveling by Highway",
+    "id": "35713",
+    "second_level": "2654"
+  },
+  {
+    "query": "blues",
+    "name": "Doctor Juice",
+    "id": "58913",
+    "second_level": "4519"
+  },
+  {
+    "query": "blues",
+    "name": "On the Highway",
+    "id": "124655",
+    "second_level": "10264"
+  },
+  {
+    "query": "blues",
+    "name": "Dust and Danger - No Backing Vocals",
+    "id": "124039",
+    "second_level": "10218"
+  },
+  {
+    "query": "blues",
+    "name": "Blue Muse",
+    "id": "14430",
+    "second_level": "1629"
+  },
+  {
+    "query": "blues",
+    "name": "It's a Bad Romance",
+    "id": "2029",
+    "second_level": "285"
+  },
+  {
+    "query": "blues",
+    "name": "Juju Joint",
+    "id": "83571",
+    "second_level": "6809"
+  },
+  {
+    "query": "blues",
+    "name": "After 2AM",
+    "id": "71217",
+    "second_level": "5578"
+  },
+  {
+    "query": "blues",
+    "name": "Free Yourself",
+    "id": "9349",
+    "second_level": "1069"
+  },
+  {
+    "query": "blues",
+    "name": "The Great Tails Blues",
+    "id": "7365",
+    "second_level": "849"
+  },
+  {
+    "query": "blues",
+    "name": "Burning on the Bayou",
+    "id": "116147",
+    "second_level": "9364"
+  },
+  {
+    "query": "blues",
+    "name": "The Road to Nowhere",
+    "id": "14712",
+    "second_level": "1331"
+  },
+  {
+    "query": "blues",
+    "name": "Reborn - Short Version A",
+    "id": "1498",
+    "second_level": "31"
+  },
+  {
+    "query": "blues",
+    "name": "Helpless in Your Arms - No Lead Vocals",
+    "id": "12909",
+    "second_level": "1463"
+  },
+  {
+    "query": "blues",
+    "name": "On the Highway - No Backing Vocals",
+    "id": "124656",
+    "second_level": "10264"
+  },
+  {
+    "query": "blues",
+    "name": "Howling at the Moon",
+    "id": "15786",
+    "second_level": "1787"
+  },
+  {
+    "query": "blues",
+    "name": "Happy Traveling",
+    "id": "2982",
+    "second_level": "407"
+  },
+  {
+    "query": "blues",
+    "name": "Others Will Rise",
+    "id": "56238",
+    "second_level": "4307"
+  },
+  {
+    "query": "blues",
+    "name": "The Western Wind",
+    "id": "84203",
+    "second_level": "6836"
+  },
+  {
+    "query": "blues",
+    "name": "Ain't Looking Back",
+    "id": "70144",
+    "second_level": "5494"
+  },
+  {
+    "query": "blues",
+    "name": "Dyin' Mercy Blues",
+    "id": "49102",
+    "second_level": "3652"
+  },
+  {
+    "query": "blues",
+    "name": "Almaz (feat. Lucky Brown)",
+    "id": "116892",
+    "second_level": "9467"
+  },
+  {
+    "query": "blues",
+    "name": "Wrong Side of Town",
+    "id": "75391",
+    "second_level": "5959"
+  },
+  {
+    "query": "blues",
+    "name": "Unshackled Traveler",
+    "id": "54265",
+    "second_level": "4111"
+  },
+  {
+    "query": "blues",
+    "name": "Across the Delta",
+    "id": "40654",
+    "second_level": "3039"
+  },
+  {
+    "query": "blues",
+    "name": "Promised Land",
+    "id": "898",
+    "second_level": "155"
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "query": "rocknstock",
+    "name": "Shark Alert",
+    "id": "93957",
+    "second_level": "7620"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Melt Away",
+    "id": "94544",
+    "second_level": "7689"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Safari Surf",
+    "id": "80113",
+    "second_level": "6449"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Revolution Colors",
+    "id": "80116",
+    "second_level": "6449"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Roadtrip - No Backing Vocals",
+    "id": "130645",
+    "second_level": "11144"
+  },
+  {
+    "query": "rocknstock",
+    "name": "The Ride Out",
+    "id": "115197",
+    "second_level": "9250"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Roadtrip",
+    "id": "130644",
+    "second_level": "11144"
+  },
+  {
+    "query": "rocknstock",
+    "name": "All Aboard",
+    "id": "32686",
+    "second_level": "2389"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Stage Divers",
+    "id": "130646",
+    "second_level": "11144"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Hot Hot Fire - Instrumental Version",
+    "id": "115697",
+    "second_level": "9306"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Joy Dealer",
+    "id": "130150",
+    "second_level": "9350"
+  },
+  {
+    "query": "rocknstock",
+    "name": "A Taxi Full of Tarantulas",
+    "id": "94535",
+    "second_level": "7687"
+  },
+  {
+    "query": "rocknstock",
+    "name": "My Brand New Car - Instrumental Version",
+    "id": "64804",
+    "second_level": "5058"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Surf Time Machine - Instrumental Version",
+    "id": "80115",
+    "second_level": "6449"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Say Yeah!",
+    "id": "75417",
+    "second_level": "5965"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Call from Earth",
+    "id": "113375",
+    "second_level": "9063"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Wave Rush",
+    "id": "86311",
+    "second_level": "7054"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Dreaming Lucifer - Short Version B",
+    "id": "1540",
+    "second_level": "101"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Loose Ends",
+    "id": "32688",
+    "second_level": "2389"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Tide",
+    "id": "32687",
+    "second_level": "2389"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Hot Hot Fire",
+    "id": "115696",
+    "second_level": "9306"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Partygoer",
+    "id": "78281",
+    "second_level": "6304"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Just Make It Fun",
+    "id": "75415",
+    "second_level": "5965"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Tides",
+    "id": "107554",
+    "second_level": "8648"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Through Their Mind - Instrumental Version",
+    "id": "31516",
+    "second_level": "2256"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Outlaw Rockers",
+    "id": "63416",
+    "second_level": "4924"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Revolution Colors - No Lead Guitar and No Lead Keys",
+    "id": "80117",
+    "second_level": "6449"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Safari Surf - No Lead Guitar and No Lead Keys",
+    "id": "80111",
+    "second_level": "6449"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Hot Hot Fire - No Lead Vocals",
+    "id": "115698",
+    "second_level": "9306"
+  },
+  {
+    "query": "rocknstock",
+    "name": "On the Road",
+    "id": "114727",
+    "second_level": "9184"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Beach Break",
+    "id": "119584",
+    "second_level": "9699"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Garage Band Revolt - No Backing Vocals",
+    "id": "126434",
+    "second_level": "10451"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Wheels on Fire",
+    "id": "78284",
+    "second_level": "6304"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Sneaky Heart",
+    "id": "127472",
+    "second_level": "10594"
+  },
+  {
+    "query": "rocknstock",
+    "name": "On the Road - No Lead Vocals",
+    "id": "114729",
+    "second_level": "9184"
+  },
+  {
+    "query": "rocknstock",
+    "name": "On the Road - Instrumental Version",
+    "id": "114728",
+    "second_level": "9184"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Move Your Body",
+    "id": "54348",
+    "second_level": "4122"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Renegades",
+    "id": "113374",
+    "second_level": "9063"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Moonscape",
+    "id": "127599",
+    "second_level": "10628"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Petrichor",
+    "id": "10656",
+    "second_level": "1210"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Halfway to Heartache",
+    "id": "92405",
+    "second_level": "7451"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Other Scenarios - Extended Version",
+    "id": "3072",
+    "second_level": "417"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Blondie",
+    "id": "10652",
+    "second_level": "1210"
+  },
+  {
+    "query": "rocknstock",
+    "name": "How the Story Goes - Instrumental Version",
+    "id": "109004",
+    "second_level": "8752"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Space Disco",
+    "id": "92581",
+    "second_level": "7492"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Gallus Gallus - No Lead Vocals",
+    "id": "106789",
+    "second_level": "8610"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Addicted to Destruction",
+    "id": "73461",
+    "second_level": "5733"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Miss Lindy",
+    "id": "6555",
+    "second_level": "763"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Gallus Gallus - Instrumental Version",
+    "id": "106788",
+    "second_level": "8610"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Mind Map",
+    "id": "122488",
+    "second_level": "10038"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Gallus Gallus",
+    "id": "106787",
+    "second_level": "8610"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Keep Grooving",
+    "id": "78280",
+    "second_level": "6304"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Take It Easy",
+    "id": "78283",
+    "second_level": "6304"
+  },
+  {
+    "query": "rocknstock",
+    "name": "BackRash",
+    "id": "113376",
+    "second_level": "9063"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Do You Really Wanna Know?",
+    "id": "119553",
+    "second_level": "9693"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Look At Her Go - Instrumental Version",
+    "id": "128371",
+    "second_level": "10747"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Fire It Up",
+    "id": "63418",
+    "second_level": "4924"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Other Scenarios",
+    "id": "3070",
+    "second_level": "417"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Oil-Whales' Revenge",
+    "id": "127469",
+    "second_level": "10594"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Golden Plains Forever - Instrumental Version",
+    "id": "66105",
+    "second_level": "5180"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Dreaming Lucifer - Short Version A",
+    "id": "1539",
+    "second_level": "101"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Unhealthy",
+    "id": "42264",
+    "second_level": "3183"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Deadbeats",
+    "id": "93890",
+    "second_level": "4375"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Born to Rebel",
+    "id": "82781",
+    "second_level": "6718"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Pinwheel - Stripped Version",
+    "id": "81326",
+    "second_level": "5941"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Reckless",
+    "id": "36543",
+    "second_level": "2744"
+  },
+  {
+    "query": "rocknstock",
+    "name": "If You Wanna",
+    "id": "117029",
+    "second_level": "9495"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Highway",
+    "id": "16579",
+    "second_level": "1891"
+  },
+  {
+    "query": "rocknstock",
+    "name": "The World Is Mine",
+    "id": "92520",
+    "second_level": "7478"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Wild Jungle",
+    "id": "120054",
+    "second_level": "9790"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Shut up and Party!",
+    "id": "73466",
+    "second_level": "5733"
+  },
+  {
+    "query": "rocknstock",
+    "name": "If You Wanna - No Backing Vocals",
+    "id": "117028",
+    "second_level": "9495"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Hahaha",
+    "id": "78781",
+    "second_level": "6352"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Hammers",
+    "id": "3069",
+    "second_level": "417"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Perfect Day for a Party",
+    "id": "75416",
+    "second_level": "5965"
+  },
+  {
+    "query": "rocknstock",
+    "name": "A Shot in the Dark",
+    "id": "38113",
+    "second_level": "2882"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Wild Jungle - Instrumental Version",
+    "id": "120053",
+    "second_level": "9790"
+  },
+  {
+    "query": "rocknstock",
+    "name": "We Are Not the Robots",
+    "id": "127473",
+    "second_level": "10594"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Easy Money",
+    "id": "57213",
+    "second_level": "4375"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Hell Yeah - Instrumental Version",
+    "id": "11299",
+    "second_level": "1281"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Rockin' Youth",
+    "id": "73465",
+    "second_level": "5733"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Too Close to the Sun",
+    "id": "5831",
+    "second_level": "692"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Backwards - Instrumental Version",
+    "id": "54215",
+    "second_level": "4106"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Can't Beat the Rock",
+    "id": "73462",
+    "second_level": "5733"
+  },
+  {
+    "query": "rocknstock",
+    "name": "",
+    "id": "3244",
+    "second_level": ""
+  },
+  {
+    "query": "rocknstock",
+    "name": "Catch the Vibe",
+    "id": "78279",
+    "second_level": "6304"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Electric Reflection",
+    "id": "42258",
+    "second_level": "3183"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Tailfeather Bop",
+    "id": "57221",
+    "second_level": "4375"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Standing Strong",
+    "id": "95383",
+    "second_level": "5547"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Surfboard Life",
+    "id": "126481",
+    "second_level": "10465"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Never Late to Have Fun",
+    "id": "88065",
+    "second_level": "7194"
+  },
+  {
+    "query": "rocknstock",
+    "name": "La Vendetta Rossa",
+    "id": "66104",
+    "second_level": "5180"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Roadside Rodeo",
+    "id": "40653",
+    "second_level": "3039"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Away from It All",
+    "id": "48799",
+    "second_level": "3613"
+  },
+  {
+    "query": "rocknstock",
+    "name": "My Brand New Car",
+    "id": "64805",
+    "second_level": "5058"
+  },
+  {
+    "query": "rocknstock",
+    "name": "No Matter How Hard We Try",
+    "id": "13580",
+    "second_level": "3631"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Blinded",
+    "id": "120055",
+    "second_level": "9790"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Fire and Flames",
+    "id": "118983",
+    "second_level": "9662"
+  },
+  {
+    "query": "rocknstock",
+    "name": "Do You Really Wanna Know? - No Backing Vocals",
+    "id": "119555",
+    "second_level": "9693"
+  },
+  {
+    "query": "rocknstock",
+    "name": "On the Run",
+    "id": "84201",
+    "second_level": "6836"
+  }
+]

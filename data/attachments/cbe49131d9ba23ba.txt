@@ -1,0 +1,602 @@
+[
+  {
+    "query": "jingle",
+    "name": "Christmas Movie",
+    "id": "16345",
+    "second_level": "1860"
+  },
+  {
+    "query": "jingle",
+    "name": "The Christmas Sleigh Ride",
+    "id": "48544",
+    "second_level": "3579"
+  },
+  {
+    "query": "jingle",
+    "name": "Christmas Eve",
+    "id": "78084",
+    "second_level": "6280"
+  },
+  {
+    "query": "jingle",
+    "name": "Winter Morning",
+    "id": "125225",
+    "second_level": "10343"
+  },
+  {
+    "query": "jingle",
+    "name": "Winter Wonderland",
+    "id": "47436",
+    "second_level": "3512"
+  },
+  {
+    "query": "jingle",
+    "name": "Spread the Cheer Time of Year",
+    "id": "118646",
+    "second_level": "9653"
+  },
+  {
+    "query": "jingle",
+    "name": "Snowflakes",
+    "id": "122225",
+    "second_level": "9960"
+  },
+  {
+    "query": "jingle",
+    "name": "Morning Has Come",
+    "id": "127054",
+    "second_level": "10570"
+  },
+  {
+    "query": "jingle",
+    "name": "Just in Time for Christmas",
+    "id": "104445",
+    "second_level": "8466"
+  },
+  {
+    "query": "jingle",
+    "name": "Santa Always Comes at Night",
+    "id": "50926",
+    "second_level": "3799"
+  },
+  {
+    "query": "jingle",
+    "name": "We Wish You a Merry Christmas",
+    "id": "16325",
+    "second_level": "1857"
+  },
+  {
+    "query": "jingle",
+    "name": "Ocean Whistle - No Backing Vocals",
+    "id": "122627",
+    "second_level": "10079"
+  },
+  {
+    "query": "jingle",
+    "name": "Ocean Whistle",
+    "id": "122628",
+    "second_level": "10079"
+  },
+  {
+    "query": "jingle",
+    "name": "Blizzard",
+    "id": "125224",
+    "second_level": "10343"
+  },
+  {
+    "query": "jingle",
+    "name": "Christmas Is Coming",
+    "id": "78085",
+    "second_level": "6280"
+  },
+  {
+    "query": "jingle",
+    "name": "Christmas Wish - No Lead",
+    "id": "15154",
+    "second_level": "1635"
+  },
+  {
+    "query": "jingle",
+    "name": "Big Help",
+    "id": "9795",
+    "second_level": "1123"
+  },
+  {
+    "query": "jingle",
+    "name": "Can't Look Down",
+    "id": "50982",
+    "second_level": "3806"
+  },
+  {
+    "query": "jingle",
+    "name": "A Christmas Tale",
+    "id": "102631",
+    "second_level": "5423"
+  },
+  {
+    "query": "jingle",
+    "name": "Deck the Halls",
+    "id": "44302",
+    "second_level": "3324"
+  },
+  {
+    "query": "jingle",
+    "name": "I Want a Synthesizer for Christmas",
+    "id": "5519",
+    "second_level": "650"
+  },
+  {
+    "query": "jingle",
+    "name": "SnowFall",
+    "id": "4788",
+    "second_level": "588"
+  },
+  {
+    "query": "jingle",
+    "name": "Toy Symphony",
+    "id": "16573",
+    "second_level": "1889"
+  },
+  {
+    "query": "jingle",
+    "name": "Jingle Bells",
+    "id": "1426",
+    "second_level": "241"
+  },
+  {
+    "query": "jingle",
+    "name": "Glistening Snow",
+    "id": "72024",
+    "second_level": "5640"
+  },
+  {
+    "query": "jingle",
+    "name": "Feel You",
+    "id": "51429",
+    "second_level": "3864"
+  },
+  {
+    "query": "jingle",
+    "name": "Christmas Eve",
+    "id": "12817",
+    "second_level": "1450"
+  },
+  {
+    "query": "jingle",
+    "name": "Christmas Wish",
+    "id": "15153",
+    "second_level": "1635"
+  },
+  {
+    "query": "jingle",
+    "name": "Magical Christmas",
+    "id": "16322",
+    "second_level": "1857"
+  },
+  {
+    "query": "jingle",
+    "name": "All Around the Christmas Tree",
+    "id": "127258",
+    "second_level": "10584"
+  },
+  {
+    "query": "jingle",
+    "name": "Deck the Halls",
+    "id": "1427",
+    "second_level": "241"
+  },
+  {
+    "query": "jingle",
+    "name": "Jingle Bells",
+    "id": "49544",
+    "second_level": "3683"
+  },
+  {
+    "query": "jingle",
+    "name": "Christmas with You",
+    "id": "15155",
+    "second_level": "1635"
+  },
+  {
+    "query": "jingle",
+    "name": "Joy to the World",
+    "id": "49545",
+    "second_level": "3683"
+  },
+  {
+    "query": "jingle",
+    "name": "Christmas Morning",
+    "id": "104443",
+    "second_level": "8466"
+  },
+  {
+    "query": "jingle",
+    "name": "Jingle Jam",
+    "id": "4813",
+    "second_level": "592"
+  },
+  {
+    "query": "jingle",
+    "name": "Tomorrow Is Christmas Day",
+    "id": "70696",
+    "second_level": "5550"
+  },
+  {
+    "query": "jingle",
+    "name": "That's a Wrap",
+    "id": "127053",
+    "second_level": "10570"
+  },
+  {
+    "query": "jingle",
+    "name": "Silent Night",
+    "id": "124301",
+    "second_level": "10236"
+  },
+  {
+    "query": "jingle",
+    "name": "Santa Always Comes at Night - Stripped Version",
+    "id": "50924",
+    "second_level": "3799"
+  },
+  {
+    "query": "jingle",
+    "name": "Deck the Halls",
+    "id": "49543",
+    "second_level": "3683"
+  },
+  {
+    "query": "jingle",
+    "name": "White Morning",
+    "id": "122667",
+    "second_level": "10097"
+  },
+  {
+    "query": "jingle",
+    "name": "Christmas Around the World",
+    "id": "4817",
+    "second_level": "592"
+  },
+  {
+    "query": "jingle",
+    "name": "Christmas Morning",
+    "id": "69122",
+    "second_level": "5423"
+  },
+  {
+    "query": "jingle",
+    "name": "Silent Night - No Backing Vocals",
+    "id": "124302",
+    "second_level": "10236"
+  },
+  {
+    "query": "jingle",
+    "name": "Jingle Bells - Instrumental Version",
+    "id": "49540",
+    "second_level": "3683"
+  },
+  {
+    "query": "jingle",
+    "name": "Blazing Christmas - Instrumental Version",
+    "id": "104422",
+    "second_level": "1976"
+  },
+  {
+    "query": "jingle",
+    "name": "The Red and Green",
+    "id": "127052",
+    "second_level": "10570"
+  },
+  {
+    "query": "jingle",
+    "name": "Midnight Escape - Theremin  Pads & Bells",
+    "id": "8801",
+    "second_level": "1000"
+  },
+  {
+    "query": "jingle",
+    "name": "Santa Always Comes at Night - Instrumental Version",
+    "id": "50925",
+    "second_level": "3799"
+  },
+  {
+    "query": "jingle",
+    "name": "Bam Boom! Jingle Bells",
+    "id": "53119",
+    "second_level": "3980"
+  },
+  {
+    "query": "jingle",
+    "name": "Taboggan Jive",
+    "id": "15164",
+    "second_level": "1635"
+  },
+  {
+    "query": "jingle",
+    "name": "Christmas Gifts",
+    "id": "46902",
+    "second_level": "3462"
+  },
+  {
+    "query": "jingle",
+    "name": "Vintage Christmas Tale - Alternative Version",
+    "id": "104421",
+    "second_level": "1976"
+  },
+  {
+    "query": "jingle",
+    "name": "Xmas Story",
+    "id": "104446",
+    "second_level": "8466"
+  },
+  {
+    "query": "jingle",
+    "name": "Christmas Walk",
+    "id": "9798",
+    "second_level": "1123"
+  },
+  {
+    "query": "jingle",
+    "name": "Lights of Christmas",
+    "id": "46903",
+    "second_level": "3462"
+  },
+  {
+    "query": "jingle",
+    "name": "December 25",
+    "id": "12818",
+    "second_level": "1450"
+  },
+  {
+    "query": "jingle",
+    "name": "Cold Winter Waking",
+    "id": "102630",
+    "second_level": "8334"
+  },
+  {
+    "query": "jingle",
+    "name": "A Very Sunny Christmas - Instrumental Version",
+    "id": "104418",
+    "second_level": "1976"
+  },
+  {
+    "query": "jingle",
+    "name": "Hello Santa",
+    "id": "12820",
+    "second_level": "1450"
+  },
+  {
+    "query": "jingle",
+    "name": "Winter Sleigh Ride",
+    "id": "76912",
+    "second_level": "6143"
+  },
+  {
+    "query": "jingle",
+    "name": "Christmas Pudding",
+    "id": "46904",
+    "second_level": "3462"
+  },
+  {
+    "query": "jingle",
+    "name": "Morning Miracle",
+    "id": "105838",
+    "second_level": "8565"
+  },
+  {
+    "query": "jingle",
+    "name": "Blazing Christmas",
+    "id": "51833",
+    "second_level": "1976"
+  },
+  {
+    "query": "jingle",
+    "name": "Vintage Christmas Tale",
+    "id": "51832",
+    "second_level": "1976"
+  },
+  {
+    "query": "jingle",
+    "name": "A Christmas Story",
+    "id": "102736",
+    "second_level": "8347"
+  },
+  {
+    "query": "jingle",
+    "name": "Holiday in the Snow",
+    "id": "104591",
+    "second_level": "8479"
+  },
+  {
+    "query": "jingle",
+    "name": "Merry Morning Magic",
+    "id": "127954",
+    "second_level": "10680"
+  },
+  {
+    "query": "jingle",
+    "name": "Christmas City",
+    "id": "102724",
+    "second_level": "8346"
+  },
+  {
+    "query": "jingle",
+    "name": "We Wish You a Merry Christmas",
+    "id": "107538",
+    "second_level": "8644"
+  },
+  {
+    "query": "jingle",
+    "name": "Auld Lang Syne",
+    "id": "114805",
+    "second_level": "9198"
+  },
+  {
+    "query": "jingle",
+    "name": "The Beauty of December",
+    "id": "76711",
+    "second_level": "6096"
+  },
+  {
+    "query": "jingle",
+    "name": "Snow Day",
+    "id": "102836",
+    "second_level": "8357"
+  },
+  {
+    "query": "jingle",
+    "name": "Christmas Shibuya",
+    "id": "104586",
+    "second_level": "9634"
+  },
+  {
+    "query": "jingle",
+    "name": "O Christmas Tree",
+    "id": "107540",
+    "second_level": "8644"
+  },
+  {
+    "query": "jingle",
+    "name": "Jingle Bells",
+    "id": "1437",
+    "second_level": "591"
+  },
+  {
+    "query": "jingle",
+    "name": "Fireworks",
+    "id": "104444",
+    "second_level": "8466"
+  },
+  {
+    "query": "jingle",
+    "name": "Christmas Gifts",
+    "id": "104442",
+    "second_level": "8466"
+  },
+  {
+    "query": "jingle",
+    "name": "Bring a Torch  Jeanette  Isabella",
+    "id": "51045",
+    "second_level": "3820"
+  },
+  {
+    "query": "jingle",
+    "name": "Wish",
+    "id": "126887",
+    "second_level": "10535"
+  },
+  {
+    "query": "jingle",
+    "name": "Jingle Bells",
+    "id": "4815",
+    "second_level": "592"
+  },
+  {
+    "query": "jingle",
+    "name": "Black Bells",
+    "id": "9631",
+    "second_level": "1104"
+  },
+  {
+    "query": "jingle",
+    "name": "Gift Wrapping",
+    "id": "104590",
+    "second_level": "8479"
+  },
+  {
+    "query": "jingle",
+    "name": "Snow Bound",
+    "id": "15161",
+    "second_level": "1635"
+  },
+  {
+    "query": "jingle",
+    "name": "The Rain Song - Stripped Version",
+    "id": "75399",
+    "second_level": "5960"
+  },
+  {
+    "query": "jingle",
+    "name": "Wonder in Winterland",
+    "id": "126538",
+    "second_level": "10483"
+  },
+  {
+    "query": "jingle",
+    "name": "It Came upon a Midnight Clear - Beats to Study To",
+    "id": "76755",
+    "second_level": "6110"
+  },
+  {
+    "query": "jingle",
+    "name": "Partly Sunny Always Funny",
+    "id": "102672",
+    "second_level": "8341"
+  },
+  {
+    "query": "jingle",
+    "name": "Open Hands",
+    "id": "126539",
+    "second_level": "10483"
+  },
+  {
+    "query": "jingle",
+    "name": "Auld Lang Syne - Instrumental Version",
+    "id": "124297",
+    "second_level": "10236"
+  },
+  {
+    "query": "jingle",
+    "name": "The Joyful Season",
+    "id": "93999",
+    "second_level": "7587"
+  },
+  {
+    "query": "jingle",
+    "name": "Jingle Bells - No Lead Vocals",
+    "id": "1438",
+    "second_level": "591"
+  },
+  {
+    "query": "jingle",
+    "name": "Fairy Dreams",
+    "id": "12559",
+    "second_level": "1408"
+  },
+  {
+    "query": "jingle",
+    "name": "Snowflake Sky",
+    "id": "15163",
+    "second_level": "1635"
+  },
+  {
+    "query": "jingle",
+    "name": "Deck the Halls - Instrumental Version",
+    "id": "49537",
+    "second_level": "3683"
+  },
+  {
+    "query": "jingle",
+    "name": "Special Times",
+    "id": "12819",
+    "second_level": "1450"
+  },
+  {
+    "query": "jingle",
+    "name": "A Winter Breeze",
+    "id": "99511",
+    "second_level": "8059"
+  },
+  {
+    "query": "jingle",
+    "name": "Snow Falling",
+    "id": "125223",
+    "second_level": "10343"
+  },
+  {
+    "query": "jingle",
+    "name": "Joy to the World - No Vocal Chops",
+    "id": "49541",
+    "second_level": "3683"
+  }
+]

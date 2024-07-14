@@ -1,0 +1,524 @@
+[
+  {
+    "query": "news",
+    "name": "The Ninja Path",
+    "id": "130027",
+    "second_level": "10972"
+  },
+  {
+    "query": "news",
+    "name": "Moon Dance",
+    "id": "60292",
+    "second_level": "4607"
+  },
+  {
+    "query": "news",
+    "name": "Deltaplane",
+    "id": "56646",
+    "second_level": "4338"
+  },
+  {
+    "query": "news",
+    "name": "Ambit",
+    "id": "3648",
+    "second_level": "479"
+  },
+  {
+    "query": "news",
+    "name": "Fortune Favoured",
+    "id": "93932",
+    "second_level": "7615"
+  },
+  {
+    "query": "news",
+    "name": "Gravity Resting Plan",
+    "id": "7244",
+    "second_level": "838"
+  },
+  {
+    "query": "news",
+    "name": "Land Called Fantasy",
+    "id": "4554",
+    "second_level": "2377"
+  },
+  {
+    "query": "news",
+    "name": "The Meadow",
+    "id": "4781",
+    "second_level": "462"
+  },
+  {
+    "query": "news",
+    "name": "3 Water Springs",
+    "id": "4583",
+    "second_level": "525"
+  },
+  {
+    "query": "news",
+    "name": "The Journey Home",
+    "id": "43562",
+    "second_level": "3265"
+  },
+  {
+    "query": "news",
+    "name": "MAXIMUM - Instrumental Version",
+    "id": "108543",
+    "second_level": "8707"
+  },
+  {
+    "query": "news",
+    "name": "Smiles Incorporated",
+    "id": "80911",
+    "second_level": "6554"
+  },
+  {
+    "query": "news",
+    "name": "Ait Zilal",
+    "id": "8306",
+    "second_level": "947"
+  },
+  {
+    "query": "news",
+    "name": "Korobeiniki - Piano Version",
+    "id": "122568",
+    "second_level": "10061"
+  },
+  {
+    "query": "news",
+    "name": "Hagiga",
+    "id": "15717",
+    "second_level": "1777"
+  },
+  {
+    "query": "news",
+    "name": "United",
+    "id": "51445",
+    "second_level": "3867"
+  },
+  {
+    "query": "news",
+    "name": "Train to Fuji",
+    "id": "122806",
+    "second_level": "10113"
+  },
+  {
+    "query": "news",
+    "name": "Solomon's Carpet",
+    "id": "7331",
+    "second_level": "846"
+  },
+  {
+    "query": "news",
+    "name": "Thoughts in Motion",
+    "id": "1342",
+    "second_level": "225"
+  },
+  {
+    "query": "news",
+    "name": "Happy Birthday - Cinematically Yours",
+    "id": "59104",
+    "second_level": "4530"
+  },
+  {
+    "query": "news",
+    "name": "Canyons",
+    "id": "70156",
+    "second_level": "5505"
+  },
+  {
+    "query": "news",
+    "name": "In a Dream - No Lead Vocals",
+    "id": "9873",
+    "second_level": "1135"
+  },
+  {
+    "query": "news",
+    "name": "Camping - No Drums",
+    "id": "4585",
+    "second_level": "525"
+  },
+  {
+    "query": "news",
+    "name": "Fuego - No Backing Vocals",
+    "id": "126478",
+    "second_level": "10464"
+  },
+  {
+    "query": "news",
+    "name": "Invincible",
+    "id": "11290",
+    "second_level": "1279"
+  },
+  {
+    "query": "news",
+    "name": "Middle Eastern Dance",
+    "id": "51440",
+    "second_level": "3866"
+  },
+  {
+    "query": "news",
+    "name": "The Way Up",
+    "id": "85897",
+    "second_level": "7015"
+  },
+  {
+    "query": "news",
+    "name": "Fuego - Stripped Version",
+    "id": "126479",
+    "second_level": "10464"
+  },
+  {
+    "query": "news",
+    "name": "For Eternity - Instrumental Version",
+    "id": "109343",
+    "second_level": "8778"
+  },
+  {
+    "query": "news",
+    "name": "Rio",
+    "id": "2449",
+    "second_level": "343"
+  },
+  {
+    "query": "news",
+    "name": "Just Between Us",
+    "id": "70599",
+    "second_level": "5540"
+  },
+  {
+    "query": "news",
+    "name": "Electro Fiesta",
+    "id": "126480",
+    "second_level": "10464"
+  },
+  {
+    "query": "news",
+    "name": "Innaco",
+    "id": "10807",
+    "second_level": "1227"
+  },
+  {
+    "query": "news",
+    "name": "Take It Farther",
+    "id": "85782",
+    "second_level": "7006"
+  },
+  {
+    "query": "news",
+    "name": "Endless Fields",
+    "id": "4784",
+    "second_level": "462"
+  },
+  {
+    "query": "news",
+    "name": "Fuego",
+    "id": "126477",
+    "second_level": "10464"
+  },
+  {
+    "query": "news",
+    "name": "Delicate Frost - Instrumental Version",
+    "id": "5009",
+    "second_level": "609"
+  },
+  {
+    "query": "news",
+    "name": "Wildfires",
+    "id": "88733",
+    "second_level": "7255"
+  },
+  {
+    "query": "news",
+    "name": "Riven",
+    "id": "44230",
+    "second_level": "3314"
+  },
+  {
+    "query": "news",
+    "name": "Hino Nacional Brasileiro - Brazil",
+    "id": "13624",
+    "second_level": "3577"
+  },
+  {
+    "query": "news",
+    "name": "Brotherhood",
+    "id": "4530",
+    "second_level": "559"
+  },
+  {
+    "query": "news",
+    "name": "Breaking of Glass",
+    "id": "50724",
+    "second_level": "3760"
+  },
+  {
+    "query": "news",
+    "name": "Scanner",
+    "id": "8110",
+    "second_level": "927"
+  },
+  {
+    "query": "news",
+    "name": "Middle Eastern Dance - No Lead Vocals",
+    "id": "51437",
+    "second_level": "3866"
+  },
+  {
+    "query": "news",
+    "name": "I Promise",
+    "id": "3056",
+    "second_level": "415"
+  },
+  {
+    "query": "news",
+    "name": "We Finally Made It",
+    "id": "5230",
+    "second_level": "628"
+  },
+  {
+    "query": "news",
+    "name": "Draw Near",
+    "id": "77573",
+    "second_level": "5909"
+  },
+  {
+    "query": "news",
+    "name": "Alto Viento",
+    "id": "130026",
+    "second_level": "10971"
+  },
+  {
+    "query": "news",
+    "name": "Darwish",
+    "id": "15900",
+    "second_level": "1777"
+  },
+  {
+    "query": "news",
+    "name": "New City",
+    "id": "8001",
+    "second_level": "915"
+  },
+  {
+    "query": "news",
+    "name": "Kuritza",
+    "id": "7316",
+    "second_level": "844"
+  },
+  {
+    "query": "news",
+    "name": "Breath Celebration",
+    "id": "1280",
+    "second_level": "215"
+  },
+  {
+    "query": "news",
+    "name": "Sahara Nights",
+    "id": "14426",
+    "second_level": "1628"
+  },
+  {
+    "query": "news",
+    "name": "Trickster",
+    "id": "4191",
+    "second_level": "525"
+  },
+  {
+    "query": "news",
+    "name": "It All Comes Together",
+    "id": "3142",
+    "second_level": "429"
+  },
+  {
+    "query": "news",
+    "name": "Parade",
+    "id": "50725",
+    "second_level": "3760"
+  },
+  {
+    "query": "news",
+    "name": "East Coasting",
+    "id": "124149",
+    "second_level": "10227"
+  },
+  {
+    "query": "news",
+    "name": "Drunkards Rest",
+    "id": "50726",
+    "second_level": "3760"
+  },
+  {
+    "query": "news",
+    "name": "Wild Hearted",
+    "id": "79225",
+    "second_level": "6374"
+  },
+  {
+    "query": "news",
+    "name": "Thoughts",
+    "id": "15113",
+    "second_level": "1701"
+  },
+  {
+    "query": "news",
+    "name": "Tamura's Journey",
+    "id": "114581",
+    "second_level": "9161"
+  },
+  {
+    "query": "news",
+    "name": "Gandey",
+    "id": "115667",
+    "second_level": "9299"
+  },
+  {
+    "query": "news",
+    "name": "Concerto Grosso",
+    "id": "47071",
+    "second_level": "3484"
+  },
+  {
+    "query": "news",
+    "name": "Running Towards the Sun",
+    "id": "85783",
+    "second_level": "7006"
+  },
+  {
+    "query": "news",
+    "name": "Young Hearts",
+    "id": "79239",
+    "second_level": "6374"
+  },
+  {
+    "query": "news",
+    "name": "Take Me Higher",
+    "id": "35594",
+    "second_level": "2641"
+  },
+  {
+    "query": "news",
+    "name": "Ratata",
+    "id": "33359",
+    "second_level": "2327"
+  },
+  {
+    "query": "news",
+    "name": "Train to Fuji - No Backing Vocals",
+    "id": "122805",
+    "second_level": "10113"
+  },
+  {
+    "query": "news",
+    "name": "Be the Best",
+    "id": "3531",
+    "second_level": "461"
+  },
+  {
+    "query": "news",
+    "name": "Hafla",
+    "id": "26969",
+    "second_level": "2112"
+  },
+  {
+    "query": "news",
+    "name": "Red Raven in the Snow",
+    "id": "57258",
+    "second_level": "4384"
+  },
+  {
+    "query": "news",
+    "name": "Heavenly Vows",
+    "id": "8141",
+    "second_level": "934"
+  },
+  {
+    "query": "news",
+    "name": "Near Oblivion",
+    "id": "129390",
+    "second_level": "10835"
+  },
+  {
+    "query": "news",
+    "name": "Fragments",
+    "id": "61102",
+    "second_level": "4699"
+  },
+  {
+    "query": "news",
+    "name": "Sunshine",
+    "id": "11694",
+    "second_level": "1318"
+  },
+  {
+    "query": "news",
+    "name": "One Planet",
+    "id": "47439",
+    "second_level": "3513"
+  },
+  {
+    "query": "news",
+    "name": "Sea Breath",
+    "id": "10808",
+    "second_level": "1227"
+  },
+  {
+    "query": "news",
+    "name": "Camping - Instrumental Version",
+    "id": "4581",
+    "second_level": "525"
+  },
+  {
+    "query": "news",
+    "name": "Kimi Ga Yo - Japan",
+    "id": "15861",
+    "second_level": "3577"
+  },
+  {
+    "query": "news",
+    "name": "Wake Up Call",
+    "id": "52478",
+    "second_level": "3937"
+  },
+  {
+    "query": "news",
+    "name": "So It Begins",
+    "id": "88731",
+    "second_level": "7255"
+  },
+  {
+    "query": "news",
+    "name": "Face the Future",
+    "id": "128408",
+    "second_level": "10760"
+  },
+  {
+    "query": "news",
+    "name": "Rothera Point",
+    "id": "13997",
+    "second_level": "1577"
+  },
+  {
+    "query": "news",
+    "name": "All for Us",
+    "id": "56940",
+    "second_level": "4362"
+  },
+  {
+    "query": "news",
+    "name": "City Ro",
+    "id": "126507",
+    "second_level": "10472"
+  },
+  {
+    "query": "news",
+    "name": "Drops from Nature - Stripped Version",
+    "id": "122634",
+    "second_level": "10081"
+  },
+  {
+    "query": "news",
+    "name": "Hey Hey",
+    "id": "59508",
+    "second_level": "4550"
+  }
+]

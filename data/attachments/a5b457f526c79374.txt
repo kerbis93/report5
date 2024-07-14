@@ -1,0 +1,602 @@
+[
+  {
+    "query": "latin",
+    "name": "Luna mezzo mare - Instrumental Version",
+    "id": "93176",
+    "second_level": "7543"
+  },
+  {
+    "query": "latin",
+    "name": "Happy Go Lucky",
+    "id": "125278",
+    "second_level": "10363"
+  },
+  {
+    "query": "latin",
+    "name": "Sueño",
+    "id": "64456",
+    "second_level": "5038"
+  },
+  {
+    "query": "latin",
+    "name": "Take the Shot",
+    "id": "62640",
+    "second_level": "4875"
+  },
+  {
+    "query": "latin",
+    "name": "Medusa the Mournful - Stripped Version",
+    "id": "120002",
+    "second_level": "9775"
+  },
+  {
+    "query": "latin",
+    "name": "Giuliette e Romei",
+    "id": "11080",
+    "second_level": "1256"
+  },
+  {
+    "query": "latin",
+    "name": "Hasta Luego",
+    "id": "74777",
+    "second_level": "5902"
+  },
+  {
+    "query": "latin",
+    "name": "Una persona  un tango",
+    "id": "119723",
+    "second_level": "10670"
+  },
+  {
+    "query": "latin",
+    "name": "Fiesta Del Sol",
+    "id": "85898",
+    "second_level": "7015"
+  },
+  {
+    "query": "latin",
+    "name": "Praia Do Norte",
+    "id": "113479",
+    "second_level": "9083"
+  },
+  {
+    "query": "latin",
+    "name": "Like I Do - Instrumental Version",
+    "id": "36187",
+    "second_level": "2712"
+  },
+  {
+    "query": "latin",
+    "name": "Dixitque Deus (And God Said)",
+    "id": "92688",
+    "second_level": "7946"
+  },
+  {
+    "query": "latin",
+    "name": "Canon in D Major (Pachelbel)",
+    "id": "5963",
+    "second_level": "703"
+  },
+  {
+    "query": "latin",
+    "name": "Take the Shot - Instrumental Version",
+    "id": "62642",
+    "second_level": "4875"
+  },
+  {
+    "query": "latin",
+    "name": "Fusé - Instrumental Version",
+    "id": "101478",
+    "second_level": "8206"
+  },
+  {
+    "query": "latin",
+    "name": "Medusa the Mournful",
+    "id": "119997",
+    "second_level": "9775"
+  },
+  {
+    "query": "latin",
+    "name": "Caelum et Terram (Sky and Earth)",
+    "id": "92694",
+    "second_level": "7946"
+  },
+  {
+    "query": "latin",
+    "name": "Carmen (Bizet)",
+    "id": "65397",
+    "second_level": "5106"
+  },
+  {
+    "query": "latin",
+    "name": "With Some Malice",
+    "id": "31724",
+    "second_level": "2276"
+  },
+  {
+    "query": "latin",
+    "name": "Give It to Me",
+    "id": "130279",
+    "second_level": "11059"
+  },
+  {
+    "query": "latin",
+    "name": "That's Life",
+    "id": "47065",
+    "second_level": "3482"
+  },
+  {
+    "query": "latin",
+    "name": "Ouzo Nights",
+    "id": "8438",
+    "second_level": "962"
+  },
+  {
+    "query": "latin",
+    "name": "Benji Stacks - Instrumental Version",
+    "id": "127762",
+    "second_level": "10648"
+  },
+  {
+    "query": "latin",
+    "name": "Waltz for the Elephants",
+    "id": "81686",
+    "second_level": "6639"
+  },
+  {
+    "query": "latin",
+    "name": "Solo Tu - Only You - Instrumental Version",
+    "id": "94794",
+    "second_level": "7676"
+  },
+  {
+    "query": "latin",
+    "name": "O mio babbino caro",
+    "id": "112752",
+    "second_level": "9028"
+  },
+  {
+    "query": "latin",
+    "name": "Te Quiero",
+    "id": "76364",
+    "second_level": "6079"
+  },
+  {
+    "query": "latin",
+    "name": "Blanco",
+    "id": "90614",
+    "second_level": "7377"
+  },
+  {
+    "query": "latin",
+    "name": "El Mayor",
+    "id": "29314",
+    "second_level": "2214"
+  },
+  {
+    "query": "latin",
+    "name": "Fandangillo",
+    "id": "47109",
+    "second_level": "3493"
+  },
+  {
+    "query": "latin",
+    "name": "Susanna’s Aria: Deh vieni non tardar (Le Nozze di Figaro)",
+    "id": "112756",
+    "second_level": "9028"
+  },
+  {
+    "query": "latin",
+    "name": "Una Cancion para Ti",
+    "id": "29319",
+    "second_level": "2214"
+  },
+  {
+    "query": "latin",
+    "name": "Naranja",
+    "id": "29318",
+    "second_level": "2214"
+  },
+  {
+    "query": "latin",
+    "name": "Spirto",
+    "id": "102410",
+    "second_level": "8286"
+  },
+  {
+    "query": "latin",
+    "name": "Cherubino's Aria: Voi che sapete",
+    "id": "112751",
+    "second_level": "9028"
+  },
+  {
+    "query": "latin",
+    "name": "Take the Shot - Stripped Version",
+    "id": "62641",
+    "second_level": "4875"
+  },
+  {
+    "query": "latin",
+    "name": "Una Rugginosa Rivalita",
+    "id": "11076",
+    "second_level": "1256"
+  },
+  {
+    "query": "latin",
+    "name": "Bransle de Montirande",
+    "id": "114775",
+    "second_level": "9193"
+  },
+  {
+    "query": "latin",
+    "name": "Bransle de la Torche",
+    "id": "114774",
+    "second_level": "9193"
+  },
+  {
+    "query": "latin",
+    "name": "Mas Feliz Del Mundo - Instrumental Version",
+    "id": "47106",
+    "second_level": "3493"
+  },
+  {
+    "query": "latin",
+    "name": "Happy Birthday - Fiesta Club",
+    "id": "60906",
+    "second_level": "4670"
+  },
+  {
+    "query": "latin",
+    "name": "Golden Apple - Short Version B",
+    "id": "1705",
+    "second_level": "87"
+  },
+  {
+    "query": "latin",
+    "name": "Los Peregrinos",
+    "id": "29317",
+    "second_level": "2214"
+  },
+  {
+    "query": "latin",
+    "name": "Golden Apple - Short Version A",
+    "id": "1706",
+    "second_level": "87"
+  },
+  {
+    "query": "latin",
+    "name": "Et Vidit Deus Lucem (God Saw the Light)",
+    "id": "92690",
+    "second_level": "7946"
+  },
+  {
+    "query": "latin",
+    "name": "Mas Feliz Del Mundo - Stripped Version",
+    "id": "47107",
+    "second_level": "3493"
+  },
+  {
+    "query": "latin",
+    "name": "Una Vez Mas",
+    "id": "47108",
+    "second_level": "3493"
+  },
+  {
+    "query": "latin",
+    "name": "The House",
+    "id": "15116",
+    "second_level": "1701"
+  },
+  {
+    "query": "latin",
+    "name": "Musetta's Aria: Quando me'n vo' (La Boheme)",
+    "id": "112763",
+    "second_level": "9028"
+  },
+  {
+    "query": "latin",
+    "name": "Chucka",
+    "id": "102623",
+    "second_level": "8330"
+  },
+  {
+    "query": "latin",
+    "name": "Luna mezzo mare",
+    "id": "93177",
+    "second_level": "7543"
+  },
+  {
+    "query": "latin",
+    "name": "Ave Maria",
+    "id": "129102",
+    "second_level": "10897"
+  },
+  {
+    "query": "latin",
+    "name": "Lux Island - No Strings and Bongos",
+    "id": "126613",
+    "second_level": "10501"
+  },
+  {
+    "query": "latin",
+    "name": "Lo Merecido",
+    "id": "129545",
+    "second_level": "10931"
+  },
+  {
+    "query": "latin",
+    "name": "Tierra de Nadie - No Drums",
+    "id": "76894",
+    "second_level": "6137"
+  },
+  {
+    "query": "latin",
+    "name": "Air on the G String",
+    "id": "124520",
+    "second_level": "10261"
+  },
+  {
+    "query": "latin",
+    "name": "Benji Stacks",
+    "id": "127761",
+    "second_level": "10648"
+  },
+  {
+    "query": "latin",
+    "name": "Canon in D Major",
+    "id": "124521",
+    "second_level": "10261"
+  },
+  {
+    "query": "latin",
+    "name": "Que por Mi...",
+    "id": "8642",
+    "second_level": "983"
+  },
+  {
+    "query": "latin",
+    "name": "Piazza San Marco - Classic Guitar Version",
+    "id": "63890",
+    "second_level": "2191"
+  },
+  {
+    "query": "latin",
+    "name": "Cello Suite No.1 in G Major  BWV 1007 - I. Prelude",
+    "id": "117180",
+    "second_level": "9503"
+  },
+  {
+    "query": "latin",
+    "name": "Maculelê",
+    "id": "55022",
+    "second_level": "4171"
+  },
+  {
+    "query": "latin",
+    "name": "Moon Waltz (1st Movement)",
+    "id": "31726",
+    "second_level": "2276"
+  },
+  {
+    "query": "latin",
+    "name": "Mamita",
+    "id": "114664",
+    "second_level": "9173"
+  },
+  {
+    "query": "latin",
+    "name": "Messenger (Inca)",
+    "id": "33421",
+    "second_level": "2469"
+  },
+  {
+    "query": "latin",
+    "name": "Prelude in C Major (Bach)",
+    "id": "5965",
+    "second_level": "703"
+  },
+  {
+    "query": "latin",
+    "name": "The Bambino",
+    "id": "61352",
+    "second_level": "4733"
+  },
+  {
+    "query": "latin",
+    "name": "Hood Babies",
+    "id": "67933",
+    "second_level": "5332"
+  },
+  {
+    "query": "latin",
+    "name": "Capricho Arabe",
+    "id": "86315",
+    "second_level": "7056"
+  },
+  {
+    "query": "latin",
+    "name": "Streets of Havana",
+    "id": "61353",
+    "second_level": "4733"
+  },
+  {
+    "query": "latin",
+    "name": "Pilgrim's Song - Stripped Version",
+    "id": "120003",
+    "second_level": "9775"
+  },
+  {
+    "query": "latin",
+    "name": "Chucka - Instrumental Version",
+    "id": "102624",
+    "second_level": "8330"
+  },
+  {
+    "query": "latin",
+    "name": "Rapid Motion - With Ethnic Vocals",
+    "id": "380",
+    "second_level": "76"
+  },
+  {
+    "query": "latin",
+    "name": "De Ti",
+    "id": "129547",
+    "second_level": "10931"
+  },
+  {
+    "query": "latin",
+    "name": "Hallelujah Chorus",
+    "id": "114777",
+    "second_level": "9193"
+  },
+  {
+    "query": "latin",
+    "name": "Mas Feliz Del Mundo",
+    "id": "47105",
+    "second_level": "3493"
+  },
+  {
+    "query": "latin",
+    "name": "Asturias",
+    "id": "67790",
+    "second_level": "5309"
+  },
+  {
+    "query": "latin",
+    "name": "Bahamas Nights - Instrumental Version",
+    "id": "44194",
+    "second_level": "3307"
+  },
+  {
+    "query": "latin",
+    "name": "Awkward",
+    "id": "79515",
+    "second_level": "6394"
+  },
+  {
+    "query": "latin",
+    "name": "El Río Fluye - Stripped Version",
+    "id": "47068",
+    "second_level": "3483"
+  },
+  {
+    "query": "latin",
+    "name": "El Río Fluye - Instrumental Version",
+    "id": "47069",
+    "second_level": "3483"
+  },
+  {
+    "query": "latin",
+    "name": "Lascia ch'io pianga (Rinaldo)",
+    "id": "112755",
+    "second_level": "9028"
+  },
+  {
+    "query": "latin",
+    "name": "Cherubino's Aria: Voi che sapete - Instrumental Version",
+    "id": "112750",
+    "second_level": "9028"
+  },
+  {
+    "query": "latin",
+    "name": "La promesa - No Lead Vocals",
+    "id": "15277",
+    "second_level": "1718"
+  },
+  {
+    "query": "latin",
+    "name": "Noches Calurosos",
+    "id": "122654",
+    "second_level": "10089"
+  },
+  {
+    "query": "latin",
+    "name": "Marineros",
+    "id": "47110",
+    "second_level": "3493"
+  },
+  {
+    "query": "latin",
+    "name": "Ta Bater - Remix Version",
+    "id": "31615",
+    "second_level": "1088"
+  },
+  {
+    "query": "latin",
+    "name": "Win",
+    "id": "67794",
+    "second_level": "5310"
+  },
+  {
+    "query": "latin",
+    "name": "Estudio en Mi Menor",
+    "id": "117888",
+    "second_level": "9632"
+  },
+  {
+    "query": "latin",
+    "name": "Recuerdos de la Alhambra",
+    "id": "117887",
+    "second_level": "9632"
+  },
+  {
+    "query": "latin",
+    "name": "Charging Bull - Stripped Version",
+    "id": "130022",
+    "second_level": "10969"
+  },
+  {
+    "query": "latin",
+    "name": "Corre pra Ver - Yarin Primak & Flint Remix",
+    "id": "130292",
+    "second_level": "11066"
+  },
+  {
+    "query": "latin",
+    "name": "Cars of Guadalajara",
+    "id": "66657",
+    "second_level": "5218"
+  },
+  {
+    "query": "latin",
+    "name": "Chassidic Love Tango",
+    "id": "68712",
+    "second_level": "5397"
+  },
+  {
+    "query": "latin",
+    "name": "Charging Bull",
+    "id": "130021",
+    "second_level": "10969"
+  },
+  {
+    "query": "latin",
+    "name": "Action Percussions",
+    "id": "5674",
+    "second_level": "674"
+  },
+  {
+    "query": "latin",
+    "name": "Cumbia da Alegria - Stripped Version",
+    "id": "127823",
+    "second_level": "10660"
+  },
+  {
+    "query": "latin",
+    "name": "Arte Dellincontro",
+    "id": "6655",
+    "second_level": "775"
+  },
+  {
+    "query": "latin",
+    "name": "MLIW",
+    "id": "116640",
+    "second_level": "9440"
+  },
+  {
+    "query": "latin",
+    "name": "Desert Cruising",
+    "id": "8436",
+    "second_level": "962"
+  }
+]

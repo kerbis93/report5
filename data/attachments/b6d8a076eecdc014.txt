@@ -1,0 +1,602 @@
+[
+  {
+    "query": "inspiring",
+    "name": "Awamamba",
+    "id": "32172",
+    "second_level": "2336"
+  },
+  {
+    "query": "inspiring",
+    "name": "Endless Horizons",
+    "id": "7079",
+    "second_level": "875"
+  },
+  {
+    "query": "inspiring",
+    "name": "Finding Peace",
+    "id": "7969",
+    "second_level": "913"
+  },
+  {
+    "query": "inspiring",
+    "name": "Ashe",
+    "id": "67127",
+    "second_level": "5241"
+  },
+  {
+    "query": "inspiring",
+    "name": "Hustle Harder",
+    "id": "13043",
+    "second_level": "1478"
+  },
+  {
+    "query": "inspiring",
+    "name": "Graduation",
+    "id": "122369",
+    "second_level": "9998"
+  },
+  {
+    "query": "inspiring",
+    "name": "Come Spring Time",
+    "id": "88727",
+    "second_level": "7255"
+  },
+  {
+    "query": "inspiring",
+    "name": "Optimistic",
+    "id": "608",
+    "second_level": "112"
+  },
+  {
+    "query": "inspiring",
+    "name": "Standing Up!",
+    "id": "13036",
+    "second_level": "866"
+  },
+  {
+    "query": "inspiring",
+    "name": "Every Breath",
+    "id": "67129",
+    "second_level": "5241"
+  },
+  {
+    "query": "inspiring",
+    "name": "The End",
+    "id": "11421",
+    "second_level": "1294"
+  },
+  {
+    "query": "inspiring",
+    "name": "Wake Up Call",
+    "id": "52478",
+    "second_level": "3937"
+  },
+  {
+    "query": "inspiring",
+    "name": "Remember",
+    "id": "4598",
+    "second_level": "568"
+  },
+  {
+    "query": "inspiring",
+    "name": "Northwest Wind",
+    "id": "49600",
+    "second_level": "3688"
+  },
+  {
+    "query": "inspiring",
+    "name": "Gardens We Are",
+    "id": "112571",
+    "second_level": "9011"
+  },
+  {
+    "query": "inspiring",
+    "name": "Constellations",
+    "id": "130290",
+    "second_level": "11065"
+  },
+  {
+    "query": "inspiring",
+    "name": "Ascension",
+    "id": "115326",
+    "second_level": "9266"
+  },
+  {
+    "query": "inspiring",
+    "name": "The Night Will Soon Be Over",
+    "id": "36206",
+    "second_level": "2717"
+  },
+  {
+    "query": "inspiring",
+    "name": "High Hopes",
+    "id": "101524",
+    "second_level": "8219"
+  },
+  {
+    "query": "inspiring",
+    "name": "Forever",
+    "id": "126981",
+    "second_level": "10553"
+  },
+  {
+    "query": "inspiring",
+    "name": "Ocean Depth",
+    "id": "102539",
+    "second_level": "8324"
+  },
+  {
+    "query": "inspiring",
+    "name": "The Last Hero",
+    "id": "102538",
+    "second_level": "8324"
+  },
+  {
+    "query": "inspiring",
+    "name": "A Place in the Universe",
+    "id": "122366",
+    "second_level": "9998"
+  },
+  {
+    "query": "inspiring",
+    "name": "Galaxy",
+    "id": "128428",
+    "second_level": "10772"
+  },
+  {
+    "query": "inspiring",
+    "name": "September Story",
+    "id": "128402",
+    "second_level": "10756"
+  },
+  {
+    "query": "inspiring",
+    "name": "Cloud Drawings",
+    "id": "102537",
+    "second_level": "8324"
+  },
+  {
+    "query": "inspiring",
+    "name": "Order Out of Chaos",
+    "id": "119570",
+    "second_level": "9695"
+  },
+  {
+    "query": "inspiring",
+    "name": "Beyond the Horizon",
+    "id": "13039",
+    "second_level": "841"
+  },
+  {
+    "query": "inspiring",
+    "name": "Awaken",
+    "id": "94786",
+    "second_level": "7717"
+  },
+  {
+    "query": "inspiring",
+    "name": "Dream Again",
+    "id": "101526",
+    "second_level": "8219"
+  },
+  {
+    "query": "inspiring",
+    "name": "Gliding Hearts",
+    "id": "102519",
+    "second_level": "8322"
+  },
+  {
+    "query": "inspiring",
+    "name": "The Dance of Love",
+    "id": "127496",
+    "second_level": "10604"
+  },
+  {
+    "query": "inspiring",
+    "name": "Rejoice in the Morning",
+    "id": "65290",
+    "second_level": "5539"
+  },
+  {
+    "query": "inspiring",
+    "name": "Rise",
+    "id": "4596",
+    "second_level": "568"
+  },
+  {
+    "query": "inspiring",
+    "name": "Heading North",
+    "id": "69148",
+    "second_level": "5427"
+  },
+  {
+    "query": "inspiring",
+    "name": "The Glory That Awaits",
+    "id": "127493",
+    "second_level": "10604"
+  },
+  {
+    "query": "inspiring",
+    "name": "Looking Further",
+    "id": "121928",
+    "second_level": "9946"
+  },
+  {
+    "query": "inspiring",
+    "name": "Reaching for the Stars",
+    "id": "70240",
+    "second_level": "5515"
+  },
+  {
+    "query": "inspiring",
+    "name": "Siren Song",
+    "id": "13497",
+    "second_level": "1530"
+  },
+  {
+    "query": "inspiring",
+    "name": "Fortitude",
+    "id": "56657",
+    "second_level": "4338"
+  },
+  {
+    "query": "inspiring",
+    "name": "Liberation",
+    "id": "121495",
+    "second_level": "9932"
+  },
+  {
+    "query": "inspiring",
+    "name": "Bring Light",
+    "id": "5190",
+    "second_level": "625"
+  },
+  {
+    "query": "inspiring",
+    "name": "Cloud Drawings - Instrumental Version",
+    "id": "102541",
+    "second_level": "8324"
+  },
+  {
+    "query": "inspiring",
+    "name": "Caelum",
+    "id": "58792",
+    "second_level": "4505"
+  },
+  {
+    "query": "inspiring",
+    "name": "Dance in the Light",
+    "id": "62114",
+    "second_level": "5539"
+  },
+  {
+    "query": "inspiring",
+    "name": "I Still Need You",
+    "id": "112634",
+    "second_level": "9015"
+  },
+  {
+    "query": "inspiring",
+    "name": "Delicate Frost - Instrumental Version",
+    "id": "5009",
+    "second_level": "609"
+  },
+  {
+    "query": "inspiring",
+    "name": "Ultra Light",
+    "id": "12721",
+    "second_level": "1432"
+  },
+  {
+    "query": "inspiring",
+    "name": "Signs of Life",
+    "id": "119572",
+    "second_level": "9695"
+  },
+  {
+    "query": "inspiring",
+    "name": "Before After",
+    "id": "5424",
+    "second_level": "645"
+  },
+  {
+    "query": "inspiring",
+    "name": "Unearth",
+    "id": "55213",
+    "second_level": "4182"
+  },
+  {
+    "query": "inspiring",
+    "name": "Teché Wé - Instrumental Version",
+    "id": "32169",
+    "second_level": "2336"
+  },
+  {
+    "query": "inspiring",
+    "name": "For Eternity - Instrumental Version",
+    "id": "109343",
+    "second_level": "8778"
+  },
+  {
+    "query": "inspiring",
+    "name": "Newborn",
+    "id": "56553",
+    "second_level": "4330"
+  },
+  {
+    "query": "inspiring",
+    "name": "Waiting for You",
+    "id": "7521",
+    "second_level": "866"
+  },
+  {
+    "query": "inspiring",
+    "name": "Feel",
+    "id": "7525",
+    "second_level": "867"
+  },
+  {
+    "query": "inspiring",
+    "name": "The Real Heroes",
+    "id": "61851",
+    "second_level": "4783"
+  },
+  {
+    "query": "inspiring",
+    "name": "Teché Wé",
+    "id": "32170",
+    "second_level": "2336"
+  },
+  {
+    "query": "inspiring",
+    "name": "East Coasting",
+    "id": "124149",
+    "second_level": "10227"
+  },
+  {
+    "query": "inspiring",
+    "name": "Circle of Life",
+    "id": "93952",
+    "second_level": "7619"
+  },
+  {
+    "query": "inspiring",
+    "name": "Canyons",
+    "id": "70156",
+    "second_level": "5505"
+  },
+  {
+    "query": "inspiring",
+    "name": "Adventure Awaits",
+    "id": "126751",
+    "second_level": "10509"
+  },
+  {
+    "query": "inspiring",
+    "name": "Gardens We Are - Instrumental Version",
+    "id": "112572",
+    "second_level": "9011"
+  },
+  {
+    "query": "inspiring",
+    "name": "Motion",
+    "id": "7067",
+    "second_level": "811"
+  },
+  {
+    "query": "inspiring",
+    "name": "Like We Used to Be - No Lead Vocals",
+    "id": "114585",
+    "second_level": "9162"
+  },
+  {
+    "query": "inspiring",
+    "name": "Mara Mara",
+    "id": "67183",
+    "second_level": "5251"
+  },
+  {
+    "query": "inspiring",
+    "name": "Glowing Skies",
+    "id": "7086",
+    "second_level": "737"
+  },
+  {
+    "query": "inspiring",
+    "name": "Against All Odds",
+    "id": "99976",
+    "second_level": "8085"
+  },
+  {
+    "query": "inspiring",
+    "name": "Life Begins",
+    "id": "112561",
+    "second_level": "9009"
+  },
+  {
+    "query": "inspiring",
+    "name": "Vision",
+    "id": "53987",
+    "second_level": "4078"
+  },
+  {
+    "query": "inspiring",
+    "name": "Horizon",
+    "id": "102514",
+    "second_level": "8321"
+  },
+  {
+    "query": "inspiring",
+    "name": "Against All Odds",
+    "id": "57208",
+    "second_level": "4374"
+  },
+  {
+    "query": "inspiring",
+    "name": "Glimpses",
+    "id": "8184",
+    "second_level": "937"
+  },
+  {
+    "query": "inspiring",
+    "name": "Cannot Be Broken",
+    "id": "102925",
+    "second_level": "8369"
+  },
+  {
+    "query": "inspiring",
+    "name": "The Approach",
+    "id": "4595",
+    "second_level": "568"
+  },
+  {
+    "query": "inspiring",
+    "name": "Liberation - Instrumental Version",
+    "id": "121493",
+    "second_level": "9932"
+  },
+  {
+    "query": "inspiring",
+    "name": "Fortitude - Short Version",
+    "id": "56656",
+    "second_level": "4338"
+  },
+  {
+    "query": "inspiring",
+    "name": "Taking the Leap",
+    "id": "8002",
+    "second_level": "915"
+  },
+  {
+    "query": "inspiring",
+    "name": "Manyatta",
+    "id": "49599",
+    "second_level": "3688"
+  },
+  {
+    "query": "inspiring",
+    "name": "Trickster",
+    "id": "4191",
+    "second_level": "525"
+  },
+  {
+    "query": "inspiring",
+    "name": "Human Spirit",
+    "id": "36192",
+    "second_level": "2714"
+  },
+  {
+    "query": "inspiring",
+    "name": "To the Branches",
+    "id": "112575",
+    "second_level": "9011"
+  },
+  {
+    "query": "inspiring",
+    "name": "Shelter - Instrumental Version",
+    "id": "53976",
+    "second_level": "4077"
+  },
+  {
+    "query": "inspiring",
+    "name": "The Law of Attraction",
+    "id": "2299",
+    "second_level": "322"
+  },
+  {
+    "query": "inspiring",
+    "name": "Trickster - Instrumental Version",
+    "id": "4192",
+    "second_level": "525"
+  },
+  {
+    "query": "inspiring",
+    "name": "Starting Over",
+    "id": "116368",
+    "second_level": "9401"
+  },
+  {
+    "query": "inspiring",
+    "name": "Hall of Fame",
+    "id": "127504",
+    "second_level": "10607"
+  },
+  {
+    "query": "inspiring",
+    "name": "For Eternity",
+    "id": "109344",
+    "second_level": "8778"
+  },
+  {
+    "query": "inspiring",
+    "name": "Flying over the Woods",
+    "id": "56098",
+    "second_level": "4279"
+  },
+  {
+    "query": "inspiring",
+    "name": "Goes Without Saying",
+    "id": "11154",
+    "second_level": "1264"
+  },
+  {
+    "query": "inspiring",
+    "name": "My Princess Potato",
+    "id": "33035",
+    "second_level": "2426"
+  },
+  {
+    "query": "inspiring",
+    "name": "Forgiven",
+    "id": "49514",
+    "second_level": "3679"
+  },
+  {
+    "query": "inspiring",
+    "name": "Legacy",
+    "id": "5205",
+    "second_level": "625"
+  },
+  {
+    "query": "inspiring",
+    "name": "Simon  My Brother",
+    "id": "49603",
+    "second_level": "3688"
+  },
+  {
+    "query": "inspiring",
+    "name": "Big World",
+    "id": "129462",
+    "second_level": "10921"
+  },
+  {
+    "query": "inspiring",
+    "name": "Magic",
+    "id": "58789",
+    "second_level": "4505"
+  },
+  {
+    "query": "inspiring",
+    "name": "Just Between Us - Instrumental Version",
+    "id": "70598",
+    "second_level": "5540"
+  },
+  {
+    "query": "inspiring",
+    "name": "Delicate Frost - No Staccatos",
+    "id": "5008",
+    "second_level": "609"
+  },
+  {
+    "query": "inspiring",
+    "name": "Lost in Memories",
+    "id": "8720",
+    "second_level": "992"
+  },
+  {
+    "query": "inspiring",
+    "name": "Awake the Light",
+    "id": "7535",
+    "second_level": "866"
+  }
+]

@@ -1,0 +1,952 @@
+[
+  {
+    "name": "War Zone",
+    "id": "127811",
+    "order": 0
+  },
+  {
+    "name": "The Road to Valhalla",
+    "id": "122482",
+    "order": 1
+  },
+  {
+    "name": "A Drop of Sparks",
+    "id": "48701",
+    "order": 2
+  },
+  {
+    "name": "Prophecy",
+    "id": "113575",
+    "order": 3
+  },
+  {
+    "name": "A Ritual for the Dying",
+    "id": "122480",
+    "order": 4
+  },
+  {
+    "name": "No Hesitation",
+    "id": "46722",
+    "order": 5
+  },
+  {
+    "name": "Helvv Kryd (Holy Wars) - Instrumental Version",
+    "id": "65570",
+    "order": 6
+  },
+  {
+    "name": "For Glory and Honor",
+    "id": "122596",
+    "order": 7
+  },
+  {
+    "name": "Skywarriors",
+    "id": "46725",
+    "order": 8
+  },
+  {
+    "name": "Final Confrontation",
+    "id": "124304",
+    "order": 9
+  },
+  {
+    "name": "Last Word",
+    "id": "80462",
+    "order": 10
+  },
+  {
+    "name": "Vicious Attack",
+    "id": "31511",
+    "order": 11
+  },
+  {
+    "name": "Captain Spark",
+    "id": "93869",
+    "order": 12
+  },
+  {
+    "name": "Times of War",
+    "id": "122327",
+    "order": 13
+  },
+  {
+    "name": "Fire at Will",
+    "id": "31508",
+    "order": 14
+  },
+  {
+    "name": "The Wild West",
+    "id": "12565",
+    "order": 15
+  },
+  {
+    "name": "Monster from the Deep",
+    "id": "75170",
+    "order": 16
+  },
+  {
+    "name": "Yole Kross Ayle (The Song of the Dead) - No Lead Vocals",
+    "id": "65569",
+    "order": 17
+  },
+  {
+    "name": "Escape the Tower",
+    "id": "119991",
+    "order": 18
+  },
+  {
+    "name": "Hypnotize",
+    "id": "11293",
+    "order": 19
+  },
+  {
+    "name": "Navy SEALs",
+    "id": "37472",
+    "order": 20
+  },
+  {
+    "name": "Homebound Journey",
+    "id": "103846",
+    "order": 21
+  },
+  {
+    "name": "Futuristic War",
+    "id": "375",
+    "order": 22
+  },
+  {
+    "name": "A Day at West Point",
+    "id": "114796",
+    "order": 23
+  },
+  {
+    "name": "Yole Kross Ayle (The Song of the Dead)",
+    "id": "65568",
+    "order": 24
+  },
+  {
+    "name": "Attya Ensoria (The Holy and the Damned)",
+    "id": "65572",
+    "order": 25
+  },
+  {
+    "name": "Drums of War",
+    "id": "43565",
+    "order": 26
+  },
+  {
+    "name": "Won the Battle but Lost the War",
+    "id": "95544",
+    "order": 27
+  },
+  {
+    "name": "Rushing Earth",
+    "id": "47432",
+    "order": 28
+  },
+  {
+    "name": "Courage and Strength",
+    "id": "31506",
+    "order": 29
+  },
+  {
+    "name": "They Will Come Soon",
+    "id": "41756",
+    "order": 30
+  },
+  {
+    "name": "Something Real",
+    "id": "93329",
+    "order": 31
+  },
+  {
+    "name": "Eviluation",
+    "id": "93871",
+    "order": 32
+  },
+  {
+    "name": "Helvv Kryd (Holy Wars)",
+    "id": "65571",
+    "order": 33
+  },
+  {
+    "name": "Supernova",
+    "id": "7084",
+    "order": 34
+  },
+  {
+    "name": "1989",
+    "id": "81299",
+    "order": 35
+  },
+  {
+    "name": "Attya Ensoria (The Holy and the Damned) - Instrumental Version",
+    "id": "65573",
+    "order": 36
+  },
+  {
+    "name": "General Pershing",
+    "id": "114927",
+    "order": 37
+  },
+  {
+    "name": "Mirror Dance",
+    "id": "67193",
+    "order": 38
+  },
+  {
+    "name": "Lodestar Exiled",
+    "id": "62807",
+    "order": 39
+  },
+  {
+    "name": "Mirror Dance",
+    "id": "67193",
+    "order": 40
+  },
+  {
+    "name": "Lodestar Exiled",
+    "id": "62807",
+    "order": 41
+  },
+  {
+    "name": "Finale",
+    "id": "67883",
+    "order": 42
+  },
+  {
+    "name": "Chimera Soldiers",
+    "id": "3919",
+    "order": 43
+  },
+  {
+    "name": "Blood on the Snow",
+    "id": "103844",
+    "order": 44
+  },
+  {
+    "name": "Forgotten Glory",
+    "id": "31509",
+    "order": 45
+  },
+  {
+    "name": "Battle of the Nations",
+    "id": "114926",
+    "order": 46
+  },
+  {
+    "name": "Into the Battle",
+    "id": "377",
+    "order": 47
+  },
+  {
+    "name": "A Dangerous Plan",
+    "id": "34082",
+    "order": 48
+  },
+  {
+    "name": "War Paint",
+    "id": "36155",
+    "order": 49
+  },
+  {
+    "name": "Jericho",
+    "id": "122326",
+    "order": 50
+  },
+  {
+    "name": "Kingdom of Judah",
+    "id": "122328",
+    "order": 51
+  },
+  {
+    "name": "A New Beginning",
+    "id": "122478",
+    "order": 52
+  },
+  {
+    "name": "A New Beginning - No Backing Vocals",
+    "id": "122479",
+    "order": 53
+  },
+  {
+    "name": "The Underground",
+    "id": "8147",
+    "order": 54
+  },
+  {
+    "name": "The Grounder",
+    "id": "76952",
+    "order": 55
+  },
+  {
+    "name": "Galaxy Destroyers",
+    "id": "85833",
+    "order": 56
+  },
+  {
+    "name": "There Is No Time",
+    "id": "31510",
+    "order": 57
+  },
+  {
+    "name": "Adventure!",
+    "id": "102632",
+    "order": 58
+  },
+  {
+    "name": "Restless",
+    "id": "93324",
+    "order": 59
+  },
+  {
+    "name": "Betrayal",
+    "id": "75158",
+    "order": 60
+  },
+  {
+    "name": "Devils and Demons",
+    "id": "67190",
+    "order": 61
+  },
+  {
+    "name": "The Tomorrow War",
+    "id": "80481",
+    "order": 62
+  },
+  {
+    "name": "Vortex",
+    "id": "73485",
+    "order": 63
+  },
+  {
+    "name": "Scourge",
+    "id": "8178",
+    "order": 64
+  },
+  {
+    "name": "Polemos Mons",
+    "id": "61241",
+    "order": 65
+  },
+  {
+    "name": "Battle Drums",
+    "id": "3127",
+    "order": 66
+  },
+  {
+    "name": "Massive Explosion",
+    "id": "63419",
+    "order": 67
+  },
+  {
+    "name": "Cannal Chase",
+    "id": "69119",
+    "order": 68
+  },
+  {
+    "name": "Blood on Ice",
+    "id": "64334",
+    "order": 69
+  },
+  {
+    "name": "The Bride and the Thief",
+    "id": "33742",
+    "order": 70
+  },
+  {
+    "name": "Redemption",
+    "id": "93323",
+    "order": 71
+  },
+  {
+    "name": "Spider Web",
+    "id": "43553",
+    "order": 72
+  },
+  {
+    "name": "Self Sacrifice",
+    "id": "77548",
+    "order": 73
+  },
+  {
+    "name": "A Cosmic Jump",
+    "id": "78735",
+    "order": 74
+  },
+  {
+    "name": "Portals",
+    "id": "78802",
+    "order": 75
+  },
+  {
+    "name": "Transformers War",
+    "id": "91966",
+    "order": 76
+  },
+  {
+    "name": "Blue Sea",
+    "id": "32335",
+    "order": 77
+  },
+  {
+    "name": "Counter Strike",
+    "id": "64146",
+    "order": 78
+  },
+  {
+    "name": "March of the Wild",
+    "id": "64449",
+    "order": 79
+  },
+  {
+    "name": "No Land for a War Man",
+    "id": "172",
+    "order": 80
+  },
+  {
+    "name": "After the War",
+    "id": "10327",
+    "order": 81
+  },
+  {
+    "name": "Machinery of War",
+    "id": "67590",
+    "order": 82
+  },
+  {
+    "name": "Onwards!",
+    "id": "69123",
+    "order": 83
+  },
+  {
+    "name": "War Paint",
+    "id": "84160",
+    "order": 84
+  },
+  {
+    "name": "Revolution",
+    "id": "32754",
+    "order": 85
+  },
+  {
+    "name": "Discovery",
+    "id": "17158",
+    "order": 86
+  },
+  {
+    "name": "After the War",
+    "id": "4935",
+    "order": 87
+  },
+  {
+    "name": "Fragments",
+    "id": "61102",
+    "order": 88
+  },
+  {
+    "name": "Attack on London",
+    "id": "8160",
+    "order": 89
+  },
+  {
+    "name": "Attack on London",
+    "id": "8160",
+    "order": 90
+  },
+  {
+    "name": "A Historic Reckoning",
+    "id": "75937",
+    "order": 91
+  },
+  {
+    "name": "Stop the War - Alternative - Instrumental Version",
+    "id": "1399",
+    "order": 92
+  },
+  {
+    "name": "Tribal War Victory",
+    "id": "5226",
+    "order": 93
+  },
+  {
+    "name": "Stop the War - Instrumental Version",
+    "id": "1398",
+    "order": 94
+  },
+  {
+    "name": "Explosion",
+    "id": "39244",
+    "order": 95
+  },
+  {
+    "name": "Stop the War",
+    "id": "1397",
+    "order": 96
+  },
+  {
+    "name": "Primal War Drums",
+    "id": "13067",
+    "order": 97
+  },
+  {
+    "name": "The Finale",
+    "id": "12152",
+    "order": 98
+  },
+  {
+    "name": "The Imperial Ark",
+    "id": "12147",
+    "order": 99
+  },
+  {
+    "name": "Magnify",
+    "id": "64145",
+    "order": 100
+  },
+  {
+    "name": "At War",
+    "id": "12150",
+    "order": 101
+  },
+  {
+    "name": "War",
+    "id": "9545",
+    "order": 102
+  },
+  {
+    "name": "Birds of the War",
+    "id": "32749",
+    "order": 103
+  },
+  {
+    "name": "The Civil War Song",
+    "id": "11570",
+    "order": 104
+  },
+  {
+    "name": "Finger on the Trigger",
+    "id": "51686",
+    "order": 105
+  },
+  {
+    "name": "No Land for a War Man - Short Version B",
+    "id": "1832",
+    "order": 106
+  },
+  {
+    "name": "No Land for a War Man - Short Version A",
+    "id": "1831",
+    "order": 107
+  },
+  {
+    "name": "By the Sword",
+    "id": "38173",
+    "order": 108
+  },
+  {
+    "name": "Make Hafla (Not War)",
+    "id": "34244",
+    "order": 109
+  },
+  {
+    "name": "War Drum",
+    "id": "14329",
+    "order": 110
+  },
+  {
+    "name": "The Age of Kings",
+    "id": "76869",
+    "order": 111
+  },
+  {
+    "name": "Blue-White March",
+    "id": "114813",
+    "order": 112
+  },
+  {
+    "name": "Getting Ready",
+    "id": "9108",
+    "order": 113
+  },
+  {
+    "name": "In Time",
+    "id": "28325",
+    "order": 114
+  },
+  {
+    "name": "Sound of Something Horrible",
+    "id": "14260",
+    "order": 115
+  },
+  {
+    "name": "Medieval Hitman",
+    "id": "40276",
+    "order": 116
+  },
+  {
+    "name": "This Means War",
+    "id": "14328",
+    "order": 117
+  },
+  {
+    "name": "Welcome to War",
+    "id": "44418",
+    "order": 118
+  },
+  {
+    "name": "I Will Rise",
+    "id": "41750",
+    "order": 119
+  },
+  {
+    "name": "The Civil War Song - Instrumental Version",
+    "id": "11582",
+    "order": 120
+  },
+  {
+    "name": "Bustle Below",
+    "id": "46718",
+    "order": 121
+  },
+  {
+    "name": "Peasants Courtyard",
+    "id": "92654",
+    "order": 122
+  },
+  {
+    "name": "King's Requiem",
+    "id": "92655",
+    "order": 123
+  },
+  {
+    "name": "Cold War",
+    "id": "47278",
+    "order": 124
+  },
+  {
+    "name": "Band of Raiders",
+    "id": "56222",
+    "order": 125
+  },
+  {
+    "name": "Astronaut",
+    "id": "9158",
+    "order": 126
+  },
+  {
+    "name": "Electric Air",
+    "id": "9160",
+    "order": 127
+  },
+  {
+    "name": "Dimensions",
+    "id": "9159",
+    "order": 128
+  },
+  {
+    "name": "This Far",
+    "id": "121761",
+    "order": 129
+  },
+  {
+    "name": "Gravity",
+    "id": "631",
+    "order": 130
+  },
+  {
+    "name": "The Beginning",
+    "id": "9473",
+    "order": 131
+  },
+  {
+    "name": "X",
+    "id": "88860",
+    "order": 132
+  },
+  {
+    "name": "Awaken Dawn",
+    "id": "7911",
+    "order": 133
+  },
+  {
+    "name": "Get Outta Way",
+    "id": "102947",
+    "order": 134
+  },
+  {
+    "name": "Sound of Something Horrible - Drums Version",
+    "id": "14261",
+    "order": 135
+  },
+  {
+    "name": "Axe & Shield",
+    "id": "99504",
+    "order": 136
+  },
+  {
+    "name": "Tomb Research (Cave Ambience)",
+    "id": "87953",
+    "order": 137
+  },
+  {
+    "name": "Make Hafla (Not War) - Instrumental Version",
+    "id": "34243",
+    "order": 138
+  },
+  {
+    "name": "Caution",
+    "id": "40849",
+    "order": 139
+  },
+  {
+    "name": "Pray",
+    "id": "53228",
+    "order": 140
+  },
+  {
+    "name": "Seems like Over",
+    "id": "567",
+    "order": 141
+  },
+  {
+    "name": "Berserk",
+    "id": "74425",
+    "order": 142
+  },
+  {
+    "name": "Cave Dwellers",
+    "id": "85396",
+    "order": 143
+  },
+  {
+    "name": "Warrior's Tribe",
+    "id": "56223",
+    "order": 144
+  },
+  {
+    "name": "The After Glow",
+    "id": "47395",
+    "order": 145
+  },
+  {
+    "name": "Reality Design",
+    "id": "9157",
+    "order": 146
+  },
+  {
+    "name": "Sacred Mountain",
+    "id": "73513",
+    "order": 147
+  },
+  {
+    "name": "Ancient Fathers",
+    "id": "87947",
+    "order": 148
+  },
+  {
+    "name": "Black Sun",
+    "id": "87677",
+    "order": 149
+  },
+  {
+    "name": "Himlensberg",
+    "id": "97437",
+    "order": 150
+  },
+  {
+    "name": "Shield - Stripped Version",
+    "id": "60895",
+    "order": 151
+  },
+  {
+    "name": "Army of Sand",
+    "id": "98321",
+    "order": 152
+  },
+  {
+    "name": "Meeting the Goddess",
+    "id": "13089",
+    "order": 153
+  },
+  {
+    "name": "War Drums Stinger",
+    "id": "5225",
+    "order": 154
+  },
+  {
+    "name": "Night of the Feast",
+    "id": "85400",
+    "order": 155
+  },
+  {
+    "name": "Too Much (feat. Anjali Asha)",
+    "id": "126423",
+    "order": 156
+  },
+  {
+    "name": "Shield",
+    "id": "60894",
+    "order": 157
+  },
+  {
+    "name": "Lulilu",
+    "id": "58683",
+    "order": 158
+  },
+  {
+    "name": "Traveling Through Fields",
+    "id": "3666",
+    "order": 159
+  },
+  {
+    "name": "Gladiators Arena",
+    "id": "37202",
+    "order": 160
+  },
+  {
+    "name": "Fallen",
+    "id": "32714",
+    "order": 161
+  },
+  {
+    "name": "Savage",
+    "id": "36178",
+    "order": 162
+  },
+  {
+    "name": "What Good Is It Now?",
+    "id": "87510",
+    "order": 163
+  },
+  {
+    "name": "Man",
+    "id": "39389",
+    "order": 164
+  },
+  {
+    "name": "Fast",
+    "id": "47057",
+    "order": 165
+  },
+  {
+    "name": "Caution (GOOD Remix) - Slowed and Reverbed",
+    "id": "118596",
+    "order": 166
+  },
+  {
+    "name": "Victory Is Ours",
+    "id": "10057",
+    "order": 167
+  },
+  {
+    "name": "Don't Let Go",
+    "id": "72308",
+    "order": 168
+  },
+  {
+    "name": "Rocky",
+    "id": "35364",
+    "order": 169
+  },
+  {
+    "name": "World of Absolutes",
+    "id": "79571",
+    "order": 170
+  },
+  {
+    "name": "BLUE",
+    "id": "72774",
+    "order": 171
+  },
+  {
+    "name": "Fields",
+    "id": "86320",
+    "order": 172
+  },
+  {
+    "name": "Caution (GOOD Remix)",
+    "id": "60205",
+    "order": 173
+  },
+  {
+    "name": "Pray - Stripped Version",
+    "id": "53225",
+    "order": 174
+  },
+  {
+    "name": "The Prize (Speechless)",
+    "id": "95816",
+    "order": 175
+  },
+  {
+    "name": "Doing Better",
+    "id": "65613",
+    "order": 176
+  },
+  {
+    "name": "It's a War",
+    "id": "15203",
+    "order": 177
+  },
+  {
+    "name": "On Top",
+    "id": "32864",
+    "order": 178
+  },
+  {
+    "name": "Angel in White Unaware",
+    "id": "35775",
+    "order": 179
+  },
+  {
+    "name": "Love Is Where You Are",
+    "id": "32943",
+    "order": 180
+  },
+  {
+    "name": "Fight Against the Secret War",
+    "id": "33655",
+    "order": 181
+  },
+  {
+    "name": "Conversation",
+    "id": "130234",
+    "order": 182
+  },
+  {
+    "name": "Jack of Dried Clay",
+    "id": "87509",
+    "order": 183
+  },
+  {
+    "name": "Man - Stripped Version",
+    "id": "39390",
+    "order": 184
+  },
+  {
+    "name": "Run No More - Acoustic Version",
+    "id": "48879",
+    "order": 185
+  },
+  {
+    "name": "Better Life",
+    "id": "76065",
+    "order": 186
+  },
+  {
+    "name": "Home (feat. Johnny Dangerus)",
+    "id": "100308",
+    "order": 187
+  },
+  {
+    "name": "Hollow Machine",
+    "id": "37434",
+    "order": 188
+  },
+  {
+    "name": "Stupid Followed Evil",
+    "id": "64420",
+    "order": 189
+  }
+]

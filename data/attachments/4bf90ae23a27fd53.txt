@@ -1,0 +1,602 @@
+[
+  {
+    "query": "argentina",
+    "name": "La Zamba de Diciembre",
+    "id": "29316",
+    "second_level": "2214"
+  },
+  {
+    "query": "argentina",
+    "name": "Cordillera Hermana (Zamba)",
+    "id": "34520",
+    "second_level": "2548"
+  },
+  {
+    "query": "argentina",
+    "name": "Cafè Godot",
+    "id": "97485",
+    "second_level": "7938"
+  },
+  {
+    "query": "argentina",
+    "name": "Spirit de Milán",
+    "id": "97486",
+    "second_level": "7938"
+  },
+  {
+    "query": "argentina",
+    "name": "El Mocoso",
+    "id": "29315",
+    "second_level": "2214"
+  },
+  {
+    "query": "argentina",
+    "name": "Getting into Character",
+    "id": "41271",
+    "second_level": "921"
+  },
+  {
+    "query": "argentina",
+    "name": "Via della Danza",
+    "id": "10914",
+    "second_level": "1239"
+  },
+  {
+    "query": "argentina",
+    "name": "La Ladera (Joropo)",
+    "id": "34522",
+    "second_level": "2548"
+  },
+  {
+    "query": "argentina",
+    "name": "Surfing Camels",
+    "id": "124463",
+    "second_level": "10259"
+  },
+  {
+    "query": "argentina",
+    "name": "Naranja",
+    "id": "29318",
+    "second_level": "2214"
+  },
+  {
+    "query": "argentina",
+    "name": "Una Cancion para Ti",
+    "id": "29319",
+    "second_level": "2214"
+  },
+  {
+    "query": "argentina",
+    "name": "El Mayor",
+    "id": "29314",
+    "second_level": "2214"
+  },
+  {
+    "query": "argentina",
+    "name": "Los Peregrinos",
+    "id": "29317",
+    "second_level": "2214"
+  },
+  {
+    "query": "argentina",
+    "name": "Arriba!",
+    "id": "102457",
+    "second_level": "8304"
+  },
+  {
+    "query": "argentina",
+    "name": "La promesa",
+    "id": "15279",
+    "second_level": "1718"
+  },
+  {
+    "query": "argentina",
+    "name": "The Last Tango",
+    "id": "119999",
+    "second_level": "9775"
+  },
+  {
+    "query": "argentina",
+    "name": "The Mariachi Way",
+    "id": "51293",
+    "second_level": "3849"
+  },
+  {
+    "query": "argentina",
+    "name": "Salta Montes",
+    "id": "69367",
+    "second_level": "5450"
+  },
+  {
+    "query": "argentina",
+    "name": "Tierra de Nadie",
+    "id": "76892",
+    "second_level": "6137"
+  },
+  {
+    "query": "argentina",
+    "name": "Muchacho",
+    "id": "127073",
+    "second_level": "10575"
+  },
+  {
+    "query": "argentina",
+    "name": "Zapateo Elegante (Landó)",
+    "id": "34524",
+    "second_level": "2548"
+  },
+  {
+    "query": "argentina",
+    "name": "Human",
+    "id": "1282",
+    "second_level": "215"
+  },
+  {
+    "query": "argentina",
+    "name": "Ruta",
+    "id": "69366",
+    "second_level": "5450"
+  },
+  {
+    "query": "argentina",
+    "name": "Lo Merecido",
+    "id": "129545",
+    "second_level": "10931"
+  },
+  {
+    "query": "argentina",
+    "name": "La Danza",
+    "id": "2910",
+    "second_level": "294"
+  },
+  {
+    "query": "argentina",
+    "name": "Final Tango",
+    "id": "14992",
+    "second_level": "1685"
+  },
+  {
+    "query": "argentina",
+    "name": "Sotto La Pianta Del Piede",
+    "id": "35920",
+    "second_level": "2671"
+  },
+  {
+    "query": "argentina",
+    "name": "La Boca Fiesta",
+    "id": "51439",
+    "second_level": "3866"
+  },
+  {
+    "query": "argentina",
+    "name": "Spain in Blue",
+    "id": "51438",
+    "second_level": "3866"
+  },
+  {
+    "query": "argentina",
+    "name": "Fuego - No Backing Vocals",
+    "id": "126478",
+    "second_level": "10464"
+  },
+  {
+    "query": "argentina",
+    "name": "En La Brega",
+    "id": "94721",
+    "second_level": "8040"
+  },
+  {
+    "query": "argentina",
+    "name": "Rio Groove - Sped Up",
+    "id": "115725",
+    "second_level": "9191"
+  },
+  {
+    "query": "argentina",
+    "name": "Corteza",
+    "id": "69364",
+    "second_level": "5450"
+  },
+  {
+    "query": "argentina",
+    "name": "De Ti",
+    "id": "129547",
+    "second_level": "10931"
+  },
+  {
+    "query": "argentina",
+    "name": "Cali Nocturna",
+    "id": "126474",
+    "second_level": "10462"
+  },
+  {
+    "query": "argentina",
+    "name": "Knafe Cumbia",
+    "id": "124465",
+    "second_level": "10259"
+  },
+  {
+    "query": "argentina",
+    "name": "Fuego - Stripped Version",
+    "id": "126479",
+    "second_level": "10464"
+  },
+  {
+    "query": "argentina",
+    "name": "The Last Tango - Stripped Version",
+    "id": "120004",
+    "second_level": "9775"
+  },
+  {
+    "query": "argentina",
+    "name": "La promesa - No Lead Vocals",
+    "id": "15277",
+    "second_level": "1718"
+  },
+  {
+    "query": "argentina",
+    "name": "Un Pasito Mas",
+    "id": "50976",
+    "second_level": "4272"
+  },
+  {
+    "query": "argentina",
+    "name": "La promesa - Instrumental Version",
+    "id": "15278",
+    "second_level": "1718"
+  },
+  {
+    "query": "argentina",
+    "name": "Flavour of South America",
+    "id": "122624",
+    "second_level": "10077"
+  },
+  {
+    "query": "argentina",
+    "name": "Voy a ser fiel",
+    "id": "131218",
+    "second_level": "11307"
+  },
+  {
+    "query": "argentina",
+    "name": "El Río Fluye",
+    "id": "47070",
+    "second_level": "3483"
+  },
+  {
+    "query": "argentina",
+    "name": "Medusa the Mournful",
+    "id": "119997",
+    "second_level": "9775"
+  },
+  {
+    "query": "argentina",
+    "name": "Surfing Camels - Instrumental Version",
+    "id": "124462",
+    "second_level": "10259"
+  },
+  {
+    "query": "argentina",
+    "name": "La Casa",
+    "id": "94723",
+    "second_level": "8040"
+  },
+  {
+    "query": "argentina",
+    "name": "Clara En Silencio",
+    "id": "94725",
+    "second_level": "8040"
+  },
+  {
+    "query": "argentina",
+    "name": "Baila",
+    "id": "127964",
+    "second_level": "10703"
+  },
+  {
+    "query": "argentina",
+    "name": "Muchacho - Instrumental Version",
+    "id": "127072",
+    "second_level": "10575"
+  },
+  {
+    "query": "argentina",
+    "name": "Pueblos",
+    "id": "69365",
+    "second_level": "5450"
+  },
+  {
+    "query": "argentina",
+    "name": "Patrón Indispensable",
+    "id": "94729",
+    "second_level": "8040"
+  },
+  {
+    "query": "argentina",
+    "name": "Corazoncito Mío",
+    "id": "94727",
+    "second_level": "8040"
+  },
+  {
+    "query": "argentina",
+    "name": "La Santa Rita",
+    "id": "2215",
+    "second_level": "311"
+  },
+  {
+    "query": "argentina",
+    "name": "Brazilero - No Lead Vocals",
+    "id": "34234",
+    "second_level": "159"
+  },
+  {
+    "query": "argentina",
+    "name": "Salta Montes - No Drums",
+    "id": "70061",
+    "second_level": "5450"
+  },
+  {
+    "query": "argentina",
+    "name": "Bahia Vibes",
+    "id": "123097",
+    "second_level": "10124"
+  },
+  {
+    "query": "argentina",
+    "name": "Shaman",
+    "id": "89488",
+    "second_level": "7308"
+  },
+  {
+    "query": "argentina",
+    "name": "Electro Fiesta",
+    "id": "126480",
+    "second_level": "10464"
+  },
+  {
+    "query": "argentina",
+    "name": "Bahia Vibes - Instrumental Version",
+    "id": "123098",
+    "second_level": "10124"
+  },
+  {
+    "query": "argentina",
+    "name": "Jambo Mambo",
+    "id": "89569",
+    "second_level": "7312"
+  },
+  {
+    "query": "argentina",
+    "name": "Corteza - No Drums",
+    "id": "70053",
+    "second_level": "5450"
+  },
+  {
+    "query": "argentina",
+    "name": "Lo Merecido - Instrumental Version",
+    "id": "129544",
+    "second_level": "10931"
+  },
+  {
+    "query": "argentina",
+    "name": "Waltz in C Sharp Minor  Op. 64 No. 2",
+    "id": "97431",
+    "second_level": "7922"
+  },
+  {
+    "query": "argentina",
+    "name": "Coqueta",
+    "id": "15470",
+    "second_level": "1739"
+  },
+  {
+    "query": "argentina",
+    "name": "Inevitable - Instrumental Version",
+    "id": "128397",
+    "second_level": "10754"
+  },
+  {
+    "query": "argentina",
+    "name": "El Río Fluye - Instrumental Version",
+    "id": "47069",
+    "second_level": "3483"
+  },
+  {
+    "query": "argentina",
+    "name": "Pueblos - No Drums",
+    "id": "70054",
+    "second_level": "5450"
+  },
+  {
+    "query": "argentina",
+    "name": "Rise up Today",
+    "id": "62638",
+    "second_level": "4874"
+  },
+  {
+    "query": "argentina",
+    "name": "Inevitable",
+    "id": "128398",
+    "second_level": "10754"
+  },
+  {
+    "query": "argentina",
+    "name": "El Baile De Los Andes (Huayno)",
+    "id": "34521",
+    "second_level": "2548"
+  },
+  {
+    "query": "argentina",
+    "name": "Viva o Samba",
+    "id": "122320",
+    "second_level": "9984"
+  },
+  {
+    "query": "argentina",
+    "name": "Aquanova",
+    "id": "36898",
+    "second_level": "2762"
+  },
+  {
+    "query": "argentina",
+    "name": "Anis del Mono",
+    "id": "70160",
+    "second_level": "5507"
+  },
+  {
+    "query": "argentina",
+    "name": "Cumbia de Mel",
+    "id": "127825",
+    "second_level": "10660"
+  },
+  {
+    "query": "argentina",
+    "name": "Cartagena Romp",
+    "id": "89566",
+    "second_level": "7312"
+  },
+  {
+    "query": "argentina",
+    "name": "At Least You Try",
+    "id": "716",
+    "second_level": "130"
+  },
+  {
+    "query": "argentina",
+    "name": "Baile la Favella",
+    "id": "130283",
+    "second_level": "11061"
+  },
+  {
+    "query": "argentina",
+    "name": "Oye La Musica",
+    "id": "13881",
+    "second_level": "1569"
+  },
+  {
+    "query": "argentina",
+    "name": "Cadenas",
+    "id": "126892",
+    "second_level": "10539"
+  },
+  {
+    "query": "argentina",
+    "name": "Chassidic Love Tango",
+    "id": "68712",
+    "second_level": "5397"
+  },
+  {
+    "query": "argentina",
+    "name": "Al Final",
+    "id": "129543",
+    "second_level": "10931"
+  },
+  {
+    "query": "argentina",
+    "name": "Convolution",
+    "id": "120744",
+    "second_level": "9872"
+  },
+  {
+    "query": "argentina",
+    "name": "Que por Mi...",
+    "id": "8642",
+    "second_level": "983"
+  },
+  {
+    "query": "argentina",
+    "name": "Revolutionary Étude  Op. 10 No. 12",
+    "id": "97433",
+    "second_level": "7922"
+  },
+  {
+    "query": "argentina",
+    "name": "En La Brega - Instrumental Version",
+    "id": "94722",
+    "second_level": "8040"
+  },
+  {
+    "query": "argentina",
+    "name": "Estoy Feliz - Instrumental Version",
+    "id": "130216",
+    "second_level": "11034"
+  },
+  {
+    "query": "argentina",
+    "name": "Golden Apple - Short Version B",
+    "id": "1705",
+    "second_level": "87"
+  },
+  {
+    "query": "argentina",
+    "name": "Corazonada - Instrumental Version",
+    "id": "130219",
+    "second_level": "11035"
+  },
+  {
+    "query": "argentina",
+    "name": "Nocturne in B Major  Op. 32 No. 1",
+    "id": "97430",
+    "second_level": "7922"
+  },
+  {
+    "query": "argentina",
+    "name": "Cumbia da Alegria",
+    "id": "127822",
+    "second_level": "10660"
+  },
+  {
+    "query": "argentina",
+    "name": "Rio Groove",
+    "id": "114771",
+    "second_level": "9191"
+  },
+  {
+    "query": "argentina",
+    "name": "Volantin (Tonada)",
+    "id": "34523",
+    "second_level": "2548"
+  },
+  {
+    "query": "argentina",
+    "name": "Coqueta - Sped Up",
+    "id": "115716",
+    "second_level": "1739"
+  },
+  {
+    "query": "argentina",
+    "name": "Layla",
+    "id": "34242",
+    "second_level": "159"
+  },
+  {
+    "query": "argentina",
+    "name": "Al Final - Instrumental Version",
+    "id": "129542",
+    "second_level": "10931"
+  },
+  {
+    "query": "argentina",
+    "name": "Maracadombe",
+    "id": "101496",
+    "second_level": "8214"
+  },
+  {
+    "query": "argentina",
+    "name": "Cuban Nights",
+    "id": "62591",
+    "second_level": "4865"
+  },
+  {
+    "query": "argentina",
+    "name": "Anis del Mono - Instrumental Version",
+    "id": "70163",
+    "second_level": "5507"
+  },
+  {
+    "query": "argentina",
+    "name": "De Ti - Instrumental Version",
+    "id": "129546",
+    "second_level": "10931"
+  }
+]

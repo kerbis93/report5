@@ -1,0 +1,952 @@
+[
+  {
+    "name": "Go Hard",
+    "id": "130076",
+    "order": 0
+  },
+  {
+    "name": "Go Hard",
+    "id": "116125",
+    "order": 1
+  },
+  {
+    "name": "Go Hard - Instrumental Version",
+    "id": "116126",
+    "order": 2
+  },
+  {
+    "name": "Go Hard - No Lead Vocals",
+    "id": "116127",
+    "order": 3
+  },
+  {
+    "name": "Brutal Force",
+    "id": "122265",
+    "order": 4
+  },
+  {
+    "name": "This Far - Stripped Version",
+    "id": "121760",
+    "order": 5
+  },
+  {
+    "name": "Scabby",
+    "id": "112636",
+    "order": 6
+  },
+  {
+    "name": "This Far - Instrumental Version",
+    "id": "121759",
+    "order": 7
+  },
+  {
+    "name": "No Bliss - No Backing Vocals",
+    "id": "123079",
+    "order": 8
+  },
+  {
+    "name": "Into the Fire - Instrumental Version",
+    "id": "115682",
+    "order": 9
+  },
+  {
+    "name": "Ahead of Time - Instrumental Version",
+    "id": "115408",
+    "order": 10
+  },
+  {
+    "name": "Willpower - Instrumental Version",
+    "id": "110893",
+    "order": 11
+  },
+  {
+    "name": "Into the Fire",
+    "id": "115681",
+    "order": 12
+  },
+  {
+    "name": "Ahead of Time",
+    "id": "115409",
+    "order": 13
+  },
+  {
+    "name": "Power It Up",
+    "id": "119551",
+    "order": 14
+  },
+  {
+    "name": "Give It All - Instrumental Version",
+    "id": "121758",
+    "order": 15
+  },
+  {
+    "name": "Motorboat",
+    "id": "102108",
+    "order": 16
+  },
+  {
+    "name": "Eye of the Storm - Instrumental Version",
+    "id": "119550",
+    "order": 17
+  },
+  {
+    "name": "No Bliss",
+    "id": "123078",
+    "order": 18
+  },
+  {
+    "name": "One Right Decision - Instrumental Version",
+    "id": "112731",
+    "order": 19
+  },
+  {
+    "name": "Solid",
+    "id": "130259",
+    "order": 20
+  },
+  {
+    "name": "It's My Life - Instrumental Version",
+    "id": "119556",
+    "order": 21
+  },
+  {
+    "name": "Back to Fun",
+    "id": "122329",
+    "order": 22
+  },
+  {
+    "name": "Top of the Rock",
+    "id": "119547",
+    "order": 23
+  },
+  {
+    "name": "Rebellions",
+    "id": "116050",
+    "order": 24
+  },
+  {
+    "name": "Afterburner",
+    "id": "115683",
+    "order": 25
+  },
+  {
+    "name": "Rebellions - Instrumental Version",
+    "id": "116049",
+    "order": 26
+  },
+  {
+    "name": "Raw Energy",
+    "id": "122421",
+    "order": 27
+  },
+  {
+    "name": "No Way",
+    "id": "123265",
+    "order": 28
+  },
+  {
+    "name": "On the Wave",
+    "id": "98305",
+    "order": 29
+  },
+  {
+    "name": "One Right Decision",
+    "id": "112732",
+    "order": 30
+  },
+  {
+    "name": "On a Roll",
+    "id": "103710",
+    "order": 31
+  },
+  {
+    "name": "The Fiery Comet",
+    "id": "115411",
+    "order": 32
+  },
+  {
+    "name": "Break It Down - No Backing Vocals",
+    "id": "129525",
+    "order": 33
+  },
+  {
+    "name": "Trapped Flames",
+    "id": "109011",
+    "order": 34
+  },
+  {
+    "name": "Slow Energy",
+    "id": "2448",
+    "order": 35
+  },
+  {
+    "name": "Won't Fit in Your Box - Instrumental Version",
+    "id": "97872",
+    "order": 36
+  },
+  {
+    "name": "Electric Sky",
+    "id": "109062",
+    "order": 37
+  },
+  {
+    "name": "Never Back Down",
+    "id": "124657",
+    "order": 38
+  },
+  {
+    "name": "Shouting My Name - No Backing Vocals",
+    "id": "125051",
+    "order": 39
+  },
+  {
+    "name": "Busted Lip",
+    "id": "116941",
+    "order": 40
+  },
+  {
+    "name": "Elevate",
+    "id": "128011",
+    "order": 41
+  },
+  {
+    "name": "Monster",
+    "id": "109063",
+    "order": 42
+  },
+  {
+    "name": "The Call of Freedom - Instrumental Version",
+    "id": "120268",
+    "order": 43
+  },
+  {
+    "name": "Left the Hood",
+    "id": "124059",
+    "order": 44
+  },
+  {
+    "name": "Elevate - Instrumental Version",
+    "id": "128012",
+    "order": 45
+  },
+  {
+    "name": "Eye of the Storm",
+    "id": "119552",
+    "order": 46
+  },
+  {
+    "name": "Won't Fit in Your Box - No Lead Vocals",
+    "id": "97871",
+    "order": 47
+  },
+  {
+    "name": "Hold My Saw",
+    "id": "125052",
+    "order": 48
+  },
+  {
+    "name": "Our New Adventure",
+    "id": "127600",
+    "order": 49
+  },
+  {
+    "name": "Elevate - No Lead Vocals",
+    "id": "128013",
+    "order": 50
+  },
+  {
+    "name": "Overdrive",
+    "id": "116943",
+    "order": 51
+  },
+  {
+    "name": "The New Black",
+    "id": "115430",
+    "order": 52
+  },
+  {
+    "name": "On the Way",
+    "id": "4623",
+    "order": 53
+  },
+  {
+    "name": "Willpower",
+    "id": "110891",
+    "order": 54
+  },
+  {
+    "name": "Rectifier",
+    "id": "74543",
+    "order": 55
+  },
+  {
+    "name": "Do It, Boy!",
+    "id": "109608",
+    "order": 56
+  },
+  {
+    "name": "Power It Up - Instrumental Version",
+    "id": "119549",
+    "order": 57
+  },
+  {
+    "name": "My Rules",
+    "id": "130258",
+    "order": 58
+  },
+  {
+    "name": "Break It Down",
+    "id": "129526",
+    "order": 59
+  },
+  {
+    "name": "BentBack",
+    "id": "112635",
+    "order": 60
+  },
+  {
+    "name": "Candy Apple Red",
+    "id": "102109",
+    "order": 61
+  },
+  {
+    "name": "Robot Revolt",
+    "id": "92666",
+    "order": 62
+  },
+  {
+    "name": "The Dirt",
+    "id": "102110",
+    "order": 63
+  },
+  {
+    "name": "UNTOUCHABLE",
+    "id": "124723",
+    "order": 64
+  },
+  {
+    "name": "Astral Body",
+    "id": "73454",
+    "order": 65
+  },
+  {
+    "name": "Do It Again - Instrumental Version",
+    "id": "94754",
+    "order": 66
+  },
+  {
+    "name": "Bad Habbit",
+    "id": "100156",
+    "order": 67
+  },
+  {
+    "name": "Top of the Rock - Instrumental Version",
+    "id": "119548",
+    "order": 68
+  },
+  {
+    "name": "Ruthless - Instrumental Version",
+    "id": "122419",
+    "order": 69
+  },
+  {
+    "name": "Stampede",
+    "id": "125244",
+    "order": 70
+  },
+  {
+    "name": "Spark - Instrumental Version",
+    "id": "120265",
+    "order": 71
+  },
+  {
+    "name": "Head to Head",
+    "id": "125281",
+    "order": 72
+  },
+  {
+    "name": "Ice Scream",
+    "id": "119828",
+    "order": 73
+  },
+  {
+    "name": "It's My Life",
+    "id": "119557",
+    "order": 74
+  },
+  {
+    "name": "Vultures!",
+    "id": "73490",
+    "order": 75
+  },
+  {
+    "name": "Hold My Saw - No Backing Vocals",
+    "id": "125053",
+    "order": 76
+  },
+  {
+    "name": "My Ever After - Instrumental Version",
+    "id": "119560",
+    "order": 77
+  },
+  {
+    "name": "Real Shit Boi - Stripped Version",
+    "id": "119536",
+    "order": 78
+  },
+  {
+    "name": "Pushing Limits",
+    "id": "122560",
+    "order": 79
+  },
+  {
+    "name": "Ice Scream - Instrumental Version",
+    "id": "119829",
+    "order": 80
+  },
+  {
+    "name": "Firecracker",
+    "id": "48480",
+    "order": 81
+  },
+  {
+    "name": "Electro Vortex",
+    "id": "116942",
+    "order": 82
+  },
+  {
+    "name": "Other Scenarios - Extended Version",
+    "id": "3072",
+    "order": 83
+  },
+  {
+    "name": "Other Scenarios",
+    "id": "3070",
+    "order": 84
+  },
+  {
+    "name": "Pole Position - Alternative Version",
+    "id": "119509",
+    "order": 85
+  },
+  {
+    "name": "Remember My Name (feat. Overtime) - No Lead Vocals",
+    "id": "130047",
+    "order": 86
+  },
+  {
+    "name": "Do It Again",
+    "id": "94755",
+    "order": 87
+  },
+  {
+    "name": "Cheat Code",
+    "id": "77368",
+    "order": 88
+  },
+  {
+    "name": "1-2 Punch",
+    "id": "29320",
+    "order": 89
+  },
+  {
+    "name": "Off-road",
+    "id": "97323",
+    "order": 90
+  },
+  {
+    "name": "Test Me - No Lead Vocals",
+    "id": "124062",
+    "order": 91
+  },
+  {
+    "name": "My Will",
+    "id": "100157",
+    "order": 92
+  },
+  {
+    "name": "The Fire Gate - Slowed and Reverbed",
+    "id": "118592",
+    "order": 93
+  },
+  {
+    "name": "Boxes - No Lead Vocals",
+    "id": "70147",
+    "order": 94
+  },
+  {
+    "name": "Space Monkeys",
+    "id": "73456",
+    "order": 95
+  },
+  {
+    "name": "Ortega",
+    "id": "73455",
+    "order": 96
+  },
+  {
+    "name": "Resolve",
+    "id": "116945",
+    "order": 97
+  },
+  {
+    "name": "Indian - Instrumental Version",
+    "id": "130225",
+    "order": 98
+  },
+  {
+    "name": "Headbanger",
+    "id": "125206",
+    "order": 99
+  },
+  {
+    "name": "Away from It All",
+    "id": "48799",
+    "order": 100
+  },
+  {
+    "name": "Pace of Bass",
+    "id": "62507",
+    "order": 101
+  },
+  {
+    "name": "Swing - Instrumental Version",
+    "id": "100162",
+    "order": 102
+  },
+  {
+    "name": "This Far",
+    "id": "121761",
+    "order": 103
+  },
+  {
+    "name": "Distorted Truth",
+    "id": "125280",
+    "order": 104
+  },
+  {
+    "name": "On the Highway - No Backing Vocals",
+    "id": "124656",
+    "order": 105
+  },
+  {
+    "name": "No More Time",
+    "id": "74537",
+    "order": 106
+  },
+  {
+    "name": "Can't Beat the Rock",
+    "id": "73462",
+    "order": 107
+  },
+  {
+    "name": "Hot Rod",
+    "id": "122570",
+    "order": 108
+  },
+  {
+    "name": "Caffeine Overload",
+    "id": "128056",
+    "order": 109
+  },
+  {
+    "name": "Bounded Stride - Instrumental Version",
+    "id": "106782",
+    "order": 110
+  },
+  {
+    "name": "Heartless (feat. Paul Udarov) - Instrumental Version",
+    "id": "69174",
+    "order": 111
+  },
+  {
+    "name": "We the Best",
+    "id": "124064",
+    "order": 112
+  },
+  {
+    "name": "Rockin' Youth",
+    "id": "73465",
+    "order": 113
+  },
+  {
+    "name": "Zero Gravity",
+    "id": "66522",
+    "order": 114
+  },
+  {
+    "name": "Overdrive and Vibe",
+    "id": "32005",
+    "order": 115
+  },
+  {
+    "name": "Looming over Us",
+    "id": "70654",
+    "order": 116
+  },
+  {
+    "name": "Refresh",
+    "id": "85910",
+    "order": 117
+  },
+  {
+    "name": "Magnitude",
+    "id": "96782",
+    "order": 118
+  },
+  {
+    "name": "Hang Tough",
+    "id": "125205",
+    "order": 119
+  },
+  {
+    "name": "Speedway - Instrumental Version",
+    "id": "104849",
+    "order": 120
+  },
+  {
+    "name": "Shook Up - No Lead Vocals",
+    "id": "122573",
+    "order": 121
+  },
+  {
+    "name": "We Own the Night - Instrumental Version",
+    "id": "10609",
+    "order": 122
+  },
+  {
+    "name": "Santa Cruz",
+    "id": "95433",
+    "order": 123
+  },
+  {
+    "name": "Hard & Heavy",
+    "id": "76749",
+    "order": 124
+  },
+  {
+    "name": "The Vortex - Instrumental Version",
+    "id": "103708",
+    "order": 125
+  },
+  {
+    "name": "Gonna Be a Big Man",
+    "id": "84204",
+    "order": 126
+  },
+  {
+    "name": "Hammers",
+    "id": "3069",
+    "order": 127
+  },
+  {
+    "name": "Return Ticket",
+    "id": "125282",
+    "order": 128
+  },
+  {
+    "name": "Metal Warrior - Instrumental Version",
+    "id": "115685",
+    "order": 129
+  },
+  {
+    "name": "UNTOUCHABLE - No Lead Vocals",
+    "id": "124722",
+    "order": 130
+  },
+  {
+    "name": "Big Black Bull",
+    "id": "116217",
+    "order": 131
+  },
+  {
+    "name": "Right Now",
+    "id": "115431",
+    "order": 132
+  },
+  {
+    "name": "High and Low",
+    "id": "122574",
+    "order": 133
+  },
+  {
+    "name": "Brainstorm",
+    "id": "48800",
+    "order": 134
+  },
+  {
+    "name": "More Gain",
+    "id": "74544",
+    "order": 135
+  },
+  {
+    "name": "Thump",
+    "id": "100163",
+    "order": 136
+  },
+  {
+    "name": "Fun next Door",
+    "id": "73463",
+    "order": 137
+  },
+  {
+    "name": "Breaking Balls",
+    "id": "98759",
+    "order": 138
+  },
+  {
+    "name": "Dirty Business",
+    "id": "130260",
+    "order": 139
+  },
+  {
+    "name": "On the Way Up",
+    "id": "126411",
+    "order": 140
+  },
+  {
+    "name": "Fuel",
+    "id": "97321",
+    "order": 141
+  },
+  {
+    "name": "How the Story Goes - No Lead Vocals",
+    "id": "109005",
+    "order": 142
+  },
+  {
+    "name": "In the Labyrinths of Hell",
+    "id": "94667",
+    "order": 143
+  },
+  {
+    "name": "Metal Warrior",
+    "id": "115684",
+    "order": 144
+  },
+  {
+    "name": "To the Max",
+    "id": "74169",
+    "order": 145
+  },
+  {
+    "name": "Drive Ahead",
+    "id": "97320",
+    "order": 146
+  },
+  {
+    "name": "Driving Zone",
+    "id": "66186",
+    "order": 147
+  },
+  {
+    "name": "Towards Trouble",
+    "id": "128057",
+    "order": 148
+  },
+  {
+    "name": "Indian",
+    "id": "130224",
+    "order": 149
+  },
+  {
+    "name": "Cold Light (feat. Jimmie Strimell) - Instrumental Version",
+    "id": "76346",
+    "order": 150
+  },
+  {
+    "name": "On the Way - Alternative Version",
+    "id": "4545",
+    "order": 151
+  },
+  {
+    "name": "Spark",
+    "id": "120266",
+    "order": 152
+  },
+  {
+    "name": "Blinded",
+    "id": "120055",
+    "order": 153
+  },
+  {
+    "name": "Another Round of Glory - Instrumental Version",
+    "id": "9179",
+    "order": 154
+  },
+  {
+    "name": "Garage Sale",
+    "id": "3738",
+    "order": 155
+  },
+  {
+    "name": "Here I Go Again - Instrumental Version",
+    "id": "100104",
+    "order": 156
+  },
+  {
+    "name": "On the Way Up - No Lead Vocals",
+    "id": "126413",
+    "order": 157
+  },
+  {
+    "name": "Brickwall",
+    "id": "56678",
+    "order": 158
+  },
+  {
+    "name": "Go Cowboy",
+    "id": "39540",
+    "order": 159
+  },
+  {
+    "name": "Test Me - Stripped Version",
+    "id": "77610",
+    "order": 160
+  },
+  {
+    "name": "Back to the Streets",
+    "id": "66187",
+    "order": 161
+  },
+  {
+    "name": "Beyond the Past - Instrumental Version",
+    "id": "35532",
+    "order": 162
+  },
+  {
+    "name": "Give It All",
+    "id": "121757",
+    "order": 163
+  },
+  {
+    "name": "Out to Get Me - Instrumental Version",
+    "id": "126990",
+    "order": 164
+  },
+  {
+    "name": "To the Party - Instrumental Version",
+    "id": "116568",
+    "order": 165
+  },
+  {
+    "name": "Let Go - Instrumental Version",
+    "id": "77643",
+    "order": 166
+  },
+  {
+    "name": "Test Me",
+    "id": "124060",
+    "order": 167
+  },
+  {
+    "name": "Meet My Eyes",
+    "id": "125098",
+    "order": 168
+  },
+  {
+    "name": "Charger",
+    "id": "56240",
+    "order": 169
+  },
+  {
+    "name": "Fired Up!",
+    "id": "119965",
+    "order": 170
+  },
+  {
+    "name": "SHIBUYA - Instrumental Version",
+    "id": "119832",
+    "order": 171
+  },
+  {
+    "name": "Meet My Eyes - No Backing Vocals",
+    "id": "125099",
+    "order": 172
+  },
+  {
+    "name": "Say Yeah!",
+    "id": "75417",
+    "order": 173
+  },
+  {
+    "name": "Keep Me Alive",
+    "id": "74545",
+    "order": 174
+  },
+  {
+    "name": "Speaker Cranker",
+    "id": "107463",
+    "order": 175
+  },
+  {
+    "name": "To the Party",
+    "id": "116567",
+    "order": 176
+  },
+  {
+    "name": "On the Way - Alternative - Instrumental Version",
+    "id": "4547",
+    "order": 177
+  },
+  {
+    "name": "Left the Hood - Instrumental Version",
+    "id": "124058",
+    "order": 178
+  },
+  {
+    "name": "On the Way Up - Instrumental Version",
+    "id": "126412",
+    "order": 179
+  },
+  {
+    "name": "Hard to Control",
+    "id": "123394",
+    "order": 180
+  },
+  {
+    "name": "Big Bad Boss - No Backing Vocals",
+    "id": "125049",
+    "order": 181
+  },
+  {
+    "name": "On the Dark Side",
+    "id": "63708",
+    "order": 182
+  },
+  {
+    "name": "Shouting My Name",
+    "id": "125050",
+    "order": 183
+  },
+  {
+    "name": "Hurry Up!",
+    "id": "122330",
+    "order": 184
+  },
+  {
+    "name": "Others Will Rise",
+    "id": "56238",
+    "order": 185
+  },
+  {
+    "name": "Raw",
+    "id": "97324",
+    "order": 186
+  },
+  {
+    "name": "Swing",
+    "id": "100161",
+    "order": 187
+  },
+  {
+    "name": "UNTOUCHABLE - Instrumental Version",
+    "id": "124721",
+    "order": 188
+  },
+  {
+    "name": "Grinding Bones",
+    "id": "81341",
+    "order": 189
+  }
+]

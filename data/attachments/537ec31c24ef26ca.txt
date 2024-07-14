@@ -1,0 +1,952 @@
+[
+  {
+    "name": "Gate to Eternity - No Backing Vocals",
+    "id": "126456",
+    "order": 0
+  },
+  {
+    "name": "Legend Is Born",
+    "id": "130289",
+    "order": 1
+  },
+  {
+    "name": "Mystery Box",
+    "id": "115328",
+    "order": 2
+  },
+  {
+    "name": "Neanderthal",
+    "id": "123457",
+    "order": 3
+  },
+  {
+    "name": "March of the People",
+    "id": "127525",
+    "order": 4
+  },
+  {
+    "name": "A New Beginning",
+    "id": "122478",
+    "order": 5
+  },
+  {
+    "name": "Ready for Assault",
+    "id": "116999",
+    "order": 6
+  },
+  {
+    "name": "Night Crusader",
+    "id": "126384",
+    "order": 7
+  },
+  {
+    "name": "Interference",
+    "id": "126527",
+    "order": 8
+  },
+  {
+    "name": "The Next Step",
+    "id": "125752",
+    "order": 9
+  },
+  {
+    "name": "delusion",
+    "id": "123408",
+    "order": 10
+  },
+  {
+    "name": "Forged in Combat",
+    "id": "94098",
+    "order": 11
+  },
+  {
+    "name": "From the Depths",
+    "id": "130079",
+    "order": 12
+  },
+  {
+    "name": "Defiance",
+    "id": "64143",
+    "order": 13
+  },
+  {
+    "name": "Underworld",
+    "id": "114594",
+    "order": 14
+  },
+  {
+    "name": "Infinite Circles",
+    "id": "129844",
+    "order": 15
+  },
+  {
+    "name": "Venom",
+    "id": "89867",
+    "order": 16
+  },
+  {
+    "name": "With Odin's Help",
+    "id": "122598",
+    "order": 17
+  },
+  {
+    "name": "it's all in your head",
+    "id": "122357",
+    "order": 18
+  },
+  {
+    "name": "Jungle Pulse - Instrumental Version",
+    "id": "120200",
+    "order": 19
+  },
+  {
+    "name": "Kings Rising - Instrumental Version",
+    "id": "116606",
+    "order": 20
+  },
+  {
+    "name": "Revolt",
+    "id": "123456",
+    "order": 21
+  },
+  {
+    "name": "Invasion",
+    "id": "122485",
+    "order": 22
+  },
+  {
+    "name": "Lockdown",
+    "id": "116211",
+    "order": 23
+  },
+  {
+    "name": "Towards Trouble",
+    "id": "128057",
+    "order": 24
+  },
+  {
+    "name": "UNTOUCHABLE - Instrumental Version",
+    "id": "124721",
+    "order": 25
+  },
+  {
+    "name": "Slithering Woe",
+    "id": "120141",
+    "order": 26
+  },
+  {
+    "name": "Flying Aces",
+    "id": "90066",
+    "order": 27
+  },
+  {
+    "name": "Prism",
+    "id": "116542",
+    "order": 28
+  },
+  {
+    "name": "Chemtrails",
+    "id": "67116",
+    "order": 29
+  },
+  {
+    "name": "Cyclopean",
+    "id": "116813",
+    "order": 30
+  },
+  {
+    "name": "Wrath of Ruth",
+    "id": "119605",
+    "order": 31
+  },
+  {
+    "name": "Blume",
+    "id": "122603",
+    "order": 32
+  },
+  {
+    "name": "Final Confrontation",
+    "id": "124304",
+    "order": 33
+  },
+  {
+    "name": "Outlawz - Instrumental Version",
+    "id": "115883",
+    "order": 34
+  },
+  {
+    "name": "The Fire Gate - Slowed and Reverbed",
+    "id": "118592",
+    "order": 35
+  },
+  {
+    "name": "Malignant Stare",
+    "id": "116219",
+    "order": 36
+  },
+  {
+    "name": "Monster Within",
+    "id": "113401",
+    "order": 37
+  },
+  {
+    "name": "Run Fast",
+    "id": "113357",
+    "order": 38
+  },
+  {
+    "name": "Alien",
+    "id": "109453",
+    "order": 39
+  },
+  {
+    "name": "Andromeda - Instrumental Version",
+    "id": "102511",
+    "order": 40
+  },
+  {
+    "name": "Hell Awakens",
+    "id": "115835",
+    "order": 41
+  },
+  {
+    "name": "The Walking",
+    "id": "115994",
+    "order": 42
+  },
+  {
+    "name": "Footprints",
+    "id": "114590",
+    "order": 43
+  },
+  {
+    "name": "Walk Faster - Drums Version",
+    "id": "58287",
+    "order": 44
+  },
+  {
+    "name": "Dark Spirits",
+    "id": "115678",
+    "order": 45
+  },
+  {
+    "name": "Infection",
+    "id": "124303",
+    "order": 46
+  },
+  {
+    "name": "Lockdown",
+    "id": "78404",
+    "order": 47
+  },
+  {
+    "name": "Interplanetary",
+    "id": "120841",
+    "order": 48
+  },
+  {
+    "name": "Compulsion",
+    "id": "116998",
+    "order": 49
+  },
+  {
+    "name": "Into the Fire",
+    "id": "115681",
+    "order": 50
+  },
+  {
+    "name": "The Master",
+    "id": "98297",
+    "order": 51
+  },
+  {
+    "name": "Yesterday Has yet to Come",
+    "id": "93098",
+    "order": 52
+  },
+  {
+    "name": "This Life of Time",
+    "id": "80135",
+    "order": 53
+  },
+  {
+    "name": "No Regrets",
+    "id": "115834",
+    "order": 54
+  },
+  {
+    "name": "there are no spiders",
+    "id": "122358",
+    "order": 55
+  },
+  {
+    "name": "Arise a Legend",
+    "id": "102413",
+    "order": 56
+  },
+  {
+    "name": "Monster from the Deep",
+    "id": "75170",
+    "order": 57
+  },
+  {
+    "name": "Broken Hope",
+    "id": "94102",
+    "order": 58
+  },
+  {
+    "name": "Way to Victory",
+    "id": "122565",
+    "order": 59
+  },
+  {
+    "name": "Ablaze",
+    "id": "38177",
+    "order": 60
+  },
+  {
+    "name": "Fighter",
+    "id": "67786",
+    "order": 61
+  },
+  {
+    "name": "Last Word",
+    "id": "80462",
+    "order": 62
+  },
+  {
+    "name": "Blades",
+    "id": "116812",
+    "order": 63
+  },
+  {
+    "name": "Departure",
+    "id": "115192",
+    "order": 64
+  },
+  {
+    "name": "Helvv Kryd (Holy Wars)",
+    "id": "65571",
+    "order": 65
+  },
+  {
+    "name": "So It Begins",
+    "id": "88731",
+    "order": 66
+  },
+  {
+    "name": "Hourglass",
+    "id": "43555",
+    "order": 67
+  },
+  {
+    "name": "Timelapse",
+    "id": "15124",
+    "order": 68
+  },
+  {
+    "name": "Vicious Attack",
+    "id": "31511",
+    "order": 69
+  },
+  {
+    "name": "Just the Beginning",
+    "id": "86745",
+    "order": 70
+  },
+  {
+    "name": "Retaliation",
+    "id": "114596",
+    "order": 71
+  },
+  {
+    "name": "Conquerors",
+    "id": "113577",
+    "order": 72
+  },
+  {
+    "name": "Climb High",
+    "id": "113358",
+    "order": 73
+  },
+  {
+    "name": "The Grand Chopin Nocturne",
+    "id": "78147",
+    "order": 74
+  },
+  {
+    "name": "Impavid",
+    "id": "10552",
+    "order": 75
+  },
+  {
+    "name": "In a Way in a Love (feat. Juliet Lyons)",
+    "id": "32704",
+    "order": 76
+  },
+  {
+    "name": "Arena",
+    "id": "75438",
+    "order": 77
+  },
+  {
+    "name": "Into the Fury",
+    "id": "116997",
+    "order": 78
+  },
+  {
+    "name": "Identify",
+    "id": "80463",
+    "order": 79
+  },
+  {
+    "name": "Supercluster",
+    "id": "68655",
+    "order": 80
+  },
+  {
+    "name": "On-Off",
+    "id": "74811",
+    "order": 81
+  },
+  {
+    "name": "Mount Everest",
+    "id": "92614",
+    "order": 82
+  },
+  {
+    "name": "Among the Stars",
+    "id": "6317",
+    "order": 83
+  },
+  {
+    "name": "Impenetrable",
+    "id": "44350",
+    "order": 84
+  },
+  {
+    "name": "Adventures and Dragons",
+    "id": "68352",
+    "order": 85
+  },
+  {
+    "name": "The Wild West",
+    "id": "12565",
+    "order": 86
+  },
+  {
+    "name": "Unbreakable Code",
+    "id": "116220",
+    "order": 87
+  },
+  {
+    "name": "Supernova",
+    "id": "7084",
+    "order": 88
+  },
+  {
+    "name": "Game Over",
+    "id": "86744",
+    "order": 89
+  },
+  {
+    "name": "Promised Land",
+    "id": "122436",
+    "order": 90
+  },
+  {
+    "name": "Genesis - Instrumental Version",
+    "id": "112258",
+    "order": 91
+  },
+  {
+    "name": "Anxiety",
+    "id": "65371",
+    "order": 92
+  },
+  {
+    "name": "Galaxy Destroyers",
+    "id": "85833",
+    "order": 93
+  },
+  {
+    "name": "Aftermath",
+    "id": "51405",
+    "order": 94
+  },
+  {
+    "name": "Lost",
+    "id": "68355",
+    "order": 95
+  },
+  {
+    "name": "Getting Ready",
+    "id": "9108",
+    "order": 96
+  },
+  {
+    "name": "Portals",
+    "id": "78802",
+    "order": 97
+  },
+  {
+    "name": "Destiny",
+    "id": "102516",
+    "order": 98
+  },
+  {
+    "name": "Exceptional",
+    "id": "107835",
+    "order": 99
+  },
+  {
+    "name": "Discovery",
+    "id": "17158",
+    "order": 100
+  },
+  {
+    "name": "Patriotic Man",
+    "id": "10054",
+    "order": 101
+  },
+  {
+    "name": "Rising Above",
+    "id": "37594",
+    "order": 102
+  },
+  {
+    "name": "Singularity",
+    "id": "4734",
+    "order": 103
+  },
+  {
+    "name": "Bones",
+    "id": "8181",
+    "order": 104
+  },
+  {
+    "name": "Countdown to Destruction",
+    "id": "76747",
+    "order": 105
+  },
+  {
+    "name": "They Will Come Soon",
+    "id": "41756",
+    "order": 106
+  },
+  {
+    "name": "Metal Warrior",
+    "id": "115684",
+    "order": 107
+  },
+  {
+    "name": "Zaphenath-Paneah",
+    "id": "73459",
+    "order": 108
+  },
+  {
+    "name": "Aftermath",
+    "id": "89866",
+    "order": 109
+  },
+  {
+    "name": "No Regrets",
+    "id": "122562",
+    "order": 110
+  },
+  {
+    "name": "Escapee",
+    "id": "90128",
+    "order": 111
+  },
+  {
+    "name": "Rainy Day",
+    "id": "2450",
+    "order": 112
+  },
+  {
+    "name": "Yeah, Why Not",
+    "id": "33036",
+    "order": 113
+  },
+  {
+    "name": "Explosion",
+    "id": "39244",
+    "order": 114
+  },
+  {
+    "name": "Blue Sea",
+    "id": "32335",
+    "order": 115
+  },
+  {
+    "name": "Daylight",
+    "id": "60871",
+    "order": 116
+  },
+  {
+    "name": "There Is No Time",
+    "id": "31510",
+    "order": 117
+  },
+  {
+    "name": "Tales",
+    "id": "110227",
+    "order": 118
+  },
+  {
+    "name": "What We've Built",
+    "id": "75160",
+    "order": 119
+  },
+  {
+    "name": "Shipwreck in the Sahara",
+    "id": "92446",
+    "order": 120
+  },
+  {
+    "name": "Wake Up Call",
+    "id": "52478",
+    "order": 121
+  },
+  {
+    "name": "War Paint",
+    "id": "84160",
+    "order": 122
+  },
+  {
+    "name": "Into the Storm",
+    "id": "3061",
+    "order": 123
+  },
+  {
+    "name": "Babylon",
+    "id": "73458",
+    "order": 124
+  },
+  {
+    "name": "Wildfire",
+    "id": "104318",
+    "order": 125
+  },
+  {
+    "name": "Fallen",
+    "id": "12965",
+    "order": 126
+  },
+  {
+    "name": "Polemos Mons",
+    "id": "61241",
+    "order": 127
+  },
+  {
+    "name": "People Power",
+    "id": "44353",
+    "order": 128
+  },
+  {
+    "name": "To the Edge 1",
+    "id": "12274",
+    "order": 129
+  },
+  {
+    "name": "In the Beginning",
+    "id": "8185",
+    "order": 130
+  },
+  {
+    "name": "Thunder Army",
+    "id": "70236",
+    "order": 131
+  },
+  {
+    "name": "Fall",
+    "id": "34529",
+    "order": 132
+  },
+  {
+    "name": "Hypnotize",
+    "id": "11293",
+    "order": 133
+  },
+  {
+    "name": "Hard Way",
+    "id": "86948",
+    "order": 134
+  },
+  {
+    "name": "In the End",
+    "id": "76896",
+    "order": 135
+  },
+  {
+    "name": "Spider Web",
+    "id": "43553",
+    "order": 136
+  },
+  {
+    "name": "Storm",
+    "id": "73567",
+    "order": 137
+  },
+  {
+    "name": "Deadline",
+    "id": "64448",
+    "order": 138
+  },
+  {
+    "name": "Mammoth",
+    "id": "102512",
+    "order": 139
+  },
+  {
+    "name": "Counter Strike",
+    "id": "64146",
+    "order": 140
+  },
+  {
+    "name": "Blood on Ice",
+    "id": "64334",
+    "order": 141
+  },
+  {
+    "name": "Kiss of Death",
+    "id": "47690",
+    "order": 142
+  },
+  {
+    "name": "Epic Battle",
+    "id": "9315",
+    "order": 143
+  },
+  {
+    "name": "Taste of Defeat",
+    "id": "56220",
+    "order": 144
+  },
+  {
+    "name": "Dark Forces",
+    "id": "76748",
+    "order": 145
+  },
+  {
+    "name": "Image",
+    "id": "54204",
+    "order": 146
+  },
+  {
+    "name": "They Thought I Was Mad",
+    "id": "70015",
+    "order": 147
+  },
+  {
+    "name": "Wisdom Blade",
+    "id": "3611",
+    "order": 148
+  },
+  {
+    "name": "Night of Heroes",
+    "id": "12148",
+    "order": 149
+  },
+  {
+    "name": "Thunder",
+    "id": "32339",
+    "order": 150
+  },
+  {
+    "name": "A New Breed",
+    "id": "82123",
+    "order": 151
+  },
+  {
+    "name": "Riven",
+    "id": "105522",
+    "order": 152
+  },
+  {
+    "name": "Pegasus",
+    "id": "47446",
+    "order": 153
+  },
+  {
+    "name": "Annihilator",
+    "id": "65860",
+    "order": 154
+  },
+  {
+    "name": "Revolution",
+    "id": "32754",
+    "order": 155
+  },
+  {
+    "name": "Metal",
+    "id": "4736",
+    "order": 156
+  },
+  {
+    "name": "Fortitude",
+    "id": "56657",
+    "order": 157
+  },
+  {
+    "name": "Birds of Paradise",
+    "id": "43557",
+    "order": 158
+  },
+  {
+    "name": "Fire at Will",
+    "id": "31508",
+    "order": 159
+  },
+  {
+    "name": "Hunt",
+    "id": "34531",
+    "order": 160
+  },
+  {
+    "name": "Catalonia",
+    "id": "51080",
+    "order": 161
+  },
+  {
+    "name": "What's Your Story?",
+    "id": "64452",
+    "order": 162
+  },
+  {
+    "name": "Echoes",
+    "id": "102499",
+    "order": 163
+  },
+  {
+    "name": "Magnify",
+    "id": "64145",
+    "order": 164
+  },
+  {
+    "name": "Wishmaker",
+    "id": "76953",
+    "order": 165
+  },
+  {
+    "name": "Pendulum Above Us",
+    "id": "14258",
+    "order": 166
+  },
+  {
+    "name": "The Road",
+    "id": "56066",
+    "order": 167
+  },
+  {
+    "name": "Aspirate",
+    "id": "12731",
+    "order": 168
+  },
+  {
+    "name": "Lux Inspira",
+    "id": "77536",
+    "order": 169
+  },
+  {
+    "name": "Unsafe Zone",
+    "id": "50728",
+    "order": 170
+  },
+  {
+    "name": "Devils and Demons",
+    "id": "67190",
+    "order": 171
+  },
+  {
+    "name": "Horizon - Instrumental Version",
+    "id": "102515",
+    "order": 172
+  },
+  {
+    "name": "Imposters",
+    "id": "61243",
+    "order": 173
+  },
+  {
+    "name": "No Hesitation",
+    "id": "46722",
+    "order": 174
+  },
+  {
+    "name": "Fallen - Instrumental Version",
+    "id": "32729",
+    "order": 175
+  },
+  {
+    "name": "From the Ashes",
+    "id": "64144",
+    "order": 176
+  },
+  {
+    "name": "Epic Paintball Game",
+    "id": "49133",
+    "order": 177
+  },
+  {
+    "name": "Through the Heaven",
+    "id": "36857",
+    "order": 178
+  },
+  {
+    "name": "Squad Kill",
+    "id": "100885",
+    "order": 179
+  },
+  {
+    "name": "Heart of the Universe - No Backing Vocals",
+    "id": "126290",
+    "order": 180
+  },
+  {
+    "name": "Ghost Waltz - Theremin, Pads & Bells",
+    "id": "8803",
+    "order": 181
+  },
+  {
+    "name": "Lost",
+    "id": "37683",
+    "order": 182
+  },
+  {
+    "name": "Mystery Island - Instrumental Version",
+    "id": "119485",
+    "order": 183
+  },
+  {
+    "name": "Everlasting",
+    "id": "95403",
+    "order": 184
+  },
+  {
+    "name": "Corals Under The Sun - Remix - Instrumental Version",
+    "id": "47097",
+    "order": 185
+  },
+  {
+    "name": "From Dust - No Zurna",
+    "id": "80467",
+    "order": 186
+  },
+  {
+    "name": "A New Dawn",
+    "id": "102501",
+    "order": 187
+  },
+  {
+    "name": "Helvv Kryd (Holy Wars) - Instrumental Version",
+    "id": "65570",
+    "order": 188
+  },
+  {
+    "name": "Black Willow",
+    "id": "74487",
+    "order": 189
+  }
+]

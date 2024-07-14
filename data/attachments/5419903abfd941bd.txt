@@ -1,0 +1,602 @@
+[
+  {
+    "query": "fire",
+    "name": "Never Lost",
+    "id": "64387",
+    "second_level": "5019"
+  },
+  {
+    "query": "fire",
+    "name": "Guide",
+    "id": "12058",
+    "second_level": "1358"
+  },
+  {
+    "query": "fire",
+    "name": "Shouldn't Have Met You",
+    "id": "73261",
+    "second_level": "5721"
+  },
+  {
+    "query": "fire",
+    "name": "Saturday Night in Afikim",
+    "id": "112204",
+    "second_level": "8968"
+  },
+  {
+    "query": "fire",
+    "name": "I Followed Fallen Leaves",
+    "id": "42060",
+    "second_level": "3151"
+  },
+  {
+    "query": "fire",
+    "name": "I Want To",
+    "id": "92548",
+    "second_level": "7484"
+  },
+  {
+    "query": "fire",
+    "name": "I Have Waited for You",
+    "id": "12398",
+    "second_level": "1391"
+  },
+  {
+    "query": "fire",
+    "name": "Cold Mornings  Slow Motion",
+    "id": "98275",
+    "second_level": "7987"
+  },
+  {
+    "query": "fire",
+    "name": "For Another",
+    "id": "73260",
+    "second_level": "5721"
+  },
+  {
+    "query": "fire",
+    "name": "Pretend",
+    "id": "89963",
+    "second_level": "6279"
+  },
+  {
+    "query": "fire",
+    "name": "I See",
+    "id": "3548",
+    "second_level": "464"
+  },
+  {
+    "query": "fire",
+    "name": "Your Grace",
+    "id": "9337",
+    "second_level": "1068"
+  },
+  {
+    "query": "fire",
+    "name": "Radio Up",
+    "id": "92431",
+    "second_level": "7455"
+  },
+  {
+    "query": "fire",
+    "name": "What Is Loving Anymore",
+    "id": "57309",
+    "second_level": "4392"
+  },
+  {
+    "query": "fire",
+    "name": "Top of the Rock",
+    "id": "119547",
+    "second_level": "9692"
+  },
+  {
+    "query": "fire",
+    "name": "Morning Snow",
+    "id": "35552",
+    "second_level": "2636"
+  },
+  {
+    "query": "fire",
+    "name": "Something That I Used to Be",
+    "id": "98277",
+    "second_level": "7987"
+  },
+  {
+    "query": "fire",
+    "name": "The Best Thing",
+    "id": "60933",
+    "second_level": "4676"
+  },
+  {
+    "query": "fire",
+    "name": "Una y Dos",
+    "id": "10920",
+    "second_level": "1240"
+  },
+  {
+    "query": "fire",
+    "name": "Marineros - Instrumental Version",
+    "id": "47111",
+    "second_level": "3493"
+  },
+  {
+    "query": "fire",
+    "name": "Strung Out in the Heartland",
+    "id": "15236",
+    "second_level": "1712"
+  },
+  {
+    "query": "fire",
+    "name": "Be Here",
+    "id": "75174",
+    "second_level": "5938"
+  },
+  {
+    "query": "fire",
+    "name": "Orange Avenue",
+    "id": "83146",
+    "second_level": "6739"
+  },
+  {
+    "query": "fire",
+    "name": "Postcard Weather",
+    "id": "64391",
+    "second_level": "5019"
+  },
+  {
+    "query": "fire",
+    "name": "Friday Night in Afikim",
+    "id": "112205",
+    "second_level": "8968"
+  },
+  {
+    "query": "fire",
+    "name": "Begin Again",
+    "id": "34345",
+    "second_level": "2537"
+  },
+  {
+    "query": "fire",
+    "name": "Practice Fire",
+    "id": "34348",
+    "second_level": "2537"
+  },
+  {
+    "query": "fire",
+    "name": "Push Me out to Sea",
+    "id": "11934",
+    "second_level": "1343"
+  },
+  {
+    "query": "fire",
+    "name": "You're Not Alone",
+    "id": "86324",
+    "second_level": "7057"
+  },
+  {
+    "query": "fire",
+    "name": "Escape the Tower - Instrumental Version",
+    "id": "119993",
+    "second_level": "9774"
+  },
+  {
+    "query": "fire",
+    "name": "Alien Planet Killer",
+    "id": "76750",
+    "second_level": "6107"
+  },
+  {
+    "query": "fire",
+    "name": "Run Fast",
+    "id": "113357",
+    "second_level": "9058"
+  },
+  {
+    "query": "fire",
+    "name": "Power It Up",
+    "id": "119551",
+    "second_level": "9692"
+  },
+  {
+    "query": "fire",
+    "name": "Next Time",
+    "id": "34347",
+    "second_level": "2537"
+  },
+  {
+    "query": "fire",
+    "name": "Imposters",
+    "id": "61243",
+    "second_level": "4716"
+  },
+  {
+    "query": "fire",
+    "name": "Carolina",
+    "id": "75245",
+    "second_level": "5947"
+  },
+  {
+    "query": "fire",
+    "name": "Candy Apple Red",
+    "id": "102109",
+    "second_level": "8259"
+  },
+  {
+    "query": "fire",
+    "name": "White Picket Fence",
+    "id": "57310",
+    "second_level": "4392"
+  },
+  {
+    "query": "fire",
+    "name": "Eye of the Storm - Instrumental Version",
+    "id": "119550",
+    "second_level": "9692"
+  },
+  {
+    "query": "fire",
+    "name": "Waiting for the Storm to Break",
+    "id": "4465",
+    "second_level": "554"
+  },
+  {
+    "query": "fire",
+    "name": "The Land That Time Forgot",
+    "id": "68856",
+    "second_level": "5407"
+  },
+  {
+    "query": "fire",
+    "name": "Wait for Me",
+    "id": "10031",
+    "second_level": "1150"
+  },
+  {
+    "query": "fire",
+    "name": "De Corazon",
+    "id": "8648",
+    "second_level": "983"
+  },
+  {
+    "query": "fire",
+    "name": "Orange",
+    "id": "4388",
+    "second_level": "545"
+  },
+  {
+    "query": "fire",
+    "name": "Family",
+    "id": "35340",
+    "second_level": "2611"
+  },
+  {
+    "query": "fire",
+    "name": "Songbird",
+    "id": "83150",
+    "second_level": "6739"
+  },
+  {
+    "query": "fire",
+    "name": "La Alegria del Valle",
+    "id": "8644",
+    "second_level": "983"
+  },
+  {
+    "query": "fire",
+    "name": "The Chase",
+    "id": "128103",
+    "second_level": "10737"
+  },
+  {
+    "query": "fire",
+    "name": "Shadowline",
+    "id": "100892",
+    "second_level": "8171"
+  },
+  {
+    "query": "fire",
+    "name": "Colossus",
+    "id": "100890",
+    "second_level": "8171"
+  },
+  {
+    "query": "fire",
+    "name": "Power It Up - Instrumental Version",
+    "id": "119549",
+    "second_level": "9692"
+  },
+  {
+    "query": "fire",
+    "name": "Dancing Wind",
+    "id": "33054",
+    "second_level": "2428"
+  },
+  {
+    "query": "fire",
+    "name": "Eye of the Storm",
+    "id": "119552",
+    "second_level": "9692"
+  },
+  {
+    "query": "fire",
+    "name": "One Day",
+    "id": "44284",
+    "second_level": "3320"
+  },
+  {
+    "query": "fire",
+    "name": "Daybreak Ritual",
+    "id": "98276",
+    "second_level": "7987"
+  },
+  {
+    "query": "fire",
+    "name": "La mano del labriego",
+    "id": "8641",
+    "second_level": "983"
+  },
+  {
+    "query": "fire",
+    "name": "Mysterious Neon Screwpines - No Backing Vocals",
+    "id": "122394",
+    "second_level": "10003"
+  },
+  {
+    "query": "fire",
+    "name": "Mind Panics",
+    "id": "103898",
+    "second_level": "8426"
+  },
+  {
+    "query": "fire",
+    "name": "Within These Walls",
+    "id": "73481",
+    "second_level": "7057"
+  },
+  {
+    "query": "fire",
+    "name": "Mas Feliz Del Mundo",
+    "id": "47105",
+    "second_level": "3493"
+  },
+  {
+    "query": "fire",
+    "name": "Unfortunate Day",
+    "id": "33033",
+    "second_level": "2426"
+  },
+  {
+    "query": "fire",
+    "name": "Refresh",
+    "id": "85910",
+    "second_level": "7019"
+  },
+  {
+    "query": "fire",
+    "name": "Arrow Flies",
+    "id": "48785",
+    "second_level": "3610"
+  },
+  {
+    "query": "fire",
+    "name": "Wrath of Ruth",
+    "id": "119605",
+    "second_level": "10051"
+  },
+  {
+    "query": "fire",
+    "name": "Climb High",
+    "id": "113358",
+    "second_level": "9058"
+  },
+  {
+    "query": "fire",
+    "name": "Real Enough for You Now",
+    "id": "34349",
+    "second_level": "2537"
+  },
+  {
+    "query": "fire",
+    "name": "The Silver Sea",
+    "id": "16726",
+    "second_level": "1908"
+  },
+  {
+    "query": "fire",
+    "name": "Una Vez Mas",
+    "id": "47108",
+    "second_level": "3493"
+  },
+  {
+    "query": "fire",
+    "name": "Angeline",
+    "id": "12460",
+    "second_level": "1399"
+  },
+  {
+    "query": "fire",
+    "name": "Tune for a Mountain",
+    "id": "10916",
+    "second_level": "1240"
+  },
+  {
+    "query": "fire",
+    "name": "In Other News",
+    "id": "122230",
+    "second_level": "9962"
+  },
+  {
+    "query": "fire",
+    "name": "Still Waters - Instrumental Version",
+    "id": "97080",
+    "second_level": "7874"
+  },
+  {
+    "query": "fire",
+    "name": "World Chase",
+    "id": "91967",
+    "second_level": "7434"
+  },
+  {
+    "query": "fire",
+    "name": "Percussion",
+    "id": "2959",
+    "second_level": "405"
+  },
+  {
+    "query": "fire",
+    "name": "Devil in the Bottle",
+    "id": "126415",
+    "second_level": "10443"
+  },
+  {
+    "query": "fire",
+    "name": "World News - Stripped Version",
+    "id": "122232",
+    "second_level": "9962"
+  },
+  {
+    "query": "fire",
+    "name": "Marcha por Siria",
+    "id": "8645",
+    "second_level": "983"
+  },
+  {
+    "query": "fire",
+    "name": "Agua",
+    "id": "10915",
+    "second_level": "1240"
+  },
+  {
+    "query": "fire",
+    "name": "Endless Love Stories",
+    "id": "10922",
+    "second_level": "1240"
+  },
+  {
+    "query": "fire",
+    "name": "Fandangillo",
+    "id": "47109",
+    "second_level": "3493"
+  },
+  {
+    "query": "fire",
+    "name": "Mysterious Neon Screwpines",
+    "id": "122393",
+    "second_level": "10003"
+  },
+  {
+    "query": "fire",
+    "name": "Spring Awakening",
+    "id": "51901",
+    "second_level": "3897"
+  },
+  {
+    "query": "fire",
+    "name": "Transformers War",
+    "id": "91966",
+    "second_level": "7434"
+  },
+  {
+    "query": "fire",
+    "name": "World News",
+    "id": "122233",
+    "second_level": "9962"
+  },
+  {
+    "query": "fire",
+    "name": "Izmir Market",
+    "id": "66634",
+    "second_level": "5218"
+  },
+  {
+    "query": "fire",
+    "name": "The Wild West",
+    "id": "12565",
+    "second_level": "1280"
+  },
+  {
+    "query": "fire",
+    "name": "Nightmare",
+    "id": "1167",
+    "second_level": "201"
+  },
+  {
+    "query": "fire",
+    "name": "Take It Easy",
+    "id": "78283",
+    "second_level": "6304"
+  },
+  {
+    "query": "fire",
+    "name": "Swift",
+    "id": "119834",
+    "second_level": "9739"
+  },
+  {
+    "query": "fire",
+    "name": "Midnight",
+    "id": "73828",
+    "second_level": "5777"
+  },
+  {
+    "query": "fire",
+    "name": "Born to Rebel",
+    "id": "82781",
+    "second_level": "6718"
+  },
+  {
+    "query": "fire",
+    "name": "Big Black Bull",
+    "id": "116217",
+    "second_level": "9382"
+  },
+  {
+    "query": "fire",
+    "name": "Flake Dance - No Synths",
+    "id": "4917",
+    "second_level": "601"
+  },
+  {
+    "query": "fire",
+    "name": "Into the Battle",
+    "id": "377",
+    "second_level": "76"
+  },
+  {
+    "query": "fire",
+    "name": "New Beginnings",
+    "id": "70677",
+    "second_level": "5546"
+  },
+  {
+    "query": "fire",
+    "name": "Supernova",
+    "id": "100893",
+    "second_level": "8171"
+  },
+  {
+    "query": "fire",
+    "name": "Mas Feliz Del Mundo - Stripped Version",
+    "id": "47107",
+    "second_level": "3493"
+  },
+  {
+    "query": "fire",
+    "name": "Jungle Pulse - Instrumental Version",
+    "id": "120200",
+    "second_level": "9825"
+  },
+  {
+    "query": "fire",
+    "name": "Navy SEALs",
+    "id": "37472",
+    "second_level": "2818"
+  },
+  {
+    "query": "fire",
+    "name": "Dark Spaces",
+    "id": "100891",
+    "second_level": "8171"
+  }
+]

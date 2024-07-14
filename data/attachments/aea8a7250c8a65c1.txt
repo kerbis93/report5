@@ -1,0 +1,602 @@
+[
+  {
+    "query": "metal",
+    "name": "Zero Gravity",
+    "id": "66522",
+    "second_level": "5213"
+  },
+  {
+    "query": "metal",
+    "name": "Head Charge",
+    "id": "56215",
+    "second_level": "4302"
+  },
+  {
+    "query": "metal",
+    "name": "Enter the Ring",
+    "id": "56214",
+    "second_level": "4302"
+  },
+  {
+    "query": "metal",
+    "name": "Heartless (feat. Paul Udarov) - Instrumental Version",
+    "id": "69174",
+    "second_level": "5433"
+  },
+  {
+    "query": "metal",
+    "name": "Stay Awake - Instrumental Version",
+    "id": "79578",
+    "second_level": "6406"
+  },
+  {
+    "query": "metal",
+    "name": "Ghost Witch",
+    "id": "56216",
+    "second_level": "4302"
+  },
+  {
+    "query": "metal",
+    "name": "Ghost Witch - Instrumental Version",
+    "id": "56213",
+    "second_level": "4302"
+  },
+  {
+    "query": "metal",
+    "name": "Who Is Your God?",
+    "id": "109256",
+    "second_level": "8171"
+  },
+  {
+    "query": "metal",
+    "name": "Cold Light (feat. Jimmie Strimell) - Instrumental Version",
+    "id": "76346",
+    "second_level": "6069"
+  },
+  {
+    "query": "metal",
+    "name": "On the Blade of the Knife",
+    "id": "64422",
+    "second_level": "4944"
+  },
+  {
+    "query": "metal",
+    "name": "Razor",
+    "id": "67312",
+    "second_level": "4944"
+  },
+  {
+    "query": "metal",
+    "name": "Crash and Burn - Instrumental Version",
+    "id": "51431",
+    "second_level": "3847"
+  },
+  {
+    "query": "metal",
+    "name": "Across the Dead Sea",
+    "id": "67313",
+    "second_level": "4944"
+  },
+  {
+    "query": "metal",
+    "name": "Phenomena",
+    "id": "115442",
+    "second_level": "9281"
+  },
+  {
+    "query": "metal",
+    "name": "The Abyss",
+    "id": "63706",
+    "second_level": "4944"
+  },
+  {
+    "query": "metal",
+    "name": "Magic Show - Instrumental Version",
+    "id": "51432",
+    "second_level": "3847"
+  },
+  {
+    "query": "metal",
+    "name": "Avalanche",
+    "id": "118472",
+    "second_level": "8055"
+  },
+  {
+    "query": "metal",
+    "name": "Cyclone",
+    "id": "99499",
+    "second_level": "8055"
+  },
+  {
+    "query": "metal",
+    "name": "Gimme the Keys",
+    "id": "107458",
+    "second_level": "8631"
+  },
+  {
+    "query": "metal",
+    "name": "Bzaat",
+    "id": "93849",
+    "second_level": "7595"
+  },
+  {
+    "query": "metal",
+    "name": "Muhabaratt",
+    "id": "93848",
+    "second_level": "7595"
+  },
+  {
+    "query": "metal",
+    "name": "Anger of the Sands",
+    "id": "99498",
+    "second_level": "8055"
+  },
+  {
+    "query": "metal",
+    "name": "Funkoholics Anonymous",
+    "id": "93847",
+    "second_level": "7595"
+  },
+  {
+    "query": "metal",
+    "name": "Shadowline",
+    "id": "100892",
+    "second_level": "8171"
+  },
+  {
+    "query": "metal",
+    "name": "Slightly Ov",
+    "id": "131005",
+    "second_level": "11264"
+  },
+  {
+    "query": "metal",
+    "name": "The Black Rider",
+    "id": "74071",
+    "second_level": "4944"
+  },
+  {
+    "query": "metal",
+    "name": "Too Many Steps - Instrumental Version",
+    "id": "85542",
+    "second_level": "6974"
+  },
+  {
+    "query": "metal",
+    "name": "She Who Thirsts",
+    "id": "131004",
+    "second_level": "11264"
+  },
+  {
+    "query": "metal",
+    "name": "World of Absolutes - Instrumental Version",
+    "id": "79572",
+    "second_level": "6406"
+  },
+  {
+    "query": "metal",
+    "name": "Shrimp Attack",
+    "id": "130835",
+    "second_level": "11204"
+  },
+  {
+    "query": "metal",
+    "name": "Believe in Together",
+    "id": "208",
+    "second_level": "47"
+  },
+  {
+    "query": "metal",
+    "name": "Paranormal - Instrumental Version",
+    "id": "35526",
+    "second_level": "1020"
+  },
+  {
+    "query": "metal",
+    "name": "Too Many Steps",
+    "id": "85543",
+    "second_level": "6974"
+  },
+  {
+    "query": "metal",
+    "name": "Mudflow",
+    "id": "118473",
+    "second_level": "8055"
+  },
+  {
+    "query": "metal",
+    "name": "Kill Confirmed",
+    "id": "93850",
+    "second_level": "7595"
+  },
+  {
+    "query": "metal",
+    "name": "Red River",
+    "id": "63707",
+    "second_level": "4944"
+  },
+  {
+    "query": "metal",
+    "name": "Escape Me",
+    "id": "81399",
+    "second_level": "6614"
+  },
+  {
+    "query": "metal",
+    "name": "All I Wanted - Instrumental Version",
+    "id": "79576",
+    "second_level": "6406"
+  },
+  {
+    "query": "metal",
+    "name": "AIA Pt. I",
+    "id": "131007",
+    "second_level": "11264"
+  },
+  {
+    "query": "metal",
+    "name": "Etry Lvel",
+    "id": "57267",
+    "second_level": "4387"
+  },
+  {
+    "query": "metal",
+    "name": "The Beast",
+    "id": "86411",
+    "second_level": "6150"
+  },
+  {
+    "query": "metal",
+    "name": "Colossus",
+    "id": "100890",
+    "second_level": "8171"
+  },
+  {
+    "query": "metal",
+    "name": "Asian Tiger",
+    "id": "122461",
+    "second_level": "10018"
+  },
+  {
+    "query": "metal",
+    "name": "Stay Awake",
+    "id": "79577",
+    "second_level": "6406"
+  },
+  {
+    "query": "metal",
+    "name": "Dark Spaces",
+    "id": "100891",
+    "second_level": "8171"
+  },
+  {
+    "query": "metal",
+    "name": "Innocent People Don't Run",
+    "id": "57270",
+    "second_level": "4387"
+  },
+  {
+    "query": "metal",
+    "name": "Fake",
+    "id": "79579",
+    "second_level": "6406"
+  },
+  {
+    "query": "metal",
+    "name": "Heartless (feat. Paul Udarov)",
+    "id": "69175",
+    "second_level": "5433"
+  },
+  {
+    "query": "metal",
+    "name": "Left of You",
+    "id": "8962",
+    "second_level": "1020"
+  },
+  {
+    "query": "metal",
+    "name": "In the Maze",
+    "id": "74073",
+    "second_level": "4944"
+  },
+  {
+    "query": "metal",
+    "name": "Supernova",
+    "id": "100893",
+    "second_level": "8171"
+  },
+  {
+    "query": "metal",
+    "name": "Bang Bang",
+    "id": "119540",
+    "second_level": "9690"
+  },
+  {
+    "query": "metal",
+    "name": "Wildling",
+    "id": "107464",
+    "second_level": "8631"
+  },
+  {
+    "query": "metal",
+    "name": "Burn Out",
+    "id": "130576",
+    "second_level": "11118"
+  },
+  {
+    "query": "metal",
+    "name": "King Vultures",
+    "id": "8961",
+    "second_level": "1020"
+  },
+  {
+    "query": "metal",
+    "name": "Shook Up",
+    "id": "107461",
+    "second_level": "8631"
+  },
+  {
+    "query": "metal",
+    "name": "Warriors of the Past",
+    "id": "81400",
+    "second_level": "6614"
+  },
+  {
+    "query": "metal",
+    "name": "Apocalypse Inside",
+    "id": "81398",
+    "second_level": "6614"
+  },
+  {
+    "query": "metal",
+    "name": "Carberos",
+    "id": "2312",
+    "second_level": "326"
+  },
+  {
+    "query": "metal",
+    "name": "Fake - Instrumental Version",
+    "id": "79580",
+    "second_level": "6406"
+  },
+  {
+    "query": "metal",
+    "name": "All I Wanted",
+    "id": "79575",
+    "second_level": "6406"
+  },
+  {
+    "query": "metal",
+    "name": "Run If You Dare",
+    "id": "60393",
+    "second_level": "4621"
+  },
+  {
+    "query": "metal",
+    "name": "Crucial Fracture",
+    "id": "8959",
+    "second_level": "1020"
+  },
+  {
+    "query": "metal",
+    "name": "Slave State",
+    "id": "8965",
+    "second_level": "1020"
+  },
+  {
+    "query": "metal",
+    "name": "Nothing to Declare!",
+    "id": "81302",
+    "second_level": "6579"
+  },
+  {
+    "query": "metal",
+    "name": "Lemon Tree",
+    "id": "81311",
+    "second_level": "6579"
+  },
+  {
+    "query": "metal",
+    "name": "Gain Over",
+    "id": "122350",
+    "second_level": "9994"
+  },
+  {
+    "query": "metal",
+    "name": "World of Absolutes",
+    "id": "79571",
+    "second_level": "6406"
+  },
+  {
+    "query": "metal",
+    "name": "Cold Light (feat. Jimmie Strimell)",
+    "id": "76345",
+    "second_level": "6069"
+  },
+  {
+    "query": "metal",
+    "name": "Blinding",
+    "id": "130809",
+    "second_level": "11191"
+  },
+  {
+    "query": "metal",
+    "name": "Space Race",
+    "id": "107462",
+    "second_level": "8631"
+  },
+  {
+    "query": "metal",
+    "name": "Imposters",
+    "id": "61243",
+    "second_level": "4716"
+  },
+  {
+    "query": "metal",
+    "name": "Astral Body",
+    "id": "73454",
+    "second_level": "5731"
+  },
+  {
+    "query": "metal",
+    "name": "Hard Way",
+    "id": "72458",
+    "second_level": "5686"
+  },
+  {
+    "query": "metal",
+    "name": "My Ever After",
+    "id": "119539",
+    "second_level": "9690"
+  },
+  {
+    "query": "metal",
+    "name": "My Ever After - Instrumental Version",
+    "id": "119560",
+    "second_level": "9690"
+  },
+  {
+    "query": "metal",
+    "name": "The Dirt",
+    "id": "102110",
+    "second_level": "8259"
+  },
+  {
+    "query": "metal",
+    "name": "Rule Breaker",
+    "id": "107460",
+    "second_level": "8631"
+  },
+  {
+    "query": "metal",
+    "name": "Speaker Cranker",
+    "id": "107463",
+    "second_level": "8631"
+  },
+  {
+    "query": "metal",
+    "name": "Silent Treatment",
+    "id": "122462",
+    "second_level": "10018"
+  },
+  {
+    "query": "metal",
+    "name": "Badlands Rage - Instrumental Version",
+    "id": "61240",
+    "second_level": "4716"
+  },
+  {
+    "query": "metal",
+    "name": "Crash and Burn",
+    "id": "51285",
+    "second_level": "3847"
+  },
+  {
+    "query": "metal",
+    "name": "Gente innocente non corre",
+    "id": "55318",
+    "second_level": "4201"
+  },
+  {
+    "query": "metal",
+    "name": "Voltage Vendetta",
+    "id": "121259",
+    "second_level": "9925"
+  },
+  {
+    "query": "metal",
+    "name": "Afterburner",
+    "id": "115683",
+    "second_level": "9304"
+  },
+  {
+    "query": "metal",
+    "name": "Hot Baby",
+    "id": "107459",
+    "second_level": "8631"
+  },
+  {
+    "query": "metal",
+    "name": "Polemos Mons",
+    "id": "61241",
+    "second_level": "4716"
+  },
+  {
+    "query": "metal",
+    "name": "My Insanity",
+    "id": "130836",
+    "second_level": "11204"
+  },
+  {
+    "query": "metal",
+    "name": "Dance of the Sugar Plum Fairy",
+    "id": "107766",
+    "second_level": "8653"
+  },
+  {
+    "query": "metal",
+    "name": "Anger Streets",
+    "id": "107457",
+    "second_level": "8631"
+  },
+  {
+    "query": "metal",
+    "name": "Saratov Incident",
+    "id": "55327",
+    "second_level": "4202"
+  },
+  {
+    "query": "metal",
+    "name": "Nandi",
+    "id": "81303",
+    "second_level": "6579"
+  },
+  {
+    "query": "metal",
+    "name": "Real Shit Boi",
+    "id": "119538",
+    "second_level": "9690"
+  },
+  {
+    "query": "metal",
+    "name": "I'm Your Leader Now",
+    "id": "128058",
+    "second_level": "10719"
+  },
+  {
+    "query": "metal",
+    "name": "Hold My Saw",
+    "id": "125052",
+    "second_level": "10305"
+  },
+  {
+    "query": "metal",
+    "name": "Metal Warrior - Instrumental Version",
+    "id": "115685",
+    "second_level": "9304"
+  },
+  {
+    "query": "metal",
+    "name": "No Regrets",
+    "id": "115834",
+    "second_level": "9324"
+  },
+  {
+    "query": "metal",
+    "name": "You Da Devil - Instrumental Version",
+    "id": "102960",
+    "second_level": "8370"
+  },
+  {
+    "query": "metal",
+    "name": "One More Time",
+    "id": "95161",
+    "second_level": "7751"
+  },
+  {
+    "query": "metal",
+    "name": "Circuitry Carnage",
+    "id": "121258",
+    "second_level": "9925"
+  }
+]

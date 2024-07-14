@@ -1,0 +1,602 @@
+[
+  {
+    "query": "france",
+    "name": "La Parisien",
+    "id": "88613",
+    "second_level": "7240"
+  },
+  {
+    "query": "france",
+    "name": "Cafe de Philosophie",
+    "id": "3118",
+    "second_level": "427"
+  },
+  {
+    "query": "france",
+    "name": "Mon Amour",
+    "id": "98320",
+    "second_level": "7995"
+  },
+  {
+    "query": "france",
+    "name": "Waltzing in Paris",
+    "id": "119996",
+    "second_level": "9775"
+  },
+  {
+    "query": "france",
+    "name": "Waltz for Europa",
+    "id": "105510",
+    "second_level": "8545"
+  },
+  {
+    "query": "france",
+    "name": "I Want You to Want Me - Instrumental Version",
+    "id": "80095",
+    "second_level": "6445"
+  },
+  {
+    "query": "france",
+    "name": "Entre les Doigts",
+    "id": "14769",
+    "second_level": "1659"
+  },
+  {
+    "query": "france",
+    "name": "La Nuit est Longue",
+    "id": "32312",
+    "second_level": "1715"
+  },
+  {
+    "query": "france",
+    "name": "Paris",
+    "id": "89172",
+    "second_level": "7287"
+  },
+  {
+    "query": "france",
+    "name": "Liberté",
+    "id": "47024",
+    "second_level": "3476"
+  },
+  {
+    "query": "france",
+    "name": "Lever de la Lune",
+    "id": "15263",
+    "second_level": "1715"
+  },
+  {
+    "query": "france",
+    "name": "Up High",
+    "id": "50988",
+    "second_level": "3807"
+  },
+  {
+    "query": "france",
+    "name": "Waltz for the Elephants",
+    "id": "81686",
+    "second_level": "6639"
+  },
+  {
+    "query": "france",
+    "name": "A Short Story of Paris",
+    "id": "3620",
+    "second_level": "475"
+  },
+  {
+    "query": "france",
+    "name": "Ou Allons Nous D'ici",
+    "id": "47021",
+    "second_level": "3476"
+  },
+  {
+    "query": "france",
+    "name": "La routa Di Un Luna Park (Will You Dance with Me Remake Version)",
+    "id": "77587",
+    "second_level": "6227"
+  },
+  {
+    "query": "france",
+    "name": "Olympia’s Aria: Les Oiseaux dans la charmille (Les Contes d'Hoffmann)",
+    "id": "112761",
+    "second_level": "9028"
+  },
+  {
+    "query": "france",
+    "name": "Vino for Two",
+    "id": "105509",
+    "second_level": "8545"
+  },
+  {
+    "query": "france",
+    "name": "Entre les Doigts - No Lead Vocals",
+    "id": "14764",
+    "second_level": "1659"
+  },
+  {
+    "query": "france",
+    "name": "Vacanze a Vaccarino",
+    "id": "35909",
+    "second_level": "2670"
+  },
+  {
+    "query": "france",
+    "name": "Un pti bout d'avenir",
+    "id": "99989",
+    "second_level": "8288"
+  },
+  {
+    "query": "france",
+    "name": "Lever de la lune - Instrumental Version",
+    "id": "15261",
+    "second_level": "1715"
+  },
+  {
+    "query": "france",
+    "name": "Un coin tranquille",
+    "id": "99990",
+    "second_level": "8288"
+  },
+  {
+    "query": "france",
+    "name": "Never Be Blue",
+    "id": "129004",
+    "second_level": "10868"
+  },
+  {
+    "query": "france",
+    "name": "Per Paura Che Si Rompa",
+    "id": "39386",
+    "second_level": "2670"
+  },
+  {
+    "query": "france",
+    "name": "Le Sculpteur",
+    "id": "2212",
+    "second_level": "311"
+  },
+  {
+    "query": "france",
+    "name": "Tupungato 2",
+    "id": "35908",
+    "second_level": "2670"
+  },
+  {
+    "query": "france",
+    "name": "On Est Bien - Instrumental Version",
+    "id": "14765",
+    "second_level": "1659"
+  },
+  {
+    "query": "france",
+    "name": "Le Coquin",
+    "id": "97319",
+    "second_level": "7899"
+  },
+  {
+    "query": "france",
+    "name": "Up High - Instrumental Version",
+    "id": "50986",
+    "second_level": "3807"
+  },
+  {
+    "query": "france",
+    "name": "La Nuit est Longue - Instrumental Version",
+    "id": "32313",
+    "second_level": "1715"
+  },
+  {
+    "query": "france",
+    "name": "Coucou",
+    "id": "119815",
+    "second_level": "9732"
+  },
+  {
+    "query": "france",
+    "name": "Au Revoir Doux Chaton",
+    "id": "97316",
+    "second_level": "7899"
+  },
+  {
+    "query": "france",
+    "name": "On Est Bien",
+    "id": "14766",
+    "second_level": "1659"
+  },
+  {
+    "query": "france",
+    "name": "Paris Je T'aime",
+    "id": "3626",
+    "second_level": "475"
+  },
+  {
+    "query": "france",
+    "name": "Entre les Doigts - Instrumental Version",
+    "id": "14768",
+    "second_level": "1659"
+  },
+  {
+    "query": "france",
+    "name": "Four Foot Shuffle",
+    "id": "105508",
+    "second_level": "8545"
+  },
+  {
+    "query": "france",
+    "name": "Coucou - Stripped Version",
+    "id": "119816",
+    "second_level": "9732"
+  },
+  {
+    "query": "france",
+    "name": "Liberté - No Lead Vocals",
+    "id": "47026",
+    "second_level": "3476"
+  },
+  {
+    "query": "france",
+    "name": "Liberté - Instrumental Version",
+    "id": "47025",
+    "second_level": "3476"
+  },
+  {
+    "query": "france",
+    "name": "Café da Manhã",
+    "id": "75601",
+    "second_level": "5983"
+  },
+  {
+    "query": "france",
+    "name": "Money Tango",
+    "id": "16890",
+    "second_level": "1936"
+  },
+  {
+    "query": "france",
+    "name": "El Diablo",
+    "id": "119995",
+    "second_level": "9775"
+  },
+  {
+    "query": "france",
+    "name": "Ou Allons Nous D'ici - No Lead Vocals",
+    "id": "47023",
+    "second_level": "3476"
+  },
+  {
+    "query": "france",
+    "name": "Cartoon Hotel",
+    "id": "35828",
+    "second_level": "475"
+  },
+  {
+    "query": "france",
+    "name": "La Nuit est Longue - No Lead Vocals",
+    "id": "32315",
+    "second_level": "1715"
+  },
+  {
+    "query": "france",
+    "name": "Ou Allons Nous D'ici - Instrumental Version",
+    "id": "47022",
+    "second_level": "3476"
+  },
+  {
+    "query": "france",
+    "name": "Silence",
+    "id": "5993",
+    "second_level": "705"
+  },
+  {
+    "query": "france",
+    "name": "C'est carré",
+    "id": "116564",
+    "second_level": "9429"
+  },
+  {
+    "query": "france",
+    "name": "COLLE SERRE",
+    "id": "116554",
+    "second_level": "9427"
+  },
+  {
+    "query": "france",
+    "name": "Hope",
+    "id": "62406",
+    "second_level": "4842"
+  },
+  {
+    "query": "france",
+    "name": "Me sugar",
+    "id": "116562",
+    "second_level": "9429"
+  },
+  {
+    "query": "france",
+    "name": "Amusement Park",
+    "id": "47131",
+    "second_level": "3496"
+  },
+  {
+    "query": "france",
+    "name": "Sunset Sky",
+    "id": "97456",
+    "second_level": "7927"
+  },
+  {
+    "query": "france",
+    "name": "Paris",
+    "id": "31917",
+    "second_level": "2302"
+  },
+  {
+    "query": "france",
+    "name": "Hold of Me",
+    "id": "54023",
+    "second_level": "4084"
+  },
+  {
+    "query": "france",
+    "name": "And He'd Say Oo-La-La! Wee Wee",
+    "id": "114928",
+    "second_level": "9218"
+  },
+  {
+    "query": "france",
+    "name": "Berthe's Lullaby",
+    "id": "88230",
+    "second_level": "7201"
+  },
+  {
+    "query": "france",
+    "name": "Aquarium",
+    "id": "76954",
+    "second_level": "6149"
+  },
+  {
+    "query": "france",
+    "name": "Moka",
+    "id": "35905",
+    "second_level": "2670"
+  },
+  {
+    "query": "france",
+    "name": "West",
+    "id": "102743",
+    "second_level": "8348"
+  },
+  {
+    "query": "france",
+    "name": "Chevalet",
+    "id": "96982",
+    "second_level": "7868"
+  },
+  {
+    "query": "france",
+    "name": "On fait la fête",
+    "id": "88379",
+    "second_level": "7219"
+  },
+  {
+    "query": "france",
+    "name": "Don't Hold Me Down - Instrumental Version",
+    "id": "5501",
+    "second_level": "649"
+  },
+  {
+    "query": "france",
+    "name": "Coucou - Instrumental Version",
+    "id": "119817",
+    "second_level": "9732"
+  },
+  {
+    "query": "france",
+    "name": "Les larmes",
+    "id": "31910",
+    "second_level": "2302"
+  },
+  {
+    "query": "france",
+    "name": "Comme Ci Comme Ca",
+    "id": "14852",
+    "second_level": "1669"
+  },
+  {
+    "query": "france",
+    "name": "Lever de la Lune - No Lead Vocals",
+    "id": "15262",
+    "second_level": "1715"
+  },
+  {
+    "query": "france",
+    "name": "Nomad Shuffle",
+    "id": "65296",
+    "second_level": "5088"
+  },
+  {
+    "query": "france",
+    "name": "AMOUBLA",
+    "id": "116556",
+    "second_level": "9427"
+  },
+  {
+    "query": "france",
+    "name": "The Bounce",
+    "id": "94407",
+    "second_level": "7678"
+  },
+  {
+    "query": "france",
+    "name": "Happy Go Lucky",
+    "id": "103035",
+    "second_level": "8380"
+  },
+  {
+    "query": "france",
+    "name": "Paris - Extended Version",
+    "id": "31915",
+    "second_level": "2302"
+  },
+  {
+    "query": "france",
+    "name": "When I Turn One - No Lead Vocals",
+    "id": "10271",
+    "second_level": "948"
+  },
+  {
+    "query": "france",
+    "name": "Toutes les nuits d'amour. (feat. L Ø V) - Extended Version",
+    "id": "31920",
+    "second_level": "2302"
+  },
+  {
+    "query": "france",
+    "name": "Vivre Dans Un Rêve",
+    "id": "102832",
+    "second_level": "8356"
+  },
+  {
+    "query": "france",
+    "name": "On the Run",
+    "id": "103034",
+    "second_level": "8380"
+  },
+  {
+    "query": "france",
+    "name": "Nice and Easy",
+    "id": "103031",
+    "second_level": "8380"
+  },
+  {
+    "query": "france",
+    "name": "Folie à deux",
+    "id": "125219",
+    "second_level": "10341"
+  },
+  {
+    "query": "france",
+    "name": "Songs for Puppets - Instrumental Version",
+    "id": "10269",
+    "second_level": "948"
+  },
+  {
+    "query": "france",
+    "name": "El Diablo - Stripped Version",
+    "id": "120000",
+    "second_level": "9775"
+  },
+  {
+    "query": "france",
+    "name": "Gandey",
+    "id": "115667",
+    "second_level": "9299"
+  },
+  {
+    "query": "france",
+    "name": "Goodness Gracious",
+    "id": "103032",
+    "second_level": "8380"
+  },
+  {
+    "query": "france",
+    "name": "Paw Prints",
+    "id": "2186",
+    "second_level": "307"
+  },
+  {
+    "query": "france",
+    "name": "Dressed in Blue - Instrumental Version",
+    "id": "10266",
+    "second_level": "948"
+  },
+  {
+    "query": "france",
+    "name": "Gnossienne No. 2",
+    "id": "87673",
+    "second_level": "7164"
+  },
+  {
+    "query": "france",
+    "name": "Gnossienne No. 6",
+    "id": "87669",
+    "second_level": "7164"
+  },
+  {
+    "query": "france",
+    "name": "What You Know About",
+    "id": "101552",
+    "second_level": "8225"
+  },
+  {
+    "query": "france",
+    "name": "The Swan",
+    "id": "60202",
+    "second_level": "4589"
+  },
+  {
+    "query": "france",
+    "name": "Waste Our Time",
+    "id": "71551",
+    "second_level": "5594"
+  },
+  {
+    "query": "france",
+    "name": "Scotland Mountains - No Backing Vocals",
+    "id": "122807",
+    "second_level": "10113"
+  },
+  {
+    "query": "france",
+    "name": "Gnossienne No. 3",
+    "id": "87672",
+    "second_level": "7164"
+  },
+  {
+    "query": "france",
+    "name": "Gnossienne No. 5",
+    "id": "87670",
+    "second_level": "7164"
+  },
+  {
+    "query": "france",
+    "name": "Gymnopédie No. 1",
+    "id": "87615",
+    "second_level": "7159"
+  },
+  {
+    "query": "france",
+    "name": "Discoball",
+    "id": "49910",
+    "second_level": "3712"
+  },
+  {
+    "query": "france",
+    "name": "This Is an Adventure",
+    "id": "3134",
+    "second_level": "429"
+  },
+  {
+    "query": "france",
+    "name": "Little Duke",
+    "id": "65295",
+    "second_level": "5088"
+  },
+  {
+    "query": "france",
+    "name": "Winter",
+    "id": "15130",
+    "second_level": "1701"
+  },
+  {
+    "query": "france",
+    "name": "Prelude (Carmen)",
+    "id": "112754",
+    "second_level": "9028"
+  },
+  {
+    "query": "france",
+    "name": "Gnossienne No. 4",
+    "id": "87671",
+    "second_level": "7164"
+  }
+]
